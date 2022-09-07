@@ -1,0 +1,81 @@
+L1: hematopoeisis and leukocyte disorders
+	- hereditary spherocytosis
+	- hereditary elliptocytosis
+	- leukopenia: WBC < 3000
+	- neutropenia: ANC (absolute neutro count) < 1500, severe < 500, very severe < 100
+	- lymphopenia ALC (absolute lympho count) < 1200
+	- eosinophilia
+
+L2: iron metabolism
+	- iron deficiency anemia
+	- thalassemia trait
+	- anemia of chronic disase / inflammation
+	- hemochromatosis
+		- genetic
+		- transfusion
+
+L3: hemolytic anemia
+	- antibody-mediated hemolytic anemia (AMHA) (coombs positive):
+		- warm - IgG
+		- cold - IgM
+	- G6PD deficiency
+	- hereditary spherocytosis
+	- hereditary elliptocytosis
+	- disseminated instravascular coagulation (DIC)
+	- thrombotic thrombocytopenia purpura (TTP)
+	- malaria
+	- paroxysmal nocturnal hemoglobinuria (PNH)
+
+L4: normal hemostasis
+	- hemophilia A - factor VIII
+	- hemophilia B - factor IX
+	- hemophilia C - XI
+
+L5: megaloblastic anemia
+	- anemia
+	- macrocytic anemias (non-megaloblastic)
+	- folate deficiency
+	- cobalamin deficiency
+		- pernicious anemia
+
+L6: prothrombotic disorders
+	- heterozygous anticoagulant protein deficiency
+	- homozygous anticoagulant protein deficiency
+	- factor V leiden - activated protein c resistance
+	- acquired hypercoagulable states
+		- inflammatory diseases
+		- nephrotic syndrome
+		- antiphospholipid syndrome
+		- TTP
+		- heparin-induced thrombocytopenia (HIT)
+		- DIC
+
+L7: thalassemias and hemoglobinopathies
+	- thalassemia
+	- hemoglobinopathy
+	- β thalassemia
+		- trait / minor
+		- intermedia
+		- major
+	- α thalassemia
+		- trait
+		- Hb H / bart's
+	- sickle cell disease
+		- anemia
+		- disease
+
+L8: bleeding disorders
+	- hemophilia A - factor VIII
+	- hemophilia B - factor IX
+	- hemophilia C - XI
+	- von willebrand disease (vWD)
+	- vitamin K deficiency
+	- immune thrombocytopenia purpura (ITP)
+	- uremic platelet dysfunction
+	- poisoned platelets
+	- medication-induced thrombocytopenia
+	- DIC
+
+L9:
+
+L10:

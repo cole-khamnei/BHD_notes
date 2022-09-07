@@ -1,0 +1,352 @@
+action potentials:
+	ions:
+		- Na+ more outside
+		- K+ more inside
+	cells:
+		- pacemaker cells (SA node)
+			- resting potential = -60mv
+			- threshold potential = -40mv
+			- depolarizes automatically
+			- action potential:
+				- O: Ca in, rapid depolarization, Ca channels open
+				- 3: "repolarization" K+ channels open
+				- 4: "spontaneous depolarization" K+ funny channels open
+			- parasympathetic stimulation:
+				- acetylcholine -> decreased funny currents -> slows rate
+
+			- sympathetic stimulation:
+				- norepinephrine -> increased funny currents -> increased rate
+				- lowers threshold for phase 0
+
+			- other effectors:
+				- hyperthyroidism -> tachycardia
+				- hyperkalemia -> bradycardia, decreased phase 4
+				- hypoxia -> bradycardia, decreased phase 4 (need ATP pumps)
+				- β-blockers -> bradycardia, stops NE/E β receptor binding
+				- digoxin -> bradycardia, increases vagal/PNS stimulation on AV node
+
+
+		- contractile myocytes
+			- resting potential = -90mv
+			- threshold potential = -70mv
+			- depolarized only when stimulated
+			- refractory periods
+				- absolute: Na channels inactivated
+				- relative: larger stimuli required
+
+			- action potential
+				- O: Na in, rapid depolarization, Na channels open
+				- 1:  "early repolarization", Na channels close, transient K+ out channels open
+				- 2: "the plateau",, slow L-type Ca channels open, K+ out remain open
+				- 3: "repolarization", slow Ca channels close, K+ channels remain open
+				- 4: K+ channels close, K+ inward rectifiers remain open
+
+excitation coupling:
+	- myocyte:
+		- sarcolemma
+			- tranverse tubular - T tubules
+				- invaginations of sarcolemma
+			- sarcoplasmic reticulum (SR): network of membrane
+			- terminal cisternae: part of SR w/ lots of Ca near T tubules
+			- contains myofibrils
+				- contains sarcomeres
+					- actin: thin, α-helix
+					- myosin: thick, globular head w/ myosin ATPase
+					- tropomyosin: double helix bound to actin, inhibits actin+myosin interaction
+					- troponin: binds to actin in grooves
+						- C: calcium binding
+						- T: tropomyosin binding
+						- I: inhibitory prevents contraction w/o Ca
+	
+	- action potential path
+		- along sacrolemma
+		- down T tubules
+		- Ca enters through L-type Ca
+		- ryanodine receptors activation
+		- intracellular Ca release from terminal cisternae
+		- Ca binds troponin -> tropomyosin form change
+		- muscle contraction
+		- Ca unbinds troponin
+	- troponin marks MI
+
+EKG vectors:
+	- directions:
+		- depolarization towards lead -> positive voltage -> positive deflection
+		- repolarization away from lead -> positive voltage -> positive deflection
+		- heart depolarizes from endocardium -> epicardium -> positive deflection
+		- heart repolarizes from epicardium -> endocardium -> positive deflection
+	- lead placement:
+		- 10 electrodes -> 12 leads
+			- 4 on extremities:
+				- each shoulder (LS, RS) and leg (LL, RL = ground)
+				- ground on right leg
+			- 6 across chest (precordium)
+				- V1 -> 4th right intercostal space
+				- V2 -> 4th left intercostal space
+				- V3-6 around chest
+		- limb leads:
+			- I: left pointing, right to left (LS - RS)
+			- II: left pointing down, right to left down 60° (LL - RS)
+			- III: right pointing down, left to right down 120° (LL - LS)
+			- aVF: down, 90° (LL - RS + LL - LS)
+			- aVL: left pointing up, -30° (LS - RS + LS - LL)
+			- aVR: right pointing up, -150° (RS - LS + RS - LL)
+		
+		- precordium leads:
+			- all relative to "reference electrode" = average of limb leads
+			- anteroseptal leads:
+				- right side of heart + ventricular septum
+				- V1 + V2
+			- anterior leads:
+				- V3 + V4
+			- anterolateral leads
+				- left side of heart
+				- V5 + V6
+		- localizing:
+			- anteroseptal wall of the LV: leads V1 and V2
+			- anterior wall of the LV: leads V3 and V4
+			- anterolateral wall of the LV: leads V5, V6, I, aVL
+			- inferior wall of the LV: leads II, III, aVF
+
+cardiac conduction system:
+	- pathway:
+		- SA node
+		- bachmann bundle: interatrial groove
+		- AV node: gatekeeper, adds delay to allow ventricular filling
+		- bundle of his: quick
+		- bundle branchs
+			- left bundle branch
+				- anterior fascicle
+				- posterior fascicle
+			- right bundle branch
+		- purkinje fibers: rapid
+	- basal firing rates:
+		- SA node: 60-100 bpm
+		- AV node: 40-60 bpm
+		- bundle of his: 30-40 bpm
+		- ventricles: 20-40 bpm
+
+	- EKG:
+		- P wave:
+			- atrial depolarization
+			- from SA node in RA
+			- depolarization vector across atria
+			orientation:
+				- positive: I, II, aVF, V4-V6
+				- diphasic: V1, V3
+				- negative: aVR
+		- PR interval:
+			- start of atrial depolarization to start ventricular depolarization
+			- start P wave -> start QRS
+			- 120-200ms (3-5 small boxes)
+			- prolong PRi -> AV block
+		- QRS complex:
+			- < 100 ms (2.5 small boxes)
+			- prolong QRS -> bundle branch blocks
+			- drowns out RV depolarization
+			- progression:
+				- starts going right, down, towards V1
+				- goes to apex, lateral wall of LV, towards V5
+				- towards basal ventricle, away from V1/V2
+			- Q wave: first down
+			- R wave: first up
+			- S wave: post-R down
+		- ST segment:
+			- end of ventricular depolarization to ventricular repolarization start
+			- end QRS -> T wave start
+			- ventricular contraction -> plateau phase of contractile myocytes
+		- T wave:
+			- ventricular repolarization
+			- same direction as R waves
+		- QT interval
+			- full depolarization to repolarization end
+			- start QRS -> end T wave
+			- < 440ms
+			- prolong QTi -> genetics, medications, ischemia, electrolyte/hormone imbalances
+				- can cause arrhythmia + sudden cardiac death
+
+EKG interpretation:
+	- each small box is .1 mv and 40ms
+	- each large box is .5 mv and 200ms
+	- method:
+		- determine heart rate:
+			- # QRS along bottom * 6 (strip is 10s)
+			- 300 / (# big boxes between QRS)
+		
+		- rhythm:
+			-sinus rhythm - must have all:
+				- every P wave followed by QRS 
+				- each QRS preceded by P wave
+				- P wave is positive in leads I + II
+				- PR interval > 120ms (3 boxes)
+		
+		- intervals:
+			- PR interval:
+				- 120-200ms (3-5 boxes)
+				- from start P wave to start QRS
+				- long -> AV block, impaired conduction from atria to ventricles
+				- short -> AV node bypass, alternate path from atria to ventricles
+			- QRS complex:
+				- <100 ms (2.5 boxes)
+				- widened -> bundle branch block
+					- extra heart beats from ventricle -> ventricular ectopy
+					- hyperkalemia
+					- anti-arrhythmia med
+			- QT interval:
+				- start QRS to end of T wave
+				- <440 sec (11 boxes, 2 big + 1 small)
+				- long -> genetic, meds, hypokalemia, hypocalcemia
+				- short -> genetic, hypercalcemia
+				- QTc = QT / sqrt(RRi) <440 sec
+				- normal QTi < 1/2 RRi
+		
+		- mean QRS axis:
+			- lead I positive -> -90° to 90°
+			- lead II positive -> -30° to 150°
+
+			- normal axis: -30° to 90°
+				- positive in I + II
+
+			- left axis deviation: -30° to -90°
+				- positive in I, negative in II
+				- causes:
+					- LVH
+					- left anterior fascicle block
+					- inferior MI
+
+			- right axis deviation: 90° to 180°
+				- negative in I, positive in II
+				- causes:
+					- RVH
+					- left posterior fascicle block
+					- PE
+
+		- P wave abnormalities:
+			- lead II:
+				- positive P wave
+			- V1:
+				- biphasic P wave
+				- RA depolarization towards V1
+				- LA depolarization away from V1
+			
+			- abnormalities:
+				- right atrial englargement (RAE)
+					- tall P wave in II (> 2.5 mm)
+					- tall positive first half P wave in V1 (> 1 mm)
+
+				- left atrial englargement (LAE)
+					- wide P wave in II (> 120s, 3 mm)
+					- tall negative second half P wave in V1 (> 1 mm)
+		
+		- QRS abnormalities:
+			- LVH:
+				- tall R waves in left side leads (V5, V6, I, aVL)
+				- deep S waves in right sided leads (V1, V2)
+				- criteria:
+					- S in V1 + max(R in V5, R in V6) >= 35 mm
+					- R in aVL > 11 mm
+					- R in aVL + S in V3 > 28 mm men or 20 mm women
+			- RVH:
+				- tall R waves in V1, V2
+				- right axis deviation
+				- citeria
+					- R > S in V1
+					- right axis deviation
+
+			- bundle branch block:
+				- conduction goes through contractile myocytes instead of purkinje fibers
+				- normal: QRSi < 100 ms, 2.5 mm
+				- incomplete BBB: QRSi = 100-120ms, 2.5-3 mm
+				- complete BBB: QRSi > 120ms, 3mm
+
+				- right bundle branch block
+					- small R wave in V1
+					- R' wave in V1 after S
+					- wide, slurred S in I, aVL, V5, V6
+					- V1-V3 ST depression and/or T wave inversion
+					- causes:
+						- RVH
+						- PE
+
+				- left bundle branch block
+					- no R in V1
+					- Q + dominant S in V1
+					- tall, wide R in V5-V6, >60 ms, 1.2 mm
+					- monophasic R in I, aVL, V5-V6
+					- no Q in V5 or V6
+					- causes:
+						- MI
+						- cardiomyopathy
+						- htn
+						- myocarditis
+						- degenertaive conduction disease
+
+		- ST-segment and T-wave abnormalities
+			- impaired O2 delivery -> STi + T changes
+				- also electrolytes, meds, genetics
+			
+			- myocardial infarction:
+				- ST elevations often have ST depressions in opposing leads
+				- non-ST elevation MI (nSTEMI):
+					- ST depressions
+						- subendocardial ischemia
+						- criteria:
+							- new horizontal or downsloping ST depression
+							- >= 0.5 mm in 2+ anatomically contiguous leads
+					- T inversions
+					- progression:
+						- hours: ST elevation + reduced R + Q wave begins
+						- 1-2 days: ST elevation + T wave inverts + Q wave deepends
+						- several days: ST normal + Q wave + inverted T
+						- weeks - months: T normal + Q wave
+
+				- ST elevation MI (STEMI):
+					- ST elevations
+						- transmural ischemia
+						- criteria:
+							- 2+ anatomically contiguous leads
+							- >= 2 mm (M) or >= 1.5 mm (F) in V2 + V3
+							- >= 1 mm in V4-V6 + limb leads
+
+				- pathologic Q waves
+					- irreversible necrosis, no electrical forces
+					- criteria:
+						- >= 40 ms, 1mm
+						- > 25% of QRS height
+				- location:
+					- V1, V2, anteroseptal, LAD
+					- V3, V4, anteroapical, LAD
+					- V5, V6, I, aVL, anterolateral, LCx
+					- II, III, aVF, inferior, RCA
+					- V1, V2 (tall R wave + ST depression), posterior, RCA
+			- LVH
+				- diffuse ST depression w/o elevation
+			
+			- neurologic T waves:
+				- deep inverted T waves
+
+			- bundle branch block
+				- slight elevation
+
+			- hyperkalemia
+				- tall tented T
+				- ST disapears
+
+			- early repolarization
+				- ST elevation I, II, III, aVF, V2-V6
+				- ST depression in aVR
+
+			- pericarditis
+				- ST elevation in all leads except aVR and V1
+
+			- LV aneurysm
+				- ST elevation
+
+
+coronary arteries:
+	- right coronary artery
+		- perfuses inferior wall of LV
+	- left anterior descending atery (LAD)
+		- perfuses anterior wall of LV
+	- left circumflex (LCx)
+		- perfuses lateral wall of LV

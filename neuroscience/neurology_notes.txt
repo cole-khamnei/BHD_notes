@@ -1,0 +1,335 @@
+lecture 32: delirium and dementia:
+	delirium:
+	dementia:
+		- neurodegenerative:
+			- alzheimers diease
+			- dementia with lewy bodies
+			- frontotemporal dementia
+				- behaviorial variant
+		- vascular
+		- mixed pathology
+		- rare:
+			- chronic traumatic encephalopath (CTE)
+			- CJD
+	primary progressive aphasia
+		- semantic dementia
+		- logopenic aphasia
+
+
+lecture 33: neurodegeneration:
+	synucleinopathies:
+		- multiple system atrophy (MSA)
+		- parkinsons disease
+		- dementia with lew bodies
+
+	tauopathies:
+		- alzheimers disease
+		- frontal temporal dementia
+		- progressive supranuclear palsy (PSP)
+		- chronic traumatic encephalopathy (CTE)
+	
+	Beta-amyloid diseases:
+		- alzheimers disease
+		- cerebral amyloid angiopathy (CAA)
+
+	polyglutamine (PolyQ) disease:
+		- huntington disease
+		- spinocerebellar ataxia (1 + 2 + 3 = 6)
+
+	prion disorders:
+		- creutzfeld-jakob disease (CJD)
+
+
+lecture 34: neoplasms:
+	- oligodendroglioma
+	- pilocytic astrocytoma
+	- diffuse astrocytoma
+	- glioblastoma
+	- ependymoma
+	- medulloblastoma
+	- meningioma
+	- schwannoma
+	- craniopharyngioma
+	- metastatic carcinoma (lung, breast, skin, kidney, colon/GI)
+
+
+lecture 35: cerebrovascular disorders I:
+	- middle cerebral artery (MCA) syndrome
+	- lacunar syndromes
+	- anterior cerebral artery (ACA) syndrome
+	- carotid artery syndromes (ACA + MCA)
+	- posterior cerebral artery (PCA) syndrome
+	- watershed infarcts
+	- vertebro-basilar atery syndromes
+	- cerebellar artery syndromes
+	- intracerebral bleeed
+
+
+lecture 36: cerebrovascular disorders II:
+	- global ischemia
+	hemorrhage:
+		- hypertensive
+		- subarachnoid
+	aneurysm:
+		- fusiform 
+
+
+lecture 37: EEG:
+	- None
+
+
+lecture 38: epilepsy:
+	seizures:
+		- provoked / acute symptomatic
+		- febrile
+		- absense
+		- myoclonic
+		- generalized tonic clonic
+		- atonic / tonic
+		- clonic 
+
+	epilepsies:
+		- temporal lobe
+		- frontal lobe
+		- benign rolandic epilepsy
+		- parietal lobe
+		- occipital lobe
+		- childhood absense epilepsy
+		- juvenile myoclonic epilepsy
+		- lennox gastaut syndrome
+	infantile spasms
+
+
+lecture 39: dx and tx of epilepsy
+	disorders:
+		- syncope
+		- sleep disorders
+			- rhythmic movement disorder
+			- restless legs syndrome
+			- REM behavior disorder
+		- psychogenic nonepileptic seizures (PNES)
+		- status epilepticus
+	drugs:
+		- focal onset and GTCS:
+			- carbamazepine / oxcabazepine
+			- phenytoin
+			- gabapentin / pregabalin
+			- lacosamide (also broad)
+		- broad spectrum:
+			- valproate
+			- lamotrigine
+			- topiramate
+			- zonisamide
+			- levetiracetam
+			- clobazam
+		absense:
+			- ethosuximide
+
+
+lecture 40: neuroinflammatory disorders:
+	- astrogliosis
+	- microgliosis
+	- multiple sclerosis
+	encephalopathy:
+		- encephalitis:
+			- meningoencephalitis
+			- autoimmune:
+				- lupus encephalitis
+				- primary angiitis
+				- paraneoplastic encephalitis
+					- limbic encephalitis
+					- nmdar encephalitis
+				- neuroscarcoidosis
+				- rasmussen's encephalitis
+				- transverse myelitis
+
+
+lecture 41: myelin disorders:
+	- multiple sclerosis
+	- acute disseminated encephalomyelitis (ADEM)
+	- neuromyelitis optica spectrum disorders (NMOSD)
+
+
+lecture 42: neurological infections
+	- meningitis
+		- bacterial
+		- tuberculous
+	- encephalitis
+		- herpes simplex virus encephalitis
+		- HIV associated encephalitis
+	- myelitis
+
+
+lecture 43: aqcuired metabolic disorders
+	vitamins:
+		- B12 (cobalamin)
+		- B3 (niacin)
+		- B6 (pyridoxine)
+		- B1 (thiamine)
+			- wernicke encephalopathy
+			- korsakoff syndrome
+		- copper deficiency
+
+	alcohol:
+		- abstinence phenomena
+			- initial syndrome
+			- delirium tremens
+		- chronic injuries
+			- cerebellar degeneration
+			- peripheral neuropath
+			- dementia
+		- B1 (thiamine deficiency)
+			- wernicke korsakoff
+
+	- central pontine myelinolysis
+	- reye syndrome
+
+
+lecture 44: pregnancy related disorders:
+	- catamenial epilepsy
+	- multiple sclerosis
+	- migraine
+	- neoplasms
+	- myasthenia gravis
+	- preeclampsia and exclampsia
+	- stroke
+	- entrapment neuropathies
+		- carpal tunnel syndrome
+		- bell balsy
+		- meralgia paresthetica
+	- movement disorders:
+		- restless legs syndrome (RLS)
+		- chorea gravidarum
+
+
+lecture 45-46: neuroembryology
+	spina bifida:
+		- occulta (bone defect)
+		- cystica (meningocele) (cyst)
+		- cystica (myelomeningocele) (cns herniation)
+		- open / myeloschisis (exposed cns)
+	anencephaly
+	dandy-walker syndrome
+	syringomyelia
+	holoprosencephaly (one)
+	lissencephaly (smooth)
+	heterotopia:
+		- subependymal/periventricular
+		- focal subcortical
+		- band form
+
+	agenesis of corpus callosum
+
+
+lecture 47: hereditary metabolic disorders:
+	small molecule:
+		- phenylketonuria (pku)
+		- maple syrup urine disease (BCKDH defect)
+		- lesch-nyhan syndrome (HGPRT defect -> high uric acid)
+		- niemann-pick disease (sphingomyelin)
+		- gaucher disease (glucocerebrosides)
+
+	gray or white matter disease:
+		both:
+			- tay-sachs disease (gangliosides)
+		poliodystrophy:
+			- neuronal ceroid lipofuscinosis
+			- haltia-santavuori (infantile)
+			- jansky bielchowsky (late infantile)
+			- batten, spielmeyer-vogt (juvenile)
+			- kufs (adult)
+
+		leukodystrophy:
+			- macrocephaly:
+				- krabbe disease (galactocerebrosides)
+				- metachromatic leukodystrophy (sulfatidyl-cerebrosides) (MLD)
+				- adrenoleukodystrophy (X-ALD)
+
+
+lecture 48: phacomatoses and chromosomal disorders
+	chromosomal abnormalities:
+		- turner syndrome (X)
+		- klinefelter syndrome (XXY)
+		- trisomy 21
+		- angelman syndrome
+		- prader-willi
+	phacomatoses:
+		- tuberous sclerosis complex (TSC)
+		- neurofibromatoses type 1 and 2
+		- sturge-weber syndrome
+		- von hippel-lindau disease
+
+
+lecture 49: congenital infections:
+	TORCH:
+		- toxoplasmosis
+		- other (syphilis)
+		- rubella
+		- cytomegalovirus (CMV)
+		- herpes simplex (HSV)
+		- zika
+
+
+lecture 50: acquired disorders of developing nervous system:
+	cerebral palsy:
+		- spastic diplegia
+		- spastic hemiplegia
+		- spastic quadriplegia
+		- movement disorders
+		- ataxic cerebral palsy
+	intraventricular hemorrhage: germinal matrix
+	brachial plexus injuries:
+		- erb palsy
+		- klumpke palsy
+		- total brachial plexus palsy
+	hyperbilirubemia:
+		- bind
+		- acute bilirubin encephalopathy
+		- kernicterus
+	fetal alcohol syndrome
+
+lecture 51: hydrocephalus:
+	- pseudotumor cerebri:
+		- vasogenic
+		- cytotoxic
+	- herniation syndromes:
+		- subfalcine
+		- central trantentorial
+		- uncal
+		- tonsillar
+		- upward herniation
+
+
+lecture 52: altered consciousness:
+	- delirium
+	- lethargic
+	- obtunded
+	- stupor
+	- coma
+	- locked in syndrome
+	- unresponsive wakefulness syndrome
+
+
+lecture 53: neural trauma I
+	- concussion
+	- hematoma:
+		- epidural
+		- subdural
+	- diffuse axonal injury
+	- reactive astrocytosis
+	- microglial activation
+
+
+lecture 54: neural trauma II:
+	staging:
+		- neuropraxia
+		- axonotmesis
+		- neurotmesis
+
+
+lecture 55: neural repair
+	neuropathology:
+		- acute contused
+		- chronic cyst
+		- laceration
+		- compression with hemorrhage / fragmentation

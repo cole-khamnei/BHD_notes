@@ -1,0 +1,544 @@
+inotropes / vasopressors:
+	- dopamine
+	- dobutamine
+		- beta agonist -> increase cAMP -> increases contractility
+		- arrhythmogenic
+		- increased risk of sudden death w/ HF
+
+	- milrinone
+		- PDE3 inhibitor -> increase cAMP -> increases contractility
+		- arrhythmogenic
+		- increased risk of sudden death w/ HF
+
+	- digoxin
+		- inhibits Na-K ATPase pump in cardiac myocytes
+			- increased Na -> increased Ca exchange -> increased contractility
+		- side effects:
+			- nausea
+			- vomiting
+			- "seeing yellow"
+			- arrhythmias
+				- PVCs
+				- accelerated junction rhythm
+				- heart block
+
+
+RAAS inhibitors
+	- side effects:
+		- hypotension
+		- renal insuffenciency (dilation of efferent arterioles)
+		- hyperkalemia (decreased aldosterone formation)
+		- angiodema (allergy)
+
+	- ACE inhibitors
+		- reduce afterload
+		- increase renal blood flow
+		- decrease adrenergic tone
+		- reverse myocardial fibrosis
+		- specific side effects: cough (decreased bradykinin breakdown)
+		- list:
+			- captopril
+			- enalapril
+			- lisinopril
+		
+	- ARB inhibitors
+		- less drug withdrawals than ACEi
+		- list:
+			- candesartan cilexetil
+			- losartan
+			- valsartan
+
+
+vasodilators:
+	- venodilators:
+		- nitrates:
+			- for angina pectoris (decreases O2 demand), acute coronary syndromes, HF
+			- causes venous pooling, decreased right + left filling
+			- SVR unaffected
+			- CO may decrease due to decreased preload
+			- high doses -> arteriolar dilation -> treat CAD / coronary artery spasms
+			- lingual for acute angina
+			- iv for unstable angina, pulmonary edema, HF
+			- builds tolerance
+			- side effects:
+				- htx
+				- reflex tachycardia
+				- headache
+				- flushing
+
+		- sildenafil (viagra):
+			- pulmonary vasodilator
+			- cannot be used with nitrates
+				- causes severe systemic hypotx
+
+		- isosorbide:
+			- used with hydralazine for systolic heart failure
+
+	- mixed:
+		- nitroprusside:
+			- very potent, rapid
+			- decreased CO in normal LV
+			- increased CO in reduced LV function (due to decreased SVR)
+			- increased venous capacitance
+			- only used with elevated SVR
+			- for htx emergency and severe CHF
+			- onset at 30s, peak at 2 mins
+			- side effects:
+				- thiocyanate toxicity (cyanide poisoning)
+					- blurred vision
+					- tinnitus
+					- disorientation
+					- nausea
+		- nitroglycerin (mainly venodilation):
+			- decreases SVR
+			- increases venous capacitance
+			- can cause hypotension
+			- tachyphylaxis
+
+		- ACE inhibitors / ARBs
+		- α-adrenergic blockers
+		- α2-central agonists
+		- nesiritide
+
+	- arteriolar dilators
+		- hydralazine
+			- potent, direct
+			- used when high creatinine (renal failure, avoid ACEi + ARB)
+			- half life 2-4 hours
+			- slow and fast metabolizers (acetylators)
+			- side effects:
+				- causes reflex tachycardia
+				- potential MI, so careful w/ CAD (use with beta-blocker)
+				- headache (increased cerebral vasodilation)
+				- palpitations (secondary to reflex tachycardia)
+				- flushing (increased systemic vasodilation)
+				- nausea
+				- anorexia
+				- lupus like syndrome (especially in slow acetylators)
+
+		- minoxidil
+			- mechanism: increases Na channel permeability (SM muscle hyperpolarization + relaxation)
+			- PI: severe or refactory htx
+			- short half life
+			- side effects:
+				- potential reflex tachycardia
+				- potential decrease renal perfusion -> fluid retention
+					- use diuretic to mitigate
+				- hypertrichosis (rogaine)
+				- pericardial effusion (rare)
+
+		- fenoldopam
+			- D1 agonist -> cAMP dependent arteriolar vasodilation
+			- increases renal perfusion
+				- increase natriuresis by renal tubular D1
+			- 50% max effect at 15 mins, steady state in 30-60 mins, 10 min half life
+			- side effects
+				- headache
+				- dizziness
+				- tachycardia
+				- increased intraocular pressure
+					- avoid for pts w/ glaucoma
+
+
+		- calcium channel blockers
+			- prevents influx of Ca in cardiac and smooth muscles
+				- L type (funny currents, pacemaking)
+				- T-type (depolarization)
+			- decreased calcium causes muscle relaxation (vasodilation + negative inotrope)
+			- general side effects:
+				- hypotx
+
+			- types:
+				- non-dyhydropyridines
+					- verapamil
+						- strong negative inotrope
+						- strong AV node conduction suppression
+						- side effects:
+							- hypotension
+							- bradycardia
+							- AV block
+							- constipation
+					- diltiazem
+						- medium negative inotrope
+						- medium AV node conduction suppression
+						- side effects
+							- hypotension
+							- peripheral edema
+							- bradycardia
+
+				- dihydropyridines
+					- strong vasodilation
+					- weak negative inotropic effect
+					- side effects:
+						- hypotension
+						- headache
+						- flushing
+						- peripheral
+						- edema
+					- list:
+						- amlodipine
+						- felodipine
+						- isradipine
+						- nicardipine
+						- nifedipine
+						- nisoldipine
+
+
+antiadrenergics:
+	- beta blockers
+		- side effects:
+			- bronchospastic airway disease
+			- heart block
+			- untreated congestion / pulmonary edema
+			- negative inotrope -> cardiogenic shock
+			- can mask hypoglycemia
+			- raise LDL, triglycerides
+			- never treat sinus tachycardia with beta blockers
+
+		- nonselective beta blockers:
+			- carvedilol
+			- labetaol
+			- propranolo
+			- nadolol
+			- timolol
+		- beta 1 selective blockers:
+			- atenolol
+			- betaxolol
+			- bisoprolol
+			- esmolol
+			- metoprolol
+			- nebivolol
+
+	- central alpha-2 agonists
+		- clonidine
+		- alpha-methyldopa
+		- guanabenz
+		- guanfacine
+
+	- peripheral alpha blocks
+		- alpha 1 selective
+			- prazosin
+			- terazosin
+			- doxazosin
+		- non-selective (for pheochromocytoma)
+			- phentolamine
+			- phenoxybenzamine
+
+
+antiarrhythmics:
+	guide:
+		- early repolarization time = ERP
+		- AP duration = action potential duration
+
+	- class I: Na+ channel blockers:
+		- affect contractile myocytes
+		- decreased slope of phase 0 + 4 depolarization
+		- slow conduction velocity / inhibit depolarization
+
+		- class IA: 
+			- prolong repolarization
+			- watch QT
+			- caution in renal dysfunctio
+			- uses: SVTs, AF, VT, less used
+			- list:
+				- quinidine: diarrhea, vagolytic, low platelets, torsades, drug irx
+				- procainamide: lupis-like syndrome, agranulocytosis, torsades, variable metabolizers
+				- disopyramide: anticholinergic, negative inotrope
+
+		- class IB:
+			- shortens repolarization
+			- uses: best for fast VTs, little effect on atrial tissue
+				- VTs
+				- afterdepolarizations: does not increase QT
+					- digoxin induced VT
+					- torsades / long QT
+
+			- caution: hepatic dysfunction
+			- list:
+				- lidocaine IV: neurologic, dizziness, seizures, sinus slowing
+				- mexiletine PO: neurologic, dizziness, seizures, GI
+				- phenytoin (rare): gingival hyperplasia
+
+		- class IC:
+			- prolong repolarization
+			- most potent Na effect -> watch for widening QRS
+			- uses: afib, refractory SVTs
+			- side effects: paresthesias, diplopia, chest pain
+			- caution: pro-arrhythmic
+				- increased mortality in structural heart disease (post-MI)
+				- can slow atrial flutter rates -> 1:1 AV conduction
+			- list:
+				- flecainide
+				- propafenone
+
+	- class II: β-blockers:
+		- affects pacemaker cells
+		- phase 4 slope decreased
+		- prolonged AV node conduction / repolarization
+		- slows sinus node and AV node
+		- block effect of catecholamines
+
+		- uses:
+			- SVTs or VT (esp exercise or emotionally induced)
+			- ventricular rate control in afib / aflutter
+			- MI + CHF: mortality benefit
+		- side effects:
+			- bradycardia
+			- hypotension
+			- fatigue
+			- dizziness
+			- bronchospasm
+			- vasospasm
+		- list:
+			- metoprolol
+			- propranolol
+			- esmolol
+			- etc
+
+	- class III: K+ channel blockers:
+		- affects contractile myocytes
+		- prolong phase 3 repolarization
+			- prolong refractoriness / QT
+		- uses: afib, VT
+		- side effects:
+			- long QT / torsades: worsened by hypo K/M
+			- reverse-use dependence - sotalol: more effect at slower HR
+			- renally excreted: sotalol + dofetilide
+		- list:
+			- amiodarone: decreases conduction velocity (phase 0) + automaticity (phase 4)
+				- most effective for:
+					- recurrent AF
+					- VT/VF, particularly w/ cardiomyopathy
+				- lots of side effects
+
+			- sotalol: 
+			- dofetilide
+			- ibutilide IV
+			- dronenarone
+
+	- class IV: Ca++ channel blockers:
+		- slow SA node (some) + slow AV node (more)
+		- affects pacemaker cells
+		- increased PR interval
+		- blocks L-type Ca channels: slows phase 0 + 4
+		- prolonged repolarization at AV node + refractoriness
+		- uses: afib/aflutter, SVT
+		- side effects:
+			- bradycardia
+			- CHF
+			- hypotension
+			- fatigue
+			- constipation
+			- gingival hyperplasia
+			- edema
+
+		- list:
+			- diltiazem
+			- verapamil
+
+	- others:
+		- digoxin:
+			- increases vagal tone -> Na pumps
+			- blocks Na-K ATPase -> increased intracellular Ca -> inotrope
+			- uses: AF with RVR, esp. in CHF
+			- side effects:
+				- narrow window, esp w/ low K+
+				- AV block
+				- bradycardia
+				- nausea + vomiting
+				- yellow/green color change
+				- SVT/VT w/ overdose
+
+		- adenosine:
+			- adenosine A1 receptor -> decreased AV node conduction
+			- reduces automaticity
+			- shortens atrial refractoriness -> can cause afib
+			- use: reentrant SVT
+			- side effects:
+				- SA node slowing
+				- AV block/systole
+				- flushing, headache, chest pain
+				- bronchospasm
+
+		- ivabradine:
+			- blocks funny current -> decreases HR
+			- used w/ β-blockers for CHF w/ LVEF <= 35% and HR >= 70 bpm
+
+
+diuretics:
+	- loop diuretics:
+		- inhibits: Na/K/2CL co-transporter in thick ascending loop of henle (~25%)
+		- venodilation
+		- increases RAAS
+		- side effects:
+			- volume depletion
+			- hypokalemia
+			- metabolic aklalosis
+			- hypomagnesaemia
+			- ototoxicity
+		- list:
+			- furosemide (lasix)
+				- onset: 5 mins IV, 1 hr PO
+				- duration: 2 hrs IV, 4-6 hrs PO
+			- bumetanide (bumex) 
+			- torsemide (demadex)
+			- ethacrynic acid (only non-sulfa -> high ototoxicity)
+
+	- thiazide diuretics:
+		- inhibits NaCl co-transporter at distal tubule (~5%)
+		- longer duration than loop
+		- poor efficacy in renal dysfunction, except for metolazone
+		- used as loop diurectic potentiator
+		- side effects:
+			- hypokalemia
+			- metabolic aklalosis
+			- hyponatremia
+			- hyperuricemia
+			- hyperglycemia
+			- hypercalcemia
+			- increased lipids
+		- list:
+			- chlorothiazide
+			- hydrochlorothiazide
+			- chlorthalidone
+			- metolazone
+
+	- K-sparing diuretics:
+		- reduced K excretion at distal convoluted tubule + collective tubule
+		- used w/ thiazide or loops for hypokalemia
+		- side effects:
+			- hyperkalemia
+			- gynecomastia
+			- breast tenderness
+		- list:
+			- spironolactone
+			- eplerenone
+			- triamterene (inhibit Na permeability at collecting duct)
+			- amiloride (inhibit Na permeability at collecting duct)
+
+
+antithrombotics:
+	- antiplatelet
+		- aspirin
+			- irreversible thromboxane A2 inhibitor
+				- higher doses inhibits prostacyclin (PGI2) as well
+			- if plug already formed, ASA inhibited platelets can join
+
+		- dipyridamole
+			- decreases thromboxane A2 production
+			- enhances aspirin effect
+
+		- GP IIb/IIIa inhibitors
+			- stop fibrinogen-induction
+			- extremely potent (effectively zero platelet function)
+			- half life 2-2.5 hours
+			- used for restenosis prevention
+			- list:
+				- epitifibatide
+				- tirofiban
+				- abciximab
+			- side effects:
+				- thrombocytopenia
+
+		- ADP receptor inhibitors
+			- block P2Y12 receptor
+			- uses:
+				- unstable angina
+				- NSTEMI
+				- STEMI
+				- CAD intervention
+				- stroke
+				- peripheral vascular disease
+			- list:
+				- clopidogrel (plavix)
+				- prasugrel (effient)
+				- ticagrelor (brilinta)
+				- cangrelor (kengreal) (IV)
+			- side effects:
+				- bleeding
+				- thrombotic thrombocytopenic purpura
+				- neutropenia
+
+	- anticoagulation
+		- prevent clot propagation
+		- prophylactic and treatment
+
+		- heparins
+			- activate antithrombin III
+			- unfractionated:
+				- old, cheap, effective treatment, some prophylactic
+				- fully reversible
+				- short half life
+				- monitoring required (to ensure antithrombotic effect)
+				- higher risk of complications
+			- low molecular weight
+				- subq 1-2x/day
+				- no monitoring required (except for morbid, obsesity, cachexia, renal disease, pregnancy)
+				- lower risk of de novo thrombocytopenia
+				- effective treatment + effective high risk prophylactic
+				- partially reversible
+				- list:
+					- enoxaparin (lovenox)
+					- dalteparin (fragmin)
+
+
+		- warfarin
+			- inbibits vitamin K dependent caroxylase (inhibited during production)
+			- monitor using PTT / INR
+			- antidote is vitamin K
+			- for non-valvular afib stroke prevention
+			- only med for stroke prevention for
+				- valvular afib
+				- mechanical prosthetic valve
+
+		- factor Xa inhibitors
+			- not reversible
+			- all problematic w/ renal dysfunction
+			- fondaparinux (arixtra)
+				- only inhibit Xa
+				- daily
+				- no thrombocytopenia
+				- superior to LWMH
+			- rivaroxaban (xarelto)
+				- oral Xa inhibitor
+				- for non-valvular afib stroke prevention, high risk venous TE, peripheral vascular disease
+			- apixaban (eliquis)
+				- oral Xa inhibitor
+				- for non-valvular afib, venous TE, extended prophylaxis for TE
+			- edoxaban (savaysa)
+				- oral Xa inhibitor
+				- for non-valvular afib, venous TE, extended prophylaxis for TE
+
+		- direct thrombin inhibitors
+			- block site of thrombin
+			- inhibit clot-bound + free thrombin
+			- more potent than heparin
+			- argatroban
+				- 30 min half life
+				- problematic w/ liver disease
+				- irreversible
+				- approved for heparin-induced thrombocytopenia + thrombosis + acute coronary syndromes
+			- bivalirudin (angiomax)
+				- short acting
+				- irreversible
+				- for unstable angina + angioplasty (only in cath lab)
+
+			- dabigatran (pradaxa)
+				- oral thrombin inhibitor
+				- 4 hour half life
+				- no monitoring needed
+				- for non-valvular afib stroke prevention
+				- reverisble with idarucizumab (praxbind)
+					- effect in seconds
+
+	- thrombolytic therapy
+		- for stroke / MI
+		- streptokinase
+			- binds to pasminogen + activates second plasminogen to plasmin
+			- high incidence of allergic reactions
+		- urokinase
+			- activates plasminogen directly
+		- tissue plasminogen activator (TPA)
+			- activates plasminogen directly
+
+lipid regulators:

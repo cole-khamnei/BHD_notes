@@ -1,0 +1,843 @@
+L1: intro to pulmonary medicine
+	main: basic lung anatomy and CXR lung lobes
+
+
+L2: histology and embryology
+	main: lung anatomy and embryology
+	- respiratory distress syndrome (RDS) (give surfactant, steroids, supp O2)
+	- sequestration (shares pleura + sytemic arterial supply)
+
+
+L3: overview of lung pathology
+	main: overview of some basic lung pathologies
+	- asthma (bronchospasm + airway remodeling)
+	- chronic bronchitis + bronchiolitis (mucus hypersecretion)
+	- bronchiectasis (bronchi+ole dilation + muscle/elastic destruction)
+	- emphysema (airsac destruction + elastic loss)
+		- proximal (centrilobular, centriacinar) --- smoking
+		- panacinar (entire acinus) --- recessive
+		- distal (septal, pleural, localized) --- spontaneous pneumothorax
+		- irregular (irregular acinus involvement ) --- scarring from inflammation
+
+	- pneumonia --- infection
+		- bronchopneumonia (lobular) - spots
+		- lobar - whole lobe
+	- edema
+	- hemorrhage
+	- adult respiratory distress syndrome (ARDS)
+	- diffuse alveolar damage (DAD)
+	- granulomas
+		- infectious
+			- fungi
+			- non-tuberculosis mycobacteria
+			- mycobacteria tuberculosis
+		- non-infectious
+	- pulmonary embolism
+	- pulmonary hypertension
+
+
+L4: physiology I: physiology and pathophysiology
+	main: fundamental lung gas exchange + ventilation contro
+	- CO2 perfusion limited, O2 + CO diffusion limited
+	- alveolar ventilation = minute vent - dead space vent (~150 ml)
+	- air bullae
+	- alveolar ventilation = K / PaCO2
+	- CO2 narcosis
+		- increased CBF, intracranial pressure
+		- tremor, confusion, respiratory depression, coma, death
+	- vent control
+		- pons - penuomotaxic center - inspiratory "off switch"
+		- medullary rhythmicity area:
+			- dorsal respiratory group - inspiratory - sets RR
+			- ventral respiratory group - expiratory
+
+
+L5: physiology II: oxygen and gas exchange
+	main: fick equation and alveolar gas exchange equation
+	- fick equation: Vgas = Surface Area / Thickness of membrane * Gas Solubility(Palveoli - Pvein)
+	- hemoglobin curve (think muscle use -> right shift in muscle to grab more O2):
+		- H+ causes right shift
+		- hyperthermia causes right shift
+		- PCO2 causes right shift
+		- 2,3-diphosphoglycerate (2,3-DPG) causes right shift
+	- alveolar gas equation: PaO2 = (Patm - Ph20) x FiO2 - PaCO2 / R
+		- R = .8
+		- (Patm - Ph20) x FiO2 ~ 150 on room air
+
+
+L6: physiology III: V/Q mismatch and respiratory mechanics
+	main: V/Q ratios, mismatch, and how the calculations of A-a gradient can help differentiate types of hypoxemia
+	- A-a gradient
+		– v/q mismatch
+		– shunt (an extreme of v/q mismatch)
+			- hypoxemic vasoconstriction - low PaO2 veins get constricted
+		– diffusion problems
+	- normal A-a gradient
+		– pure hypoventilation
+		- low PiO2
+
+
+L7: physiology IV: respiratory mechanics and PFTs
+	main: spirometry and volume testing, DLCO testing, fixed volume ventilation
+	- elastance = rebound force = 1 / compliance
+	- compliance = Δvolume / Δpressure
+	- lung inflation hysteresis
+		- more pressure to open "snap", surfactant keeps open
+
+	- obstructive volume defect
+		- FEV1 / FVC < .7
+		- equal pressure point - collapse point
+		- types:
+			- variable extrathoracic - expiration flattened
+			- variable intrathoracic - inspiration flattened
+			- fixed - inspiration and expiration flattened
+	- residual volume defect - FVC decreased but FEV1 / FVC fine
+
+	- PFTs:
+		- spirometry - FEV1 (forced expiratory volume @ 1s) + FVC (forced vital capacity)
+		- lung volumes
+			- total lung capacity (TLC)
+		- diffusing capacity - DLCO
+
+	- ventilators:
+		- compliance = plateau pressure - PEEP (positive end-expiratory  pressure)
+		- peak pressure - peep = flow x resistance + Δ Volume / compliance
+		- side effects:
+			- hypotension (from reduced venous return)
+			- vent induced injuries - from high volume or high FiO2
+			- pneumothorax
+			- gas-trapping, auto PEEP
+			- increased dead space
+			- increased shunt
+
+
+
+L8: special topics in pumonary medicine
+	main: special forms of hypoxemia
+	- shallow water breath hold - large breath hold -> decreased CO2 buildup -> body doesnt force breath -> die
+	- carboxyhemoglobinemia
+		- headache, dizziness, nausea, confusion, cyanosis
+		- Sp02 ~93%
+		- tx: sup O2, hyperbaric O2
+
+	- methemoglobinemia
+		- cyanosis, dizziness, headache, fatigue, confusion, etc
+		- aquired: dapsone, antimalarials, benzocaine, iNO, amyl nitrite
+		- hereditary: cytochrome b5 reductase deficiency, hemoglobin M disease
+		- Sp02 ~ 85-88%
+		- tx: vit c, methylene blue, sup O2
+
+	- hypoxemia at high altitude
+		- acute mountain sickness
+			- nausea, headache, gi disturbance, insomnia, fatigue, dizziness
+			- tx: fluids, NSAIDs, antiemetics prn, hareamethasone, acetazolamide
+		- high altitude cerebral edema (HACE)
+			- AMS + ataxia or impaired cognition
+			- tx: sup O2, hareamethasone, acetazolamide
+		- high altitude pulmonary edema (HAPE)
+			- AMS + dry cough, SOB, decreased func capacity
+			- late: orthopnea, hemoptysis
+			- tx: nifedine, sup O2
+
+
+L9: respiratory failure and mechanical ventilation
+	main: types of respiratory failure + basics of ventilation
+	- hypercapnic respiratory failure - decrease respiratory drive / neuromuscule inability, PaC02 > 50mmHg
+		- acute
+			- limited renal compensation, pH < 7.3
+		- chronic
+			- pH < 7.4, renal compensation (increased bicarbonate)
+
+	- hypoxemic respiratory failure - PaC02 < 60mmHg
+		- acute
+			- dyspnea, tachypnea, cyanosis, somnolence, asterixis, seizures, tachycardia
+		- chronic
+			- polycythemia, pulmonary htx
+
+	- acute respiratory distress syndrome (ARDS):
+	- ventilation 
+		- lung + chest wall compliance - expansion of thoracic space
+		- positive end-expiratory pressure (PEEP) - minimum vent pressure (keeps alveoli open)
+		- peak pressure - pressure to overcome lung + chest wall compliance and airway resistance
+		- inspiratory pause - stop flow - ΔP no longer depends on airway resistance
+			- plateau pressure - peep = ΔP = tidal volume / compliance
+
+
+L10: approach to pulmonary patient
+ 	main: tips for history + building a differential
+ 	- breath sounds
+ 	- approach to CXRs
+
+
+L11: pulmonary edema and ARDS
+	main:
+	- pumonary edema - bilateral crackles
+		- cardiogenic
+			- history: HF, valve disease, HTX
+			- signs: JVD, S3/4, murmur, lower edema
+			- CXR: bilateral infiltrates / edema, pleural effusions, cardiomegaly
+			- labs:
+			- other: abnormal EKG, TTE w/ HF, PCWP elevated, coronary angiography
+		- increased permeability (ARDS)
+			- history: <7 days
+			- signs: bronchial BS, infection signs | no lower edema
+			- CXR: bilateral infiltrates / edema
+			- labs: elevated WBC, abnormal microbiology
+			- other: bronchoscopy with BAL
+	- ARDS
+		- pneumonia, gastric aspiration, sepsis, pancreatitis, trauma, etc
+		- edema -> hyaline -> interstitial inflammation / pneumocyte hyperplasia -> interstitial fibrosis
+		- ventilation:
+			- PEEP at 5cm H2O, higher can be better (10-20cm H2O)
+
+	- extracorporeal membrane oxygenation (ECMO)
+		- veno-venous - lung substitute, femoral vein out, subclavian in
+		- veno-arterial - lung + heart substitute - femoral vein out, femoral artery in
+
+
+L12: asthma
+	main: bronchoconstriction, airway inflammation, airway hyperresposiveness
+	- type 2 high - allergic asthma
+		- eosinphilic inflammation
+		- high FENO
+		
+	- type 2 low
+		- neutrophilic + paucigranulocytic asthma
+	- chronic - results in remodeling / chronic obstruction
+	- acute
+	- tx:
+		- controllers:
+			- ICS - inhaled corticosteroid
+			- LABA - long-acting beta2 agonist
+			- LAMA - long-acting muscarinic antagonist
+
+		- relievers:
+			- albuterol (SABA) - short-acting beta2 agonist
+			- ipratropium (SAMA) - short-acting muscarinic antagonist
+		- additional:
+			- macrolides - *mycin antibiotics
+			- topical corticosteroids
+			- biologics
+				- benralizumab - anti-IL-5Ra
+				- dupilumab - anti-Il-4Ra
+				- mepolizumab - anti-IL-5
+				- omalizumab - anti-IgE
+				- reslizumab - anti-IL-5
+				- tezepelumab - anti-TLSP
+		- management:
+			- step 1: SABA prn
+			- step 2: SABA prn + low dose ICS, leukotriene receptor antagonist (LTRA)
+			- step 3: saba prn + ICS prn + low dose ICS + low dose LABA
+			- step 4: saba prn + ICS prn + med/high dose ICS + med/high dose LABA
+			- step 5: step 4 + tiotropium, anti-IgE, anti-IL5
+
+
+L13: cystic fibrosis
+	main: cystic fibrosis - symptom management + correction
+	- diagnostics: sweat Cl > 60 meq/L, two alleles, immunoreactive trypsinogen in newborns
+	- manifestations:
+		- chronic infection, neutrophil inflammation
+			- MSSA, pseudomonas aeruginosa - non-mucoid or mucoid (worse) 
+		- bronchiectasis
+		- hyperinflation
+		- nasal polyps
+		- gastrointestinal disease:
+			- meconium ileum
+			- pancreatitis
+			- pancreatic malabsorption
+			- GERD
+			- fat solube vitamin deficiency
+			- hepatobiliary disease, biliary statis, biliary fibrosis -> 11% liver disease, 4% cirrhosis
+			- treat: pancreatic enzyme replacement, high calorie, high fat, vitamins (A, D, E, K)
+		- CF diabetes - reduced insulin production + increased resistance
+			- treat: insulin
+		- bone disease - osteopenia, osteoporosis
+			- give bisphophonates if fractures, rapid bone loss, transplant
+		- high rate of anxiety + depression
+	- treatments:
+		- rhDNase - clears dead neutrophil dna
+		- inhaled hypertonic saline
+		- inhaled tobramycin (TOBI)
+		- airway clearance - chest physical therapy, vest/mechanic percussion, oscillating PEP, breathing techniques, exercise
+		- anti-inflammatory therapy - systemic + inhaled corticosteroids, ibuprofen, macrolides
+		- CFTR modulators:
+			- ivacaftor (kalydeco) - G551D potentiator
+			- lumacaftor-ivacaftor (orkambi) - corrector + potentiator - Phe508del
+			- tezacaftor-ivacaftor (symdeko) - corrector + potentiator
+			- elexacaftor-tezacaftor-ivacaftor (trikafta) - corrector + potentiator - Phe508del
+
+
+L14: disparities in pulmonary medicine:
+	main: disparities are bad, pervasive
+
+
+L15: venous thromboembolism: DVT + PE
+	main: 50% of untreated DVT -> PE
+	- VTE
+		- form in deep leg veins
+		- 79% of PE patients have DVT
+		- inherited risks:
+			- factor V Leiden mutation
+			- prothrombin gene mutation
+			- protein s deficiency
+			- protein c deficiency
+			- antithrombin deficiency
+			- may thurner syndrome - anatomical
+		- acute DVT:
+			- pain, swelling, erythema
+			- asymmetry, warm, edema, cords
+			- DDx - muscle strain, cellulitis, ruptured baker's cyst, post-thrombotic syndrome
+			- can cause ischemia -> venous gangrene, compartment syndrome, arterial compromise
+		- tests:
+			- wells score - method for scoring, >=2 DVT likely - 25%
+			- D-dimer - very sensitive, use for negative screening
+			- duplex ultrasonography - abnormal compressibility, doppler color flow, or echogenic band - high sens + spec
+			- contrast venography - reference standard but rare
+			- impedance plethymography
+			- MR venography
+			- CT w/ contrast
+		- treatment:
+			- injectables
+				- unfractionated heparin
+					- inactivates thrombin, narrow window, reversible with protamine, does not cross placenta
+				- low molecular weight heparin (LWMH)
+					- subq, inactivates factor Xa, caution in elderly, renal disease, obese
+				- fondaparinux
+					- subq, inhibits factor Xa, as effective as LWMH, same cautions as LWMH
+
+			- oral:
+				- rivaroxaban + apixaban
+					- inhibits factor Xa, monotherapy
+					- dont use in high risk for bleeding
+					- no monitoring
+					- avoid in liver or renal disease
+					- no pregnancy data
+			- warfarin
+				- inhibits vitamin K-dependent factors: II, VII, IX, X
+				- highly effective at preventing recurrent VTE
+				- overlap with injectables for 4-5 days for all factors to be reduced
+				- lots of interactions, teratogenic
+				- can use with renal disease
+			- thrombolysis - large clot or ischemia
+			- IVC filter - short term when cant use anticoags
+	
+	- pulmonary embolism
+		- emboli from DVT, air, tumor, fat, etc
+		- 30% mortality if untreated
+		- symptoms - dyspnea, pleuritic pain, leg pain/swelling, cough, wheezing, hemoptysis
+		- signs - tachypnea, DVT signs, tachycardia, abnormal breath sounds, RHF signs
+		- DDx:
+			- penumonia, pneumothorax, pleural (pleuritis) or airways (asthma)
+			- MI, pericarditis
+			- aortic dissection
+			- MSK pain - rib fracture
+		- tests:
+			- wells score - >4 PE likely (37%)
+			- CT angio
+			- V/Q scan
+			- echo (not good sens or spec)
+		- treatment:
+			- same as DVT
+			- LWMH preferred, use unfractionated heparin when unstable and high risk of bleeds
+				- transition to warfarin for 3 months
+				- rivaroxaban + apixaban - approved monotherapy
+		- hospital patients
+			- consider prophylixasis if >=3 day stay
+			- LMWH or heparin
+			- pneumatic compression
+
+
+L17: pleaural diseases
+	main:
+	- pleural fluid:
+		- 4-15 ml 
+		- RBC 679 x 10^3 cells / ml
+		- WBC 1716 x 10^3 cells / ml
+			- 23% lymphocytes, 75% macrophages, 0% neutrophils
+	- pleural diseases: loss of integrity
+		- pneumothorax
+		- pneuomediastinum
+		- subcutaneous emphysema
+	- pleural diseases: abnormal fluid production
+		- HF, renal failure, liver failure, severe hypoalbumenemia / malnutrition
+	- pleural diseases: addition to pleural space
+		- inflammation, cancer, infection, chyle, blood, etc
+	- light's criteria
+		- exudative if:
+			- protein fluid / protein serum > .5
+			- LDH fluid / LDH serum > .6
+			- LDH fluid > 2/3 upper limit of normal serum LDH
+		- transudate -> HF, renal failure, liver failure
+	- parapneomonic effusions
+		- 50% of pneumonias
+		- exudative
+		- types:
+			- simple: inflammation of pleaural space, no drainage
+			- complicated: bacteria in pleural space, drainage
+				- pH < 7.2 or positive gram or glucose < 20 mg/dL
+			- empyema (pus): bacteria in pleural space, drainage
+	- rare effusions
+		- chylothorax
+			- milky fluid, lymphocyte rich, lipid rich, exudative (almost always), TGs > 110
+			- trauma (50%), malignancy (eg lymphoma), ideopathic, sneezing, vomiting, seat belt use, goiter
+			- tx: pleurodesis, chest tube, surgerical repair/ligation, thoracic duct embolization
+			- tx: traumatic-50% resolve w/o intervention, non-traumatic- often require surgery
+		
+		- urinothorax
+			- very rare, unilateral, transudative
+			- causes: obstructive uropathies, renal biopsy, lithotripsy, surgery/trauma, nephrostomy, renal transplant
+			- tx: relieve obstruction
+
+		- yellow nail syndrome
+			- very, very, very rare
+			- must have 2/3: pleural effusion, yellow nails, lymphedema (80%)
+			- can have: bronchiectasis, upper/lower airway infections
+			- effusion: bilateral, exudative (protein), 1/3 chylous
+			- tx: pleurodesis, thoracic duct ligation
+
+		- lymphangioleiomyomatosis (LAM)
+			- rare, often fatal, young healthy women, spontaneous
+			- thin walled lung cysts neoplastic like smooth muscle cells
+			- high serum VEGF-D
+			- common: chylothorax, pneumothorax
+			- associated with tuberous sclerosis
+			- tx: sirolimus (rapamycin)
+
+
+L18: pulmonary vascular system
+	- main: PAH
+	- pulmonary aterial hypertension (PH / PAH)
+		- all types PH: mPAP > 20 mmHg
+		- pre-capillary: PAWP < 15 mmHg, PVR >= 3 WU
+			- lung diseases, CTEPHq
+		- IpcPH - isolated post capillary: PAWP > 15 mmHg, PVR < 3 WU
+			- systemic htn, AoV disease, heart disease, PV compression, atrial myxoma, cor triatriatum, MV disease
+		- combined PH: PVR >= 3 WU and PAWP > 15 mmHg
+		- symptoms:
+			- dypsnea, DOE, syncope/seizure, failure to thrive, RHF signs, edema
+		- signs:
+			- single fixed loud S2, due to early P closure
+			- peripheral hypovascularity
+			- RVE
+			- prominent proximal pulmonary arteries
+			- RV bulge into septum into LV 
+			- run right heart cath
+		- risks:
+			- FHx, conntective tissue disease, congenital heart disease, portal htn, environmental/drugs, HIV
+
+		- ideopathic PAH (IPAH)
+			- familial in 6%, autosomal dominant, reduced penetrance
+			- 20% of carriers develop disease
+			- 80% of HPAH with BMPR2 mutation
+			- females more likely, males worse prognosis
+		- cannot miss ddx:
+			- chronic thromboembolism pulmonary htx (CTEPH)
+				- V/Q scan to rule out, CT angio can find proximal TE
+				- potentially curable with thromboendarterectomy (PTE)
+		- drugs:
+			- endothelin (ET) receptor antagonists
+				- entholelin-1 -> vasoconstriction + proliferation
+				- oral:
+					- bosentan (approved for pediatric PAH)
+					- ambrisentan
+					- macitentan
+			- PDE-5 inhibitors
+				- phosphodiesterase type 5 -> inhibit cGMP -> vasoconstriction + proliferation
+				- oral
+					- sildenafil
+					- tadalafil
+
+			- cGMP stimulators
+				- NO -> cGMP -> vasodilation + antiproliferation
+				- oral:
+					- sGC stimulator:
+						- riociguat (PAH + CTEPH)
+					- NO stimulators:
+						- inhaled (not ideal for chronic use)
+
+			- cAMP promotors
+				- prostacylcin (PGL2) -> cAMP -> vasodilation + antiproliferation
+				- oral:
+					- treprostinil
+					- selexipag
+				- inhaled
+					- iloprost
+					- treprostinil
+				- parenteral
+					- epoprostenol
+					- treprostinil (SC or IV)
+					- RTS epoprostenol
+		- tx paradigm:
+			- WHO FC I: no therapy
+			- WHO FC II: monotherapy (ERA, PDE5i, riociguat, selexipag, oral treprostinil)
+			- WHO FC III: combo therapy (ERA + PDE5i)
+			- WHO FC IV: IV prostacylcin (+/- PDE5i and/or ERA)
+			- if not responding order goes:
+				- no therapy
+				- monotherapy: oral or inhaled second
+				- oral combo therapy or inahed/parenteral prostacylcin
+				- combo inhaled/parental + oral, change prostacylcin to IV or increase IV prostacylcin
+				- refer for lung transplant
+
+
+L19: chronic obstructive pulmonary disease COPD
+	main: COPD and subtypes, treatments
+	- definition: FEV1 / FVC < .70 post bronchodilator
+	- emphysema
+	- chronic bronchitis
+	- mechanisms
+		- small airway narrowing - chronic inflammation or airway fibrosis
+		- parenchyma destruction by inflammation - loss of alveolar attachments, decrease elastic recoil
+
+	- effecs:
+		- V/Q mismatch -> hypoxemia + hypercapnea
+	- risks:
+		- smoking: 15-50% of smokers develop COPD, 75-80% of copd have smoked
+		- exposures
+		- genetic:
+			- complex traits
+			- alpha-1 antitrypsin A1AT deficiency
+				- inhibits neutrophil elastase, protease that degrades elastin in alveolar walls
+				- co-dominant transmision
+				- early onset emphysema (worsened by tobacca use)
+				- lower lobe distribution
+				- panacinar / panlobular
+				- A1AT levels < 11 micromol / L or plasma A1AT < 35%
+		- symptoms:
+			- dyspnea, DOE, chronic cough, chronic sputum
+		- signs:
+			- pursed-lipped breathing
+			- decreased BS
+			- distant heart sounds
+			- prolonged expiratory phase
+			- expiratory wheeze
+			- increased AP diameter (barrel chest)
+			- severe: PLB, accessory muscle use
+			- no clubbing, if clubbing -> look for lung cancer
+			- exams:
+				- decreased FEV1/FVC, increased TLC, decreased DLCO
+		- tx:
+			- vaccinations (flu, pneomococcal)
+			- smoking cessation
+			- pulm rehab
+			- O2 therapy
+				- if FEV1 < 30% or SpO2 < 88% or close w/ PH or CHF
+			- surgery
+			- drugs
+				- bronchodilators (long preferred to short)
+					- SABA: albuterol (ventolin), salbutamol, levalbuterol
+					- SAMA: ipratropium (atrovent)
+					- SAMA/SABA: albuterol/ipratropium (combivent)
+					- LABA: salmeterol, indacaterol, vilanterol, formoterol
+					- LAMA: tiotropium, umeclidinium
+				- ICS (if eosinophil count >300 cells/ul)
+					- 
+				- azithromycin
+				- roflumilast
+				- tx paradigm:
+					- stable: lama, laba, sama, or saba
+					- moderate-severe: ICS + LABA
+					- severe: ICS + LABA + LAMA (triple therapy)
+
+
+L20: a very unusual case:
+	main:
+	- 
+
+
+L21: interstitial lung disease I + II:
+	main: lots of ILD types characterized by increased fibrosis, poor prognosis
+	- insidious onset
+	- symptoms:
+		- dyspnea, cough
+		- sometimes asymptomatic
+		- fever, weight loss, dysphagia, rash, athralgias, myalgias
+
+	- signs:
+		- history:
+			- FHx
+			- early grey hair (telomere shortening)
+			- smoking for IPF, inhaled substances, travel history (TB)
+			- potential causing medications: amiodarone, methotrexate, nitrofurantoin
+		- exam:
+			- resting or exertional hypoxemia
+			- "velcro-like" crackles (alveolar), high-pitched inspiratory squeaks (small airways)
+			- cardio: JVD, single S2, loud P2 (concomitant PH)
+			- digital clubbing, cyanosis, joint deformities/synovitis - swan neck, gottron's papules
+			- derm: rash (concomitant autoimmune disease) - mechanics hands
+		- CXR - reticulations
+		- high resolution CT:
+			- cysts -> LAM
+			- upper lobe -> sacroidosis, hypersensitivity pneumonitis (HP), silicosis, coal workers'
+			- ground glass -> infections, pulm edema, DIP, drug toxicity, cellular NSIP
+			- linear reticulations -> IPF, asbestosis, CTD-ILD, chronic HP
+			- nodules -> granulomatous (infection, sarcoid), pneumonconiousis, subacute HP, malignancy
+			- tracton bronchiectasis -> IPF
+
+		- bronchoscopy
+			- BAL -> high lymphocyte suggests HP
+			- transbronchial biopsy -> useful for sarcoidosis + hypersensitivity pneumonitis (HP)
+
+	- effects:
+		- restrictive lung disease on PFTs
+			- reduced TLC and vital capacity (VC)
+			- reduced FVC
+			- reduced FEV1
+			- elevated or equal FEV1/TLC
+
+		- decreased static lung compliance
+		- increase elastic recoil
+
+	- diffusion limitations (A-a gradient)
+		- reduced DLCO (diffusion)
+		- exercise impairment
+
+	- diffuse, bilateral
+	- types:
+		- ideopathic interstitial penumonias (IIP):
+			- ideopathic pulmonary fibrosis (IPF) - 20%
+				- median survival 3, worst of group
+				- male > female
+				- usual interstitial pneumonia (UIP)
+			- non-IPF
+				- non-specific interstitial pneumonitis (14-36%)
+					- ground glass, bronchiectasis
+					- onset in 40s-50s
+					- non-specific interstitial pneumonia (NSIP)
+		- granulomatous diseases
+			- sarcoidosis - 20%
+				- nodules, hilar adenopathy
+				- peri-lympathic
+				- well defined granulomas, non-necrotizing
+				- onset in 20-40
+			- hypersensitivity pneumonitis (HP) - 20%
+				- granulomatous intersitiual pneumonia
+				- airway centered fibrosis
+				- inhaled antigens
+				- flu-like illness
+				- ground glass, nodules, reticulations
+
+		- known causes:
+			- connective-tissue disease (CTD-ILD) - 20%
+				- rheumatoid arthritis (RA)
+				- scleroderma
+			- drugs
+		- rare:
+			- lymphangioleiomyomatosis (LAM)
+				- elevated VEGF >800
+				- pleural effusion, innumerable cysts
+				- chylothorax
+				- associated w/ tuberous sclerosis
+
+	- genetics:
+		- rare variants - telomere shortening or surfactant dysfunction
+		- commont: MUC5B HR= ~2
+
+	- tx:
+		- general: sup O2, pulm rehab, vaccinations, monitoring for PH
+		- IPF - nintedanib / pirfenidone (antifibrotics)
+		- non-IPF - NSIP - prednisone + mycophenolate mofetil (Cellcept)
+		- HP - prednisone, mycophenolate mofetil
+		- sarcoid
+			- stage I (primarily hilar adenopathy) -> watch and wait, NSAIDs, ~80% remiss
+			- stage II (w/ adenopathy) or stage III (w/o adenopathy)
+				- low dose prednisone,
+				- if refactory -> methotrexate or other steroid-sparing meds
+			- stage IV -> nintedanib
+		- LAM -> sirolimus
+
+
+L23: sleep disordered breathing
+	main:
+	- obstructive sleep apnea (OSA)
+		- repetitive breath cessation -> arousals events
+		- disturbed sleep: snoring, restlessness, resuscitative snorts
+		- daytime sleepiness, fatigue, poor concentratio
+		- severity - measured by apnea-hypopnea index (AHI)
+			- mild: 5-14 events/h of sleep
+			- moderate: 15-29
+			- severe: >=30
+		- risks
+			- obesity, age, male, craniofacial/upper airway abnormalities, 
+		- high prevalence: 34% of men, 17% women, 50+% of obese
+			- 80-90% undiagnosed and 50% of diangosed are treated
+		- OSA increases risk for:
+			- HTN, CAD, HF
+			- cardiac dysrhythmia (particularly afib)
+			- cerebrovascular disease 
+		- treatment:
+			- CPAP
+			- oral appliances: mild-moderate OSA, younger, lower BMI, female, retracted jaw
+			- upper airway surgery
+
+		- CPAP benefits
+			- reduces afib by 42%
+			- reduces recurrent stroke risk by 50%
+			- no benefit for repeat MI, CAD revasc, stroke, CVD death
+
+	- central sleep apnea
+		- cheyne-strokes respiration (up-down)
+		- mechanism:
+			- hypocapnia -> respiratory control apnea -> PaCO2 increases -> increased circulatory time
+			- increased circulatory time -> hypercapnia -> hypernea -> hypocapnia
+		- risks:
+			- CHF, post-stroke, chronic opioid use
+			- potential marker of mortality for HF
+		- treatment (unclear):
+			- nocturnal O2 may help
+			- phrenic nerve stimulation
+			- adaptive servo-ventilation (ASV) - do not use when HF (LVEF <45%)
+
+	- sleep related hypoventilation disorders
+		- congential central hypoventilation syndrome (CCHS)
+			- PHOX2B gene
+				- PARMs (90%): polyalanine repeat mutations, expansion of polyA section
+				- nPARMs (10%): non-polyA muts
+			- sleep cyanosis in neonates, ANS dysfunction, hirschprung disease, neural crest tumors
+			- tx: mechanical ventilation
+			
+		- obesity hypoventilation syndrome (OHS)
+			- BMI > 30 and daytime PaCO2 > 45 mmHg
+			- 90% with OHS have OSA
+			- worse outcomes than OSA or obesity
+			- tx: CPAP or bilevel PAP
+				- get PaCO2 < 45 mmHg and PaO2 > 90%
+
+
+L24: occupational lung disease
+	main:
+	- asbestos - pleural plaques, effusion, pleural thickening, asbestosis, mesothelioma, lung cancer
+		- exposures: 
+			- asbestos mining and milling
+			- shipbuilding
+			- manufacturing of asbestos textiles
+			- insulators
+			- pipe fitters
+			- demolition workers
+			- drywall removers
+			- asbestos removal workers
+			- firefighters
+			- electricians
+		- diseases:
+			- asbestos pleural plaques
+				- 20-30 ys after exposure
+				- well-circumscribed, bilateral, symmetric
+			- benign asbestos pleural effusion
+				- 10 ys after exposure
+				- small, unilateral with exudative, bloody fluid
+				- usually resolves spontaneously
+			- diffuse visceral pleural thickening
+				- unilateral, often to costophrenic angle
+			- asbestosis
+				- structural change / fibrosis
+				- granulomatous ILD
+			- mesothelioma
+				- 20-40 ys after exposure
+			- lung cancer
+				- all subtypes linked to asbestos, but weak
+				- 2x risk for 25 fiber-years
+
+	- silica - silicosis, complicated + acute
+		- exposures
+			- mining
+			- tunneling
+ 			- stonecutting
+ 			- polishing
+ 			- monumental masonry
+ 			- sandblasting
+ 			- glass manufacturing
+ 			- pottery and porcelain manufacturing
+ 			- brick lining
+ 			- boiler scaling
+ 			- vitreous enameling
+ 		- silicosis
+ 			- small, well-circumscribed nodules (2-5mm)
+ 			- mainly upper/posterior lung zones
+ 		- complicated silicosis - progressive massive fibrosis
+ 			- large confluent central or hilar opacities
+ 		- acute silicosis - silicoproteinosis
+ 			- from massive air silica exposure
+ 			- dyspnea, cough, fever, cyanosis
+ 			- patchy on CT/CXR
+
+ 	- coal - coal worker's pneuomoconiosis - black lung
+		- small, centrilobular nodules, poorly-circumscribed
+		- coal macules with pigment macrophages
+		- can have massive progressive fibrosis
+
+ 	- iron oxide fumes - siderosis
+ 		- exposures
+ 			- electric arc welding
+ 			- oxyacetylene torchs
+ 			- mining/processing iron ores
+ 			- iron/steel rolling mills
+ 			- foundry workers
+ 			- silver polishers
+ 		- siderosis
+	 		- small nodules in middle third of lungs / hilar regions
+	 		- not commonly associated w/ fibrosis or impairment
+
+ 	- metal dusts
+ 		- alloys w/ tungsten, carbon, cobalt, titanium, tantalum, nickel, and chromium
+ 		- exposures
+ 			- metal drilling
+ 			- metal polishing
+ 		- desquamative interstitial pneumonia
+		- giant cell interstitial pneumonitis
+
+	- organic dust - organic dust toxic syndromes
+		- grains, animals, cotton, wood-chips, hay, etc
+		- exposures:
+			- farmers
+			- fraternity brothers
+			- office workers
+		- organic dust toxic syndromes
+			- types:
+				- humidifier fever
+				- grain fever
+				- pig fever
+				- cotton fever (byssinosis)
+				- wood-chip fever
+			- acute febrile, flu-like symptoms
+			- 4-8 hours after exposure
+			- must not have evidence of hypersensitivity pneumonitis (HP)
+
+	- beryllium dust/fumes - berylliosis
+		- exposures
+			- fluorescent light bulb workers
+			- ceramics manufacturing
+			- nuclear weapon production
+			- aerospace industry
+		- berylliosis
+			- chronic granulomatous ILD
+			- cough, fever, anorexia, weight loss
+			- skin lesions, granulomatous hepatitis, hypercalcemia
+			- test: blood beryllium lymphocyte proliferation test (BeLPT)
+
+	- irritants - occupational asthma
+		- plastics, resins, rubber, foam, paints, insulation, powdered latex gloves
+		- hydrochloric acid, sulfur dioxide, ammonia
+		- exposures:
+			- bakers
+			- veternarians
+			- fishermen
+			- animal handlers
+			- painters
+			- petroleum/chemical plant workers
+		- occupational asthma
+			- immune-mediated - 90%
+				- 1-2 y latency
+				- IgE mediated
+			- irritant - 10%
+				- within 24 hours of exposure
+				- direct irritation
+					- chlorine
+					- sulfur dioxide
+					- ammonia
+
+
+L25: global context of pulmonary diseases
+	main:
+	- air pollution bad
+	- communicable diseases can be stopped
+	- HIV fueling drug resistant TB

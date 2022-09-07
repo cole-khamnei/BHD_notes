@@ -1,0 +1,1653 @@
+L1: cardiovascular physiology
+	- cardiac cycle phases
+
+	- 4th heart sound for decreased LV compliance (LVH)
+	- A2 before P2, widens on inspiration
+	- 3rd heart sound ventricular volume overload
+
+M1: cardiovascular physiology
+	main:
+	- arteries:
+		- α1 + β2 receptors
+		- arterioles highest region of resistance
+	- veins:
+		- α1 receptors
+		- contain 60% of blood volume
+	- right heart symptoms:
+		- peripheral edema
+		- ascites
+		- RUQ pain from liver congestion
+	- left heart failure:
+		- dyspnea
+		- cough +/- hemoptysis
+		- fatigue
+		- organ dysfunction
+		- cold limbs
+
+	- cardiac cyle:
+		- diastole - atrial contraction:
+			- P wave is last phase of diastole
+			- atrial depolarization + contraction
+			- PLA -> venous a wave
+			- S4 if decreased LV compliance (LVH)
+		- systole - isovolumetric contraction:
+			- QRS is activation of ventricles
+			- S1 = MV closing, AV remains closed
+		- systole - early ventricular ejection:
+			- AV opens, A pressure rises
+			- venous C wave (TV bulge into RA)
+		- systole - reduced ventricular ejection
+			- T wave is ventricular repolarization
+			- A pressure falls
+		- diastole - isovolumetric ventricular relaxation:
+			- ventricles fully repolarized
+			- LV pressure drops
+			- S2 (A2 then P2 w/ inspiration) = AV closes
+			- venous V wave as RA fills
+			- dicrotic notch due to AV closure
+		- diastole - rapid ventricular filling:
+			- ventricular pressure at lowest
+			- MV opens
+			- ventricular volume increases
+			- S3 if volume overload (non-compliant ventricle)
+		- diastole - reduced ventricular filling:
+			- longest part of cycle
+			- slower ventricular filling
+	- preload:
+		- measured by end-diastolic volume or pressure
+		- increased by:
+			- increased central venous pressure
+			- increased ventricular compliance (stiff)
+			- increased atrial contraction
+			- reduced heart rate (more filling)
+
+	- afterload:
+		- resistance to pump
+		- wall stress = P x r / 2h
+		- increased by:
+			- increased pressure load
+				- htn
+				- aortic stenosis
+			- increased chamber size - dilated LV
+		- decreased by:
+			- increased LV thickness
+
+	- contractility:
+		- myocardial force
+		- increased contractility
+			- sympathetic
+			- inotropes - digoxin
+			- hypercalcemia
+		- decreased contractility:
+			- parasympathetic
+			- negative inotropes: β-blockers, CCBs
+			- hypoxia
+			- acidosis
+			- hyperkalemia
+
+	- shock:
+		- distributive (setic, non-septic)
+			- peripheral vasodilation
+			- preload decreases, SVR decreases -> CO increases
+		- cardiogenic (cardiomyopathic, arrhythmogenic, mechanical)
+			- pump failure
+			- CO decreases, preload increases -> SVR increases
+		- hypovolemic (hemorrhagic, non-hemorrhagic)
+			- reduced intravascular volume
+			- preload decreases + CO decreases -> SVR increases
+		- obstructive (pulmonary vascular, mechanical)
+			- extracardiac casues of pump failure
+			- PE, PH
+				- preload decreases + CO decreases -> SVR increases
+			- pericardial / tamponade
+				- preload increases + CO decreases -> SVR increases
+
+L2: regulation of blood pressure
+	- bp elevated: 120-129 mmhg or < 80 mmhg
+	- htx stage 1: 130-139 mmhg or 80-89 mmhg
+	- htx stage 1: >140 mmhg or >90 mmhg
+
+	bp regulators:
+		- autonomic nervous system
+			- increases BP
+			- sympathetic nerves
+			- adrenal glands
+			- baroreceptors
+				- carotid (CN IX)
+				- aortic arch (CN X)
+				- stimulation decreases blood pressure
+					- stimulates cardiac decelerator
+					- inhibits cardiac accelerator + vasoconstriction
+			- renin release from kidneys
+		- RAAS
+			- increases Na + water retention
+			- increases BP
+			- kidney control
+			- pathway:
+				- prorenin --[decreased renal perfusion pressure]-> renin (kidney)
+				- angiotensiogen (liver) --[renin]--> antiotensin I
+				- angiotensin I --[ACE]--> antiotensin II
+			- antiotensin II:
+				- stimulates aldosterone synthesis (adrenal)
+				- stimulates epinephrine release (adrenal)
+				- vasoconstriction
+				- Na + HC03- (increases CO) uptake (increased Na+ H+ exchange in renal proximal tubule)
+				- stimulates ADH (hypothalamus)
+				- stimulates thirst (hypothalamus)
+				- stimulates vasopressin release (brain)
+				- increases contractility + ventricular hypertrophy (heart)
+
+		- chemoreceptors
+			- increases BP
+			- carotid + aortic bodies
+				- sense decrease in O2, increase in CO2, and decrease in pH
+				- increase vasoconstriction (brain -> autnomic)
+			- central
+				- in brain
+				- sense pCO2 or pH (minor sense of PO2)
+				- increases sympathetic outflow (medullary vascular centers)
+		- ADH
+			- increases BP
+			- increased by angiotensin II and serum osmolarity
+			- posterior pituitary gland
+			- vasoconstriction (V1 receptors)
+			- collecting duct water reabsorption (V2 receptors)
+		
+		- cardiopulmonary baroreceptors
+			- lowers BP
+			- veins, atria, P artery
+			- increase blood volume -> increase venous pressure -> baroreceptors fire
+			- secrete ANP (atrial natriuretic peptide)
+				- vasodilation
+				- vasodilation in kidney (by sympathetic inhibition)-> Na+ and water excretion
+			- decreases ADH
+			- increases heart rate (CN X -> nucleus tractus solitarius)
+				- bainbridge reflex
+					- increases CO
+					- increases renal perfusion
+					- increases Na+ + water excretion (lowers BP)
+
+L3: vasculature drugs
+	- look at cardiology drugs sheet
+
+L4: heart and lung
+	- heart values:
+		- RA: 2-8
+		- LA: 2-10
+		- RV: 15-30 : 2-8
+		- PA: 15-30 : 4-12
+		- LV: 100-140 : 3-12
+	- pulmonary htx
+		- venous: mean PAP > 25mmhg and PCWP > 15 mmhg
+		- arterial: mean PAP > 25mmhg and PCWP > 15 mmhg + no left side heart disease
+	- non-cardiogenic pulmonary edema -> ARDS
+
+	- diseases:
+		- pulmonary vascular redistribution
+			- apical vascular redistribution
+			- may have SOB
+		- pulmonary interstitial edema
+			- haziness of vessels + kerley B lines
+			- will have SOB
+		- pulmonary edema
+			- opaque air spaces
+			- butterfly around hila
+			- pleural effusions
+			- rales, wheezing, and/or frothy pink sputum
+		
+		- pulmonary congestion
+			- dyspnea
+			- orthopnea
+			- paroxysmal nocturnal dyspnea
+			- hemoptysis
+			- cough
+			- fatigue
+		- systemic congestion
+			- edema
+			- ascites
+			- RUQ pain (liver congestion)
+			- cyanosis
+
+L5: antithrombotic therapy
+	- thrombosis
+		- primary hemostasis: platelet aggregation
+		- secondary hemostasis: coagulation proteins
+		- tertiary hemostasis: clot dissolution, plasmin major enzyme
+
+L6: pathophysiology of heart failure I:
+	main:
+	- heart failure
+		- syndrome
+		- classifications:
+			- NYHA
+				- I: no limitations of activity
+				- II: mild symptoms in activity
+				- III: marked limitations of activity
+				- IV: severe limitations, symptoms at rest
+			- ACC/AHA
+				- A: high risk for HF
+				- B: asymptomatic HF (NYHA I)
+				- C: symptomatic HF
+				- D: end-stage HF
+		- pressure volume loops
+			- preload
+				- change position on EDPVR curve
+				- wall stress at end-diastole
+				- frank starling curve
+					- decrease preload too much -> decrease SV -> hypotension
+					- increase preload too much -> elevated PCWP -> pulmonary congestion
+			
+			- afterload
+				- change position of ESPVR curve
+				- aterial elastance Ea = Pes / SV = CO * TPR / SV = HR * TPR
+				- wall stress at end-systole
+
+			- contractility
+				- slope ESPVR = dESPVR/dv = Ees
+					- Ees ~ ventricular contractility
+					- inotropes increase Ees slope, more contractility
+						- higher pressures for same volume
+				- frank-starling curve
+					- increase contractility -> higher SV w/ same pressure
+
+			- capacitance
+				- volume at specific pressure
+				- point on EDPVR
+				- diastolic property of heart
+
+			- compliance
+				- inverse of ventricle stiffness
+				- slope at point on EDPVR
+
+			- wall stress
+				- σ = P x r / 2h
+
+L7: pathophysiology of heart failure II
+	main:
+	- activated systems in heart failure
+		- neurohormonal
+			- RAS and SNS activation
+			- effects
+		- adrenergic
+			- increased sympathetic outflow
+			- increased adrenergic tone
+			- activation of RAS
+	- natriuretic peptides
+		- released by increased ventricular stretch / load
+		- ANP + BNP -> decrease ventricular stretch / load
+			- increase natriueresis
+			- increase diuresis
+			- increase vasodilation
+			- decrease RAAS
+	- chart on short/long term effects
+	
+	- diastolic HF - impaired filling
+		- concentric hypertrophy (volume decreases)
+		- #1 cause: htn
+		- elderly, female
+		- EF > 40%, preserved/normal EF
+		- decreased capacitance, EDPVR shifts left -> smaller PV loop
+			- SV -> smaller
+		- causes:
+			- impaired diastolic filling
+				- LVH, restrictive cardiomyopathy, myocardial fibrosis
+				- transienst MI
+				- pericardial constriction or tamponade
+		- signs:
+			- EKG: LVH
+			- CXR: congestion + normal heart size
+			- S4
+
+	- systolic HF - impaired contraction
+		- eccentric hypertrophy (volume constant)
+		- #1 cause: CAD (volume overload)
+		- 50-70 yo, male
+		- EF < 40%, reduced EF
+		- decreased contractility -> ESPVR shifts right, decreased slope -> EDPVR shifts right (eccentric remodeling)
+			- PV loop shrinks and gets pushed rightward (volumes increase by SV -> same or smaller)
+		- causes:
+			- increased afterload: aortic stenosis or htn
+			- impaired contractility
+				- MI, MV regurg, AV regurg, dilated cardiomyopathies
+		- signs:
+			- EKG: +/- LVH
+			- CXR: cardiomegaly + congestion
+			- S3
+
+	- PV loops of HF
+		- increased blood volume (preload)
+			- shifts PV loop to right (increased volumes)
+			- causes: MR regurg, AV regurg, volume overload, LtR shunts, chronic kidney disease
+
+		- increased resistance (afterload)
+			- process:
+				- Ea point increases
+				- diastolic dysfunction
+				- remodeling
+				- PV loop move right and gets taller, higher pressures and volumes
+			- causes: AV stenosis, aortic coarctation, htn 
+
+		- decreased contractility
+			- process:
+				- ESPVR slope gets smaller
+				- PV loop shifts right and shrinks
+				- MI + HF
+				- remodeling
+				- PV loops gets shift even more right, stays small
+			- causes:
+				- ischemic cardiomyopathy
+				- myocarditis
+				- toxins: anthracycline, alcohol, cocaine
+
+		- decreased filling
+			- process:
+				- remodeling
+				- hypertrophic cardiomyopathy
+				- PV loop shifts along EDPVR -> bigger systolic volume + pressure
+			- causes:
+				- MV stenosis:
+				- constriction
+				- restrictive cardiomyopathy
+				- cardiac tamponade
+				- hypertrophic cardiomyopathy
+				- infiltrative cardiomyopathy
+	- high output failure
+		- increased demands or decreased O2 delivery ability
+
+	- decompensated HF
+		- congestion (wet):
+			- orthopnea
+			- JVP
+			- S3 (most specific) or load P2
+			- edema / ascites
+			- HJR
+
+		- perfusion (cold)
+			- narrow pulse pressure
+			- cool extremities
+			- sleepy / obtunded
+			- hypotension
+			- decreasing Na
+			- increasing renal fx
+
+		- precipitants:
+			- ischemia, htn, anemia, volume overload, increased metabolic demand, etc
+
+L8-9: medical treatment of heart failure
+	main:
+	- heart failure with reduced ejection fraction (HFrEF)
+		- acute:
+			- goals: decongest + improve perfusion
+			- decongestion:
+				- decrease preload:
+					- diuretics
+						- paradigm:
+							- loops first choice, thiazides as potentiators, K-sparing to fix hypokalemia
+						- loop diuretics
+						- thiazide diuretics
+						- K-sparing diuretics
+
+					- venodilators
+
+			- improve perfusion
+				- decrease afterload
+					- arterial vasodilators
+						- nitroprusside
+						- nitroglycerine
+
+				- increase contractility
+					- inotropes:
+						- dobutamine
+						- milrinone
+						- dopamine
+						- digoxin
+
+			- paradigm:
+				- wet -> diurectics + vasodilators
+				- cold -> inotropics
+				- cold + wet -> vasodilators first -> rest
+
+		- chronic stable:
+			- goals: reverse remodeling + arrest HF milieu, DM, htn, etc
+			- RAAS inhibition:
+				- ACE inhibitors (20% mortality reduction)
+				- ARB inhibitors (15% mortality reduction)
+			
+			- venodilators
+				- hydralazine-isordil
+					- if BP high enough
+
+			- LCZ696 (ARNI)
+				- 38% mortality reduction
+				- ARB + neprilysin inhibitor
+				- neprilysin inhibition -> prevents inactivation of ANP, BNP, bradykinin, etc
+
+			- spironolactone (MRA)
+				- inhibits RAAS + cardiac anti-fibrotic
+				- 30% mortality reduction
+
+			- β-blockers
+				- reduces sympathetic effects + antiarrhythmogenic
+				- 35%
+
+			- SGLT2 inhibitors:
+				- reduce blood glucose reabsorption in proximal tubules
+				- 26% mortality reduction
+				- list:
+					- dapagliflozin (farxiga)
+					- empagliflozin (jardiance)
+			
+			- ivabradine (cornalor)
+				- reduces heart rate independent of β-blocker effects
+				- 18% mortality reduction
+				- if HR > 70 bpm
+
+			- tx paradigm:
+				- check = BP, HR, K+, creatinine
+				- with DM: SGLT2i + ARNi + β-blocker -> 1 week, check -> MRA
+				- w/o DM: ARNi + β-blocker -> 1 week, check -> MRA -> 1 week, check -> SGLT2i
+
+		- advanced:
+			- heart replacement
+
+	- heart failure with preserved ejection fraction (HFpEF)
+		- no therapies improve survival
+		- SGLT2i + Aldactone reduce HF hospitalizations
+		- diuretics control symptoms
+		- BP high -> can use ARNI -> no mortality benefit
+
+	- LHF:
+		- orthnopnea, dyspnea, S3 gallop, lung crackles, exhaustion
+	- RHF:
+		- enlarged liver, ascites, edema, S3 gallops, low BP, elevated JVP
+
+L10: lipid disorders
+	main:
+	- cholesterol:
+		- 1/3 cell membrane
+		- substrate for vitamin D
+		- precursor to steroid + sex hormones
+		- 80% made in liver + intestine
+		- 
+	- VLDL:
+		- carry triglycerides
+	- chylomicrons:
+		- carry triglycerides
+	- LDL:
+		- from liver to cells
+		- carry cholesterol
+	- HDL:
+		- from cells to liver
+		- carry cholesterol
+	- coronary heart disease (CHD)
+		- ~50% of deaths in US
+		- CVD is #1 cause of women death
+			- estrogen decreases LDL by increasing catabolism + increasing HDL
+		- pathway:
+			- high LDL
+			- LDL -> intima infiltration
+			- oxidative modification of LDL
+			- macrophages
+			- foam cells
+			- fatty streak
+			- endothelial injury
+			- adherence of platelets
+			- release of PDGF
+			- advanced fibrocalcific lesion
+
+		- standard values:
+			- normal total cholesterol <200, 200-239 borderline
+			- normal LDL < 140, <70 for CHD or DM, >160 high
+			- HDL > 40  men, > 60 women
+			- normal TGs < 150, 150-199 borderline, 200-499 high, >500 very high
+
+		- measurement:
+			- LDL = total cholesterol - VLDL - HDL where VLDL = TGs / 5 (friedewald)
+			- martin/hopkin method more accurate
+
+		- risks:
+			- htn
+			- smoking
+			- family hx of CHD (<55 y men or <65 y women)
+			- diabetes
+			- high LDL
+			- low HDL
+
+		- screening:
+			- high risk at 25y men or 35y women
+			- low risk at 35y men or 45y women
+			- diabetics
+
+		- familial hypercholesterolemia
+			- defects in LDL receptor processing
+				- LDLR mutation
+				- ApoB-100 mutation
+				- PCSK9 gain of function
+
+			- total cholesterol > 300, LDL > 200
+			- xanthomas
+			- early onset CAD
+			- CVD risk: 25% women, 50% men
+			- dx:
+				- first degree relative < 55 men or <65 women
+				- LDL > 190 in adults, > 160 children
+					- LDL > 120 if treated
+			- tx:
+				- potent statins as young as 8 yo
+				- ezetimibe + PCSK9 inhibitor + statin
+				- homozygotes / no LDLR activity
+					- tx: LDL apheresis, liver transplant, ileal bypass, portocaval shunt
+		- Lp(a):
+			- cause premature CVD
+
+		- triglycerides:
+			- > 1000 -> pancreatitis
+				- common cause of pregnancy related pancreatitis
+
+	- dysbetalipoproteinemia
+		- autosomal recessive apoE2 mut
+		- elevated TGs + total cholesterol
+		- needs 2nd hit, e.g. hypothyroidism
+		- xanthomas, elevated chylomicron remnants + VLDL
+
+	- familial hypertriglyceridemia:
+		- autosomal dominant
+		- TG 200-500
+
+	- chylomicronemia:
+		- autosomal recessive LPL deficiency
+		- impaired lypolysis + increased chylomicrons
+		- TGs > 2000 for homozygotes
+		- symptoms:
+			- eruptive xanthomas
+			- lipemia retinales
+			- pancreatitis
+			- hepatosplenomegaly
+			- lymphadema
+			- memory loss + peripheral neuropathy
+
+	- ApoA-1 deficiency:
+		- absence of HDL
+		- free cholesterol elevated
+		- corneal opacities, plantar xanthomas
+		- missense -> low HDL
+		- some ApoA-1 mutations -> amyloidoses
+
+	- tangier disease:
+		- ABCA1 deficiency
+		- low HDL, LDL, and apoA-1
+		- hepatosplenomegaly, orange tonsils, peripheral neuropathy
+		- increased CVD risk
+
+	- LCAT deficiency:
+		- LDL high, TGs high, HDL + apoA-1 low
+		- complete deficiency: hemolytic anemia + ESRD
+		- partial deficiency: fish-eye disease
+
+	- CETP deficiency:
+		- high HDL (>150)
+		- homozygotes in Japan
+
+	- familial combined hyperlidermia:
+		- autosomal dominant
+		- overproduction of apoB -> VLDL + LDL are small + more atherogenic
+		- high LDL + TGs
+		- ~20% of premature CAD
+
+	- metabolic syndrome:
+		- increased risk for DM2, CVD, + all cause mortality
+		- crieria:
+			- waist >= 40", >= 35"
+			- TGs >= 150
+			- HDL < 40, <50
+			- htn
+			- fasting glucose >= 100
+
+	- drugs:
+		- statins
+			- inhibit HMG CoA
+			- decrease LDL by 30%-60%, mild increase in HDL
+			- decrease TGs by 14%-33%
+			- effective, decrease CHD risk
+				- 22% reduction in mortality
+				- 32% reduction in nonfatal MI or CHD
+			- side effects:
+				- myopathy
+				- proteinuria
+				- diabetes
+				- rare hepatotoxicity
+
+			- list:
+				- atorvastatin
+				- rosuvastatin
+				- simvastatin
+				- fluvastatin
+				- pravastatin
+				- lovastatin
+
+		- cholesterol absorption inhibitor:
+			- decreased LDL 17%, 14% w/ statin
+			- side effects:
+				- increased LFTs w/ statin
+				- myalgias / rhabdo
+				- hepatitis
+				- pancreatitis
+				- thrombocytopenia
+			- list:
+				- ezetimibe
+
+		- bile acid sequesterants
+			- cholesterol cannot be absorbed
+			- decreases LDL 25%, 50% synergy w/ statin
+			- side effects:
+				- GI symptoms
+				- increase in LFTs
+				- decreased fat soluble vitamins
+				- decreased absorption of medications
+
+			- list:
+				- cholestyramine
+				- colestipol
+				- colesevelam
+
+		- PCSK9 inhibitors
+			- prevent endocytosis of LDL-R
+			- reduce LDL by 70%, 60% w/ statin
+			- side effects:
+				- injection site reaction
+				- myalgia
+				- neurocognitive events
+				- opthamologic events
+			- list:
+				- evolocumab
+				- alirocumab
+		- niacin:
+			- reduce LDL 25-35% and HDL by 20%
+			- side effects:
+				- flushing in 80%
+				- myopathy w/ statins
+				- liver toxicity
+				- hyperglycemia
+				- gout attack
+				- hypotension w/ vasodilators
+			- list:
+				- niacor
+				- niaspan
+		- fenofibrates
+			- lower TGs by 35-50%, raise HDL by 5-20%
+			- mild LDL reduction
+			- pancreatitis prevention
+			- side effects:
+				- muscle toxicity (worse w/ statin)
+				- inhibits CYP3A4 -> increases statin concentration
+				- decreases cyclosporine
+				- increases warfarin
+			- list:
+				- gemfibrozil
+				- fenofibrate
+
+		- fish oil + omega-3 FA
+			- reduces TGs by 25%-30%
+			- side effects: GI -> nausea
+			- no CVD benefit
+
+		- bempedoic acid
+			- reduce LDL by 15%
+			- secondary prevent for statin intolerant
+			- side effects:
+				- nasopharyngitis
+				- myalgia
+				- URT infections
+
+
+L11: treatment of lipid disorders
+	main:
+	- tx paradigm
+		- CAC: 0 -> no statin unless DM2, FHx, or smoker
+		- CAC: 1-99 -> favors statin, especially over 55 yo
+		- CAC: 100+ or 75%+ -> statin
+
+L12-13: coronary artery pathophysiology
+	- main:
+	- myocardial O2 demand
+		- wall tension -> increased O2 demand
+		- heart rate
+		- contactility
+
+	- myocardial O2 supply ~ blood supply
+		- diastolic perfusion pressure
+		- coronary vascular resistance
+			- external compression
+				- highest in systole
+				- related to intramyocardial pressure
+				- subendocardium, next to high intraventricular pressure
+					- high risk for ischemic damage
+
+			- perfusion pressure has plateau effect on coronary flow rate
+			- regulation
+				- local metabolites:
+					- oxygen -> vasoconstrictor
+					- adensoine -> vasodilator
+					- lactate
+					- prostaglandins
+					- H+
+				- endothelial factors,  all -> vasodilation
+					- ATP, ADP, bradykinin, histamine, acetylcholine
+					- EDRF -> stimilates SMC g cyclase
+					- increased cGMP
+				- dysfunctional endothelium -> platelet aggregation + vasoconstriction
+	
+		- O2 carrying capacity
+	
+	- EKG abnormalities:
+		- subendocardial ischemia
+			- ST depression (horizontal)
+				- worse mortality
+			- ST depression (downsloping)
+			- T wave inversion
+
+		- transmural ischemia
+			- ST elevation
+
+	- unstable angina classifications
+	- plaque ruptures risks:
+		- <50% initial stenosis -> higher risk for MI + unstable angina
+		- more lipids in plaque -> higher rupture risk
+		- lower smooth muscle cell count -> higher rupture risk
+		- higher macrophage count -> higher rupture risk
+		- thinner cap -> higher rupture risk
+
+	- 325mg asprin -> good for MI
+	- stopped at slide 85/126
+
+L14-15: valvular heart disease
+	- aortic stenosis:
+		- > 50% closure -> flow limiting -> htn
+		- compensation:
+			- concentric LVH
+		- decompensation:
+			- LVH -> decreased LV compliance
+			- hypertrophy / afterload mismatch
+			- decrease contractility
+		- symptoms:
+			- angina
+				- increased myocardial O2 demand
+				- reduce perfusion, coronary perfusion = aortic pressure - LV diastolic pressure
+			- syncope
+				- less SV increase during exercise -> decreased CO
+			- dyspnea -> CHF
+				- increased LVDP -> increased PCWP -> pulmonary congestion / edema
+		- progression:
+			- 70-80 yo, 50-60 if bicuspid
+		- signs:
+			- S4: sustained LV apical impulse
+			- harsh systolic ejection at R 2nd intercostal
+			- reduced A2
+			- paradoxical splitting of S2, single S2
+			- late peaking crescendo-descrescendo systolic murmur
+		- severity:
+			- severe: valve area < 1, mean gradient > 4, jet velocity > 4
+		- causes:
+			- calcific (age)
+			- rheumatic heart disease
+			- bicuspid
+			- unicuspid
+			- severe at birth
+		- tx:
+			- SAVR
+			- TAVR
+			- balloon aortic valvuloplasty
+			- statins to delay AS
+
+	- aortic regurgitation:
+		- causes:
+			- leaflet abnormality
+			- dilatation of aortic root
+		- acute:
+			- large increase in LV pressure
+			- pulmonary congestion
+			- decreased CO -> death
+			- signs:
+				- shock
+				- respiratory failure
+			- progression: pulmonary congestion -> low CO -> death (hrs to days)
+
+		- chronic:
+			- normal CO and LVDP -> asymptomatic
+			- increase in LV pressure -> eccentric LVH
+				- increased LV size allows larger regurg volume
+				- increased SV -> increases systolic BP
+
+			- widened pulse pressure 
+				- high SV -> high aortic systolic BP
+				- large regurgitant volume -> decrease diastolic BP
+			- signs:
+				- dyspnea
+					- increased LVEDV -> increased LVEDP -> increase LAP -> increased PWCP
+					- decreased myocardial contractility -> increased LVEDV - > increased LAP -> increased PWCP
+				- fatigue
+					- LV failure + decreased CO
+				- angina (rare)
+					- increased afterload -> increased O2 demand 
+					- decreased coronary perfusion pressure
+			- exam:	
+				- blowing decrescendo diastolic murmur LLSB
+				- low feqruency diastolic rumble
+				- displaced hyperdynamic LV impulse
+
+			- severity:
+				- severe: regurg volume >= 60cc, RF >= 50%, effective regurg orifice >= .30
+
+			- progression: low risk until symptoms -> symptom onset -> irreversible LV dyfunction or death in 1-5 yrs
+			- tx:
+				- TAVR - clipping
+	- mitral valve:
+		- papillary muscles
+			- antero-lateral: one body, dual supply from LAD + branch of LCx
+			- postero-medial: two bodies, supply from LCx or RCA
+
+	- mitral stenosis
+		- causes:
+			- rheumatic heart disease
+			- congenital causes
+			- endocarditis
+			- mitral annular calcification
+			- LA myxoma, thrombus
+		- effects:
+			- high LA pressure
+			- pulmonary edema
+			- PH: from backwards pressure
+				- PH -> increase constriction -> fibrosis -> more PH
+			- atrial dilitation
+				- higher risk for afib
+		- symptoms:
+			- dyspnea
+			- exercise intolerance
+				- increased flow + HR -> reduced filling time
+			- pulmonary edema
+			- gradual or acute
+				- acute causes: afib, fever/infection, hyperthyroidism, pregnancy, anemia, etc
+			- hemoptysis
+		- exam:
+			- increased S1
+			- opening early diastolic snap (earlier -> worse)
+			- diastolic rumble (longer -> worse)
+			- PH signs: RV heave, increased P2
+
+		- severity:
+			- severe: mean gradient >10 mmHg, MVA < 1 cm2, PASP > 50 mmHg
+			- normal: mean gradient <5 mmHg, MVA > 1.5 cm2, PASP < 30 mmHg
+
+		- progression:
+			- latent, high survival
+			- 10 y survival asymptomatic > 80%
+			- 10 y survival symptomatic = 50%
+				- if severe PH < 3 years
+
+		- tx:
+			- diuretics
+			- rate/rhythm control for afib
+			- anticoagulation for afib
+			- valvuloplasty
+			- surgical mitral valve repair
+
+	- mitral regurgitation
+		- causes:
+			- dilation of ventricle + annulus
+			- myxomatous, fibroelastic deficiency
+			- endocarditis
+			- rheumatic heart disease
+			- ruptured chords or papillary muscles
+		- effects:
+			- elevated LA volume + pressure
+			- decreased CO
+			- LV volume stress
+		- severity:
+			- regurg orifice size
+			- LV - LA pressure
+			- LA compliance
+			- regurg duration
+			- SVR
+		- tall V wave on venous tracing
+		- acute:
+			- normal size, noncompliant LA
+				- increased LA pressure
+				- increased PWCP -> PH + pulmonary edema
+			- decreased CO
+			- potential RV failure from PH
+			- emergency -> pulmonary edema + shock + death
+				- emergency surgery
+		
+		- chronic:
+			- LAE
+			- eccentric LVH
+			- same CO
+			- symptoms:
+				- fatigue
+				- dyspnea: elevatred LAP -> increased PWCP
+				- afib: LA volume overload, pressure overload
+				- RHF symptoms: late
+		- exam:
+			- holosystolic murmur at apex, radiating to axilla
+				- worsens with fist clench (increased afterload)
+			- chronic MR:
+				- displaced, diffused apex
+				- S3 (audible + palpable)
+		-  severity:
+			- severe: regurg volume >= 60cc, RF >= 50%, effective regurg orifice >= .40
+		- progression:
+			- onset -> irreversible LV dysfunction, CHF, death in several yrs
+		- tx:
+			- diuretics
+			- afterload reduction: all acute or only hypertensive chronic
+			- MV repair if structural
+			- function MR -> treat underlying cause
+
+	- tricuspid regurgitation
+		- causes:
+			- RV dilitation
+			- endocarditis
+			- carcinoid syndrome -> endocardial plaques on right heart
+
+	- PV loops:
+		- aortic stenosis: increased pressure, LVEDV -> shift right, LVESV stays same
+		- aortic regurg: pressure ~ same, LVESV -> shifts right, loop widens in volume
+		- mitral stenosis: LVESV -> shifts left
+		- mitral regurg: loop widens in volume
+
+L15B: valve pathology:
+
+L16-17: cardiac arrhythmias
+	main:
+	- normal sinus rhythm
+		- sinus node -> AV node -> His-purkinje system
+		- p wave positive in II and negative in aVR
+
+	- arrhythmia mechanisms:
+		- automaticity
+			- leaky membranes -> partial depolarization
+			- automatic rate > SA node rate -> ectopic beats
+			- ex: PACs, PVCs, junctional tachycardia, atrial tachycardia
+
+		- triggered activity
+			- afterdepolarization: one depolarization triggering other depolarizations
+			- high voltagea afterdepolarization -> ectopic beats or tachyarrythmias
+			- early afterdepolarization:
+				- phase 2: augmented inward Ca
+				- phase 3: augmented inward Na
+				- usually in prolonged repolarization, such as long QT
+				- arrhythmia: torsades des pointes 
+
+			- delayed afterdepolarization:
+				- phase 4: augmented inward Ca
+				- situations: 
+					- digoxin toxicity -> elevated intracellular Ca
+					- catecholamine stimulation
+					- resulting arrhythmia: bidirectional/ideopathic VT
+
+		- altered impulse conduction
+			- causes: ischemia, fibrosis, drugs
+			- block: impulse reachs unexcitable area
+				- transient vs permanent
+				- bidirectional vs unidirectional 
+				- complete block -> bradyarrhythmias
+			- reentry:
+				- unidirectional block that loops -> tachyarrhythmia
+				- self-perpetuating reentry:
+					- unidirectional block
+					- conduct flows retrograde through block and reenters loops
+					- ex:
+						- AVNRT
+						- AVRT
+						- atrial flutter
+						- scar-related VT
+					- causes:
+						- decreased conduction velocity
+							- scarring, MI, cardiomyopathies
+						- heterogenous refractoriness
+							- MI, inflammation, cardiomyiopathies, electrolyte abnormalities
+	
+	- general treatment ideas:
+		- decrease automaticity (phase 4 slope)
+			- β-blockers + CCBs
+		- decrease conduction velocity (phase 0 slope)
+			- Na + K blockers
+		- change refractory period: prolong phase 2 + 3
+			- Na + K blockers
+
+
+	- common tachyarrhythmias:
+		- sinus tachycardia:
+			- causes: fever, hyperthyroidism, volume depletion, anxiety, etc
+			- tx: can use β-blocker
+
+		- premature atrial complex/contraction (PAC):
+			- P wave from other atrial focus
+				- different morphology
+				- earlier in cycle
+			- skipped beats, palpitations, benign
+			- tx: reassurance, maybe β-blockers
+
+		- atrioventricular nodal reentrant tachycardia (AVNRT):
+			- two paths: fast + slow
+			- usually symptomatic: onset/offset of regular palpitations
+			- EKG: dont know
+
+		- atrioventricular reentrant tachycardia (AVRT):
+			- bypass path
+			- delta wave: elongated pre R wave slope
+			- widened QRS
+
+		- wolf-parkinson-white syndrome (WPW):
+			- delta waves
+			- orthodromic AVRT:
+				- path from outside LV through atria back to septum
+			- antidromic AVRT:
+				- path up septum then down outside of LV
+				- widened R, two peaks
+
+		- focal atrial tachycardia:
+			- single site of origin
+
+		- multifocal atrial tachycardia:
+			- >=3 sites of origin
+			- >=3 P wave shapes 
+
+		- atrial fibrillation:
+			- SVT w/ >350 bpm
+			- irregular + disorganized atrial activity
+				- no discrete P waves
+			- causes:
+				- altered atrium: fibrosis, inflammation, enlarged
+				- altered atrial refractoriness:
+					- hyperthyroidism
+					- alcohol, stimulants
+					- vagal tone
+			- tx:
+				- rate control:
+					- chronic AF, few symptoms, multiple co-morbidities
+					- previous antiarrhythmic failure
+				- rhythm control:
+					- paroxysmal afib
+					- highly symptomatic, younger, CHF worsened by afib
+					- meds:
+						- amiodarone: thyroid, liver, pulm, ocular toxicities
+						- sotalol/dofetilide: long QT/torsade
+						- flecainide/propafenone: avoid w/ other heart disease
+						- dronedarone: not w/ severe CHF, permanent afib or cirrhosis
+				- CHADS-VASC: >=2 men or >=3 women -> give oral anticoagulant
+
+		- atrial flutter:
+			- starts RA revolves around tricuspid valve
+			- sawtooth F waves
+			- tx: just look at chart
+
+		- junctional rhythms / tachycardia:
+			- increased automaticity at AV node > sinus node
+			- lack of P waves
+			- causes:
+				- digoxin toxicity
+				- beta-agonists: isoproterenol
+				- beta-blockers
+				- MI, myocarditis, cardiac surgery
+			- junctional escape beat:
+				- single beat missing P wave
+			- junctional rhythm:
+				- regular: 40-60 bpm
+				- accelerated: 60-100 bpm
+			- junctional tachycardia:
+				- >100 bpm
+
+		- supraventricular tachycardias:
+			- paroxysmal (PSVT):
+				- acute:
+					- unstable: cardioversion (synced)
+					- stable:
+						- CSM/vagal maneuvers/adenosine -> stop PSVT
+						- CCBs or β-blockers to terminate
+
+				- chronic:
+					- counsel to avoid triggers: caffeine, alcohol, pseudophedrine, stress
+					- AV nodal blockers
+					- catheter ablation or antiarrhythmics
+
+			- irregular ventricular rate:
+				- multifocal atrial tachycardia
+				- afib
+				- atrial flutter / variable AV block
+				- atrial tachycardia / variable AV block
+
+			- regular ventricular rate:
+				- no P waves:
+					- AVNRT
+					- junctional tachycardia
+				- P waves:
+					- sinus tachycardia
+					- atrial tachycardia
+					- atrial flutter + 2:1/3:1/4:1 AV block
+					- AVNRT / AVRT
+
+		- premature ventricular complex/contraction (PVC):
+			- no P wave, wide QRS, T wave polarity opposite of PVC
+
+		- ventricular tachycardia:
+			- non-sustained:
+				- >= 3 ventricular beats w/ rate >= 100 bpm
+				- tx:
+					- symptomatic -> antiarrhythmics
+					- heart disease -> refer for ICD implant
+
+			- sustained:
+				- > 30 seconds of ventricular beats
+				- tx:
+					- acute:
+						- unstable -> DC cardiovert
+						- lidocaine
+						- procainamide: watch for hypotension
+						- amiodarone
+					- chronic:
+						- β-blocker
+						- amiodarone or sotalol: palliative
+						- ICD
+						- catheter ablation: curative in ideopathic, palliative in advanced heart disease
+
+		- torsades de pointes:
+			- polymorphic ventricular tachycardia (VT)
+			- setting: long QT interval
+			- tx:
+				- acute:
+					- defibrillate
+					- check K+ / Mg
+					- isoproterenol or pacemaker to 100 bpm
+					- lidocaine
+					- stop offending meds
+				- long term:
+					- genetic testing
+					- β-blockers
+					- ICD
+					- avoid QT-prolonging meds
+
+		- ventricular fibrillation:
+			- chaotic disorganized ventricular rhythm
+			- tx: defibrillate
+			-
+
+	- common bradyarrhythmias:
+		- tx:
+			- asymptomatic: nonthing
+			- symptomatic:
+				- stop offending meds
+				- short term: atropine
+				- pacemaker
+
+		- sinus bradycardia:
+			- <60 bpm
+
+		- AV block:
+			- 1st degree:
+				- PRi > 200 ms (5 mm)
+				- wide QRS -> risk of higher degree block
+			
+			- 2nd degree type I - wenckebach:
+				- PRi prolongation -> non-conduction of P wave (P wave w/o QRS)
+				- caused by: β-blockers, CCBs, digoxin
+				- usually asymptomatic: sometimes angina, syncope (elderly)
+
+			- 2nd degree type II:
+				- normal PRi with sudden non-conduction of P wave (no QRS)
+				- usually below AV node w/ BBB or fascicular block
+				- symptoms: pre/syncope, worse with exercise
+				- tx: pacemaker
+
+			- 3rd degree:
+				- complete AV dissociation, atrial rate > ventricular rate
+				- symptoms: dizziness, syncope, angina, HF
+				- tx: pacemaker
+
+	- tachy-brady syndrome:
+		- symptoms: bradycardia, lightheadness, syncope, palpitations, etc
+		- tx:
+			- antiarrhythmic + pacemaker
+			- anticoagulation w/ afib or aflutter
+
+	- sick sinus syndrome:
+		- HR too low -> reduced CO
+		- symptoms: bradycardia, lightheadness, syncope, fatigue, chest pain
+
+	- pacemaker guide:
+		- symptomatic + bradycardia cause -> pacemaker
+		- asymptomatic + HR in 30s + >3s pauses -> pacemaker
+		- asymptomatic + high risk for progression (type II AV block) -> pacemaker
+
+	- ICD guide:
+		- spontaneous sustained VT + structural heart disease
+		- cardiac arrest from VT or VF
+		- syncope of unkown origin + sustained VT or VF when drugs not option
+		- LVEF <35%, at least 40 days post MI, NYHA class II-III
+		- prior MI, LVEF < 40%, NSVT and inducicle VT
+
+
+L18: cardiac genetics:
+	main:
+	- trisomies 13, 18, 21 -> increased risk of CHD
+	- DiGeorge syndrome (TBX1):
+		- truncus arteriosus
+		- tetralogy of fallot
+		- VSD
+	
+	- williams syndrome (ELN):
+		- hypercalcemia
+		- peripheral PA stenosis
+	
+	- elastin
+		- isolated peripheral pulmonic stenosis
+	
+	- alagille syndrome (JAG1)
+		- stenosis of the branched pulmonary arteries
+		- jaundice (paucity of bile ducts)
+	
+	- noonan syndrome/leopard syndrome (PTPN11)
+		- dysplastic pulmonary valve, hypertrophic cardiomyopathy
+		- short stature
+	
+	- holt-oram syndrome (TBX5)
+		- arm/hand birth defects
+		- atrial septal defects most common
+		- conduction abnormalities
+	
+	- marfan syndrome
+		- aortic root dilation
+
+	- isolated hypertrophic cardiomyopathy:
+		- autosomal dominant
+		- variable penetrance w/ age
+		- place ICD
+	
+	- dilated cardiomyopathy:
+		- associated with muscular dystrophy
+		- LMNA mutation -> conduction disease -> AICD
+
+	- arrhythmogenic right ventricular cardiomyopathy (ARVC):
+		- fibro-fatty replace of RV myocardium
+		- monomorphic VTs w/ LBBB
+	
+	- familial long QT
+		- QTc > 440ms
+		- autosomal dominant, autosomal recessive w/ deafness
+		- results in polymorphic VTs -> torsades
+		- mechanisms: slow repolarization
+			- decreased K channel activity
+			- increased Na channel activity
+		- types:
+			- LQT1:
+				- emotion, physical activity
+				- β-blockers
+				- restrict activity
+			- LQT2:
+				- auditory stimuli, sleep or rest
+				- avoidance of hypokalemia + auditory triggers
+			- LQT3:
+				- sleep or rest
+				- mexiletine/flecainide
+				- pacing / AICD
+
+	- brugada syndrome:
+		- RBBB w/ ST elevation in V1-V3
+		- SCD from VF during sleep
+		- defibrillator
+
+	- catecholaminergic polymorphic ventricular tachycardia (CPVT):
+		- bi-direction polymorphic VT w/ exercise, stress, catecholamines
+		- degenerates -> malignant VT + cardiac death
+		- 30% mortality by 30 yo
+		- autosomal dominant: ryanodin 2 (RyR2)
+		- autosomal recessive: calsequestrin (CASQ2)
+		- tx: β-blockers + AICD
+
+
+L19: sudden cardiac death:
+	main:
+	- <= hour from symptom onset
+	- SCD = VT or vfib
+	- causes:
+		- MI
+		- brugada:
+			- convex ST elevation w/ negative T waves in V1-V3
+		- wolf-parkinson-white
+		- commotio cordis: heart stops when hit
+	- risks:
+		- look for VT symptoms
+		- murmurs portend -> HCM
+		- CHF / cardiomyopathy
+		- EF is biggest predictor of survival
+	- electrophysiology study (EPS):
+		- catheter pacing -> induce VT
+	- tx:
+		- class I: lidocaine IV, mexiletine, quinidine
+		- class III: sotalol, dofetilide
+		- amiodarone
+		- AICD
+			- prior cardiac arrest
+			- HF w/ low EF
+			- MI w/ low EF + inducible VT
+			- high risk channelopathies
+			- HCM w/ high risk features
+
+
+L20: cardiomyopathies:
+	main:
+	- dilated:
+		- systolic dysfunction
+		- peripartum cardiomyopathy
+			- last trimester + 6 mo postpartum
+			- recovers in 50%
+
+		- stress induced cardiomyopathy: broken heart syndrome, takotsubo
+			- LV apical ballooning
+			- may resolve days to months
+
+		- criteria:
+			- CXR: normal, cardiomegaly, pulmonary edema, pleural effusions
+			- EKG: afib, LBBB, VT
+			- endomyocardial bx:
+				- myocarditis: giant cell, lymphocytic, eosinophilic, CMV, toxoplasmosis
+
+		- tx:
+			- volume control: salt restriction + loop diuretics
+			- vasodilators: ACEi, ARB, ARNI, hydralazin + nitrates
+			- β-blockers: coreg, metoprolol, bisoprolol
+			- MRA: aldactone, eplerenone
+			- SGLT 2: dapagliflozin or empagliflozin
+
+	- hypertrophic:
+		- diastolic dysfunction
+		- LVH that is NOT caused by pressure overload (htn or aortic stenosis)
+		- pathophysiology:
+			- diastole: reduced filling + increased filling pressure
+			- MI: increased O2 demand, decreased vasodilator reserve, systolic compression of coronaries
+			- mitral regurg
+			- arrhythmias
+		
+		- dynamic LVOT obstruction
+			- septal bulge
+			- MV large and slack
+			- residual leaflet extension
+		- symptoms:
+			- chest pain
+			- syncope
+			- lightheadness or dizziness
+			- palpitations
+			- dyspnea
+			- fatigue
+			- HF
+		- signs:
+			- S4: LA contraction into stiff LV
+			- double apical impulse
+			- jerky bifid carotid pulse
+			- MR murmur: holosytolic at apex
+			- LVOT murmur: crescendo-decrescendo LLSB 
+				- dynamic murmur:
+					- louder w/ vasalva
+					- quieter w/ squatting
+		- tx:
+			- β-blockers: metoprolol
+				- decrease O2 demand
+				- reduce exercise LVOT gradient
+				- increased diastolic filling time
+			- non-dihydropyridine CCBs: verapamil + diltiazem
+				- if intolerant to β-blockers
+			- antiarrhythmics:
+				- disopyramide (norpace): reduces resting LVOT gradient
+				- amiodarone
+			- surgery: myectomy, MV plication, alcohol septal ablation
+
+			- avoid:
+				- nitrates
+				- ACE / ARBs (*prils and *sartans)
+				- dihydropyridine CCBs: nifedipine, amlodipine, *pines
+				- α-blockers (*sins)
+				- PDE5i (*enafils)
+				- dobutamine, dopamine, digoxin
+				- sympathomimetics
+
+	- restrictive:
+		- diastolic dysfunction
+		- impairsed diastolic filling + preserved systolic fxn
+		- pathophysiology:
+			- EDVPR shifts left -> small PV loop
+			- high diastolic pressures
+			- elevated pulmonary + systemic pressure
+			- reduced LV size, SV, CO
+		- causes:
+			- sarcoid
+			- amyloidosis:
+				- AL: plasma cell dyscrasia
+				- TTR-hereditary: autosomal dominant, transthyretin -> amyloid fibrils
+				- TTR-senile: transthyretin -> amyloid deposits everywhere
+				- AA: inflammatory marker amyloid A -> AA amyloid, RA, etc
+				- signs:
+					- EKG:
+						- reduced voltage
+						- afib
+						- pseudoinfarct
+						- AV conduction abnormality
+					- echo:
+						- thick LV + RV walls
+						- biatrial dilatation
+						- pericardial effusion
+						- valve thickening w/o dysfunction
+					- MRI: global subendocardial hyperenhancement
+					- nuclear SPECT
+					- blood test: monoclonal gammopathy -> AL amyloidosis
+				- tx: 
+					- diuretics
+					- challenging meds: β-blockers, ACEi, ARB, digoxin, CCBs
+					- high dose chemo + stem cell transplant
+					- TTR:
+						- tafamidis
+						- patisiran
+						- inrotesen
+
+			- hemochromatosis
+			- radiation carditis
+			- LV noncompation
+				- treat with anticoagulation + HF treatment
+			- arrhythmogenic RV cardiomyopathy
+				- adipose + fibrous RV replacement
+
+L21: social determinants of health:
+	main:
+	- NSTEMI care differences
+
+L22: pericardial diseases:
+	main:
+	- congenital absence pericardium
+	- acute pericarditis:
+		- progression:
+			- local vasodilation: transudative effusion
+			- increased vascular permeability: exudative effusion
+			- leukocyte infiltration: neutrophils + mononuclears
+
+		- pathology:
+			- serous: scant cellular infiltrate
+			- serofibrous: fibrinous loculations "bread + butter appearance"
+			- suppurative (purulent): intense inflammatory exudate
+			- hemorrhagic: bloody effusion
+		
+		- symptoms:
+			- chest pain: "stabbing, sharp"
+				- restrosternal or left-sided -> radiates to neck, shoulder, left scapula
+				- pleuritic
+				- positional: relieved when sitting upright / forward
+
+			- dyspnea
+			- fever
+			- viral symptoms
+		- signs:
+			- friction rub, best heard at left sternal border
+			- EKG:
+				- diffuse ST elevation, concave upward
+				- PR depression
+				- late: diffuse T-wave inversion
+			- labs: elevated WBSC, lymphocytes, ESR, CRP, cardiac enzymes
+
+		- tx:
+			- acute viral:
+				- NSAIDs
+				- colchicine: decreases recurrence rate
+				- corticosteroids: not first line
+
+	- pericardial effusion:
+		- symptoms:
+			- dull, left chest discomfort
+			- compression symptoms:
+				- dyspnea
+				- throat pain / dysphagia
+				- hoarseness
+				- hiccups
+		- signs:
+			- distant + muffled heart sounds
+			- ewart sign: dullness to percussion of lung below left scapula
+			- friction rub
+			- EKG: low voltages, electrical alternans (alternating QRS sign)
+			- CXR: fluid, water bottle heart
+			- echo: sensitive
+		- tx:
+			- tx underlying cause: dialysis for uremic effusion
+			- pericardiocentesis
+	
+	- cardiac tamponade:
+		- increase intrapericardial pressure
+		- compression: prevents filling + venous return
+		- decreased SV + CO
+		- elevated diastolic pressure
+		- compensatory mechanisms -> failure leads to shock + death:
+			- increased sympathetic tone
+			- tachycardia
+			- peripheral vasoconstriction
+			- volume expansion
+		- symptoms:
+			- fatigue
+			- vague chest discomfort
+			- dyspnea, cough
+			- lightheadness, syncope
+			- symptoms of shock
+		- signs:
+			- beck's triad: JVD, hypotension, "small, quiet heart"
+			- sinus tachycardia
+			- pulsus paradoxus
+			- dyspnea + tachypnea
+			- shock
+			- echo: visualize
+			- CT: loculated effusion
+			- cardiac cath: definite study
+
+		- tx:
+			- volume resuscitation
+			- pericardiocentesis
+			- pericardiostomy
+
+	- pericardial constriction:
+		- rigid, scarred pericardium
+		- symptoms:
+			- fatigue
+			- hypotension
+			- tachycardia
+			- JVP
+			- hepatomegaly
+			- pedal edema
+		- signs:
+			- reduced CO
+			- elevated venous filling pressure
+			- early diastolic pericardial knock
+			- kussmaul's sign
+			- rapid Y descent
+			- CXR: calcification
+			- CT / MRI: pericardial thickening >2mm
+			- doppler echo:
+				- abnormal diastolic filling pattern
+				- abnormal septal motion
+				- respiratory variation inflow velocities
+			- cardiac cath:
+				- elevation / equalization of diastolic pressures
+				- prominent Y descent in RA
+				- early diastolic "dip and plateau" in RV + LV pressures
+				- discordant RV + LV systolic pressure with breaths
+			- tx:
+				- pericardectomy: significant mortality (6%)
+
+
+L23: left to right shunts:
+	main:
+	- fetal circulation:
+		- O2 -> umbilical vein -> ductus venosus -> IVC
+		- PFO: RA O2 -> LA O2
+		- pulmonary blood flow <10%
+		- ductus arteriosus: PA O2 -> aorta
+
+		- RV 66% CO: 60% -> DA
+
+	- ventricular septal defect (VSD):
+		- effects:
+			- large: CHF, softer murmur
+			- small: None, louder murmur
+		- harsh systolic murmur at LLSB
+		- precordial thrill secondary to turbulence across VSD
+		- mid-diastolic rumble secondary to trans-mitral flow
+		- LVH / CHF: S3, hepatomegaly, rales
+		- pulm vasc disease: RV heave, loud S2, cyanosis
+		- O2 step up in RV
+		- digoxin + lasix + calories -> fail -> surgery
+		- endocarditis prophylaxis 6 mo post surgery, for life if defect, before oral surgery
+
+	- PDA:
+		- effects:
+			- small: asymptomatic
+			- large: CHF
+			- moderate: fatigue + dyspnea + SVT secondary to LAE
+		- continuous machine like murmur
+		- LAE, LVH, O2 step up in PA
+		- PH or CHF or FTT -> closure -> indomethacin or surgical ligation or coil
+
+	- ASD:
+		- RA + RV volume overload
+		- effects:
+			- kid: asymptomatic
+			- adult (before 40 yo):
+				- atrial tachycardia secondary to RAE
+				- RHF
+				- survival less (50-60s)
+		- wide, fixed split S2, RV heave
+		- systolic murmur LUSB
+		- mid-diastolic murmur LLSB
+		- RAE, RVH, RVD, IRBBB, O2 step up in RA
+		- RV volume overload or TE -> closure
+
+
+
+L24: right to left shunts:
+	main:
+	- tetralogy of fallot (ToF):
+		- features:
+			- VSD
+			- aortic override (centered between ventricles)
+			- pulmonary stenosis
+			- RVH
+		- causes: DiGeorge
+		- systolic ejection murmur at LUSB
+		- tx: surgical repair of VSD + PS
+		- boot heart + upturned apex
+
+	- truncus arteriosus (TA):
+		- features:
+			- aorta + PA combined
+			- VSD
+		- PH high risk
+		- surgical repair
+
+	- transposition of the great arteries:
+		- great arteries switched
+		- survival by PFO/ASD, VSD (1/3) or PDA
+		- tx:
+			- balloon atrial septostomy
+			- surgical arterial switch

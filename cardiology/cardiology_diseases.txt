@@ -1,0 +1,150 @@
+L2: regulation of blood pressure:
+	- hypertension
+
+L3: drugs that affect the vasculature:
+	- congestive heart failure
+	- hypertension
+
+L4: the heart and lung:
+	- HAPE
+	- PH
+	- PVH
+	- HF
+
+L6-7: pathophysiology of heart failure I
+	- HF
+		- systolic
+		- diastolic
+		- compensated
+		- decompensated
+		- low output
+		- high output
+	- cardiomyiopathy
+		- dilated
+		- hypertrophic
+		- restrictive
+		- infiltrative
+		- familial
+		- non-ischemic
+		- ischemic
+		- ideopathic
+
+L8-9: treatment of heart failure
+	- HRrEF
+	- LHF + RHF
+
+L10: lipid disorders
+	- atherosclerosis
+	- CVD
+	- familial hypercholesterolemia
+	- dysbetalipoproteinemia
+	- familial hypertriglyceridemia
+	- chylomicronemia
+	- HDL disorders:
+		- ApoA-1 deficiency
+		- tangier disease
+		- LCAT deficiency
+		- CETP deficiency
+	- familial combined hyperlipidemia
+	- metabolic syndrome
+
+L12-13: coronary artery pathophysiology
+	- ischemic heart disease
+	- myocardial infarction
+	- unstable angina
+	- nSTEMI
+	- STEMI
+
+L14-15: valvular heart disease
+	- aortic stenosis
+	- aortic regurgitation
+	- mitral stenosis
+	- mitral regurgitation
+	- tricuspid regurgitation
+
+L15b:
+	- mitral valve prolapse
+	- bicuspid AV
+	- rheumatic heart disease
+	- noninfectious endocarditis
+	- infectious endocarditis
+	- carcinoid heart disease
+
+L16-17:
+	- sinus tachycardia
+	- premature atrial complex/contraction (PAC)
+	- atrioventricular nodal reentrant tachycardia (AVNRT)
+	- atrioventricular reentrant tachycardia (AVRT)
+	- wolf-parkinson-white syndrome (WPW)
+	- focal atrial tachycardia
+	- multifocal atrial tachycardia
+	- atrial fibrillation
+	- atrial flutter
+	- junctional rhythms / tachycardia
+	- supraventricular tachycardias
+	- premature ventricular complex/contraction (PVC)
+	- non-sustained ventricular tachycardia
+	- sustained ventricular tachycardia
+	- torsades de pointes
+	- ventricular fibrillation
+	- sinus bradycardia
+	- AV block
+	- tachy-brady syndrome
+	- sick sinus syndrome
+	- paroxysmal supraventricular tachycardia
+
+L18: cardiac genetics
+	- congenital heart disease
+	- marfan syndrome
+	- isolated hypertrophic cardiomyopathy
+	- hypertrophic cardiomyopathy
+	- noonan/cfc/costello syndrome
+	- arrhythmogenic right ventricular cardiomyopathy (ARVC)
+	- familial long QT
+	- brugada syndrome
+	- catecholaminergic polymorphic ventricular tachycardia (CPVT)
+
+L19: sudden cardiac death (SCD)
+	- brugada syndrome
+	- wolff-parkinson-white
+	- commotio cordis
+
+L20: myocardial diseases: cardiomyopathies
+	- dilated cardiomyopathy
+	- restrictive cardiomyopathy
+	- hypertrophic cardiomyopathy
+	- peripartum cardiomyopathy
+	- stress induced cardiomyopathy
+	- myocarditis
+	- amyloidosis
+	- left ventricular noncompaction
+	- arrhythmogenic RV cardiomyopathy
+
+L21: social determinats of health
+	- STEMI
+	- nSTEMI
+
+L22: pericardium diseases:
+	- Congenital Absence Pericardium
+	- acute pericarditis
+	- pericardial effusion
+	- cardiac tamponade
+	- constrictive pericarditis
+
+L23: left to right shunts
+	- atrial septal defect (ASD)
+	- ventricular septal defect (VSD)
+	- patent ductus arteriosus (PDA)
+	- atrioventricular canal defect (AVC)
+	- patent foramen ovale (PFO)
+	- eisenmenger's syndrome
+
+L24: right to left shunts
+	- pulmonary stenosis
+	- pulmonary atresia
+	- tricuspid atresia
+	- tetralogy of fallot
+	- truncus arteriosus
+	- TAPVR
+	- transposition of the great arteries
+	- HLHS

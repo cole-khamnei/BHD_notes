@@ -1,0 +1,109 @@
+L2: histology and embryology
+	- respiratory distress syndrome (RDS)
+	- sequestration
+
+L3: overview of lung pathology
+	- asthma
+	- chronic bronchitis + bronchiolitis
+	- bronchiectasis
+	- emphysema
+		- proximal
+		- panacinar
+		- distal
+		- irregular
+	- pneumonia
+	- edema
+	- hemorrhage
+	- adult respiratory distress syndrome (ARDS)
+	- diffuse alveolar damage (DAD)
+	- granulomas
+	- pulmonary embolism
+	- pulmonary hypertension
+
+L4: physiology I: physiology and pathophysiology
+	- CO2 narcosis
+
+L8: special topics in pumonary medicine
+	- carboxyhemoglobinemia
+	- methemoglobinemia
+	- acute mountain sickness
+	- high altitude cerebral edema (HACE)
+	- high altitude pulmonary edema (HAPE)
+
+L9: respiratory failure and mechanical ventilation
+	- hypercapnic respiratory failure
+	- hypoxemic respiratory failure
+	- acute respiratory distress syndrome (ARDS)
+
+L11: pulmonary edema and ARDS
+	- pumonary edema
+	- ARDS
+		
+L12: asthma
+	- type 2 high
+	- type 2 low
+
+L13: cystic fibrosis
+	- cystic fibrosis
+
+L15: venous thromboembolism: DVT + PE
+	- VTE
+	- pulmonary embolism (PE)
+
+L17: pleaural diseases
+	- pneumothorax
+	- pneuomediastinum
+	- subcutaneous emphysema
+	- abnormal fluid production
+	- parapneomonic effusions
+	- chylothorax
+	- urinothorax
+	- yellow nail syndrome
+	- lymphangioleiomyomatosis (LAM)
+
+L18: pulmonary vascular system
+	- pulmonary aterial hypertension (PH / PAH)
+	- pre-capillary
+	- IpcPH - isolated post capillary
+	- combined PH
+	- chronic thromboembolism pulmonary htx (CTEPH)
+
+L19: chronic obstructive pulmonary disease COPD
+	- emphysema
+	- chronic bronchitis
+	
+L21: interstitial lung disease I + II:
+	- ideopathic interstitial penumonias (IIP):
+		- ideopathic pulmonary fibrosis (IPF)
+		- non-IPF
+	- granulomatous diseases
+		- sarcoidosis
+		- hypersensitivity pneumonitis (HP)
+	- connective-tissue disease (CTD-ILD)
+	- lymphangioleiomyomatosis (LAM)
+
+L23: sleep disordered breathing
+	- obstructive sleep apnea (OSA)
+	- central sleep apnea
+	- congential central hypoventilation syndrome (CCHS)
+	- obesity hypoventilation syndrome (OHS)
+
+L24: occupational lung disease
+	- asbestos pleural plaques
+	- benign asbestos pleural effusion
+	- diffuse visceral pleural thickening
+	- asbestosis
+	- mesothelioma
+	- lung cancer
+	- silicosis
+	- complicated silicosis - progressive massive fibrosis
+	- acute silicosis - silicoproteinosis
+	- coal worker's pneuomoconiosis - black lung
+	- siderosis
+	- desquamative interstitial pneumonia
+	- giant cell interstitial pneumonitis
+	- organic dust toxic syndromes
+	- berylliosis
+	- occupational asthma
+		- immune-mediated
+		- irritant

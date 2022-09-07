@@ -1,0 +1,49 @@
+L1: hematopoeisis
+L2: iron metabolism
+	- iron food
+
+L3: hemolytic anemias
+	- rituximab: TTP, antibody-mediated hemolytic anemia (AMHA) (cold + warm)
+	- plasmapheresis / plasma exchange: TTP
+	- steroids: TTP, warm AMHA
+	- pegcetacoplan - C3 inhibitor: paroxysmal nocturnal hemogolbinuria (PNH)
+	- eculizumab - C5 inhibitor: PNH
+
+L4: normal hemostasis
+L5: megaloblastic anemi
+	- folate
+	- cobalamin
+
+L6: prothrombotic disorders
+	- cryoprecipite - fibrinogen: DIC
+	- fresh frozen plasma - factors: DIC
+	- platelets: DIC
+	- heparin: rarely DIC
+	- caplicizumab - binds VWF
+	- vincristine: TTP
+
+L7: thalassemias and hemoglobinopathies
+	- iron chelation: β thalassemia, 
+	- transfusions: β thalassemia
+	- allogeneic stem cell transplant: β thalassemia
+	- splenectomy: sickle cell disease
+	- hydroxyurea: sickle cell disease
+
+L8: bleeding disorders
+	- prophylactic recombinant factor replacement: hemophilia
+	- emicizumab: hemophilia
+	- aminocaproic acid: VWD
+	- tranexamic acid: VWD
+	- desmopressin (ddAVP): VWD, uremic platelet dysfunction
+	- steroids: ITP
+	- IV IG: ITP
+	- IV anti-D WinRho: ITP
+	- splenectomy: ITP
+	- rituximab: ITP
+	- romiplostim / eltrombopag - thrombopoeitin mimetics: ITP
+	- cryoprecipite: VWD, DIC
+	- heparin: DIC
+
+L9:
+
+L10:

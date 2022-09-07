@@ -1,0 +1,552 @@
+L1:
+
+L2: iron:
+	main: iron is important
+	- iron cycle:
+		- apical Fe3 reductase -> Fe2
+		- Fe2 absorbed by DMT-1 (divalence metal transporter)
+		- cellular Fe2 binds ferritin
+		- FPN (ferroportin) exports Fe2
+		- transferrin carries Fe2
+		- TFR1/2 (transferrin receptor) binding endocytoses transferrin
+			- Fe2 stored in liver hepatocytes + splenic macrophages
+		- hepicidin inhibits FPN
+			- induced by IL-6, HFE, TRF2, hemojuvulin
+			- downregulated by erythroferrone (when in stress erythropoiesis)
+
+	- iron deficient anemia:
+		- signs:
+			- hypochromic, microcytic, aniso + poikylocytosis
+			- low ferritin
+			- low Hg
+			- increased TIBC
+		- symptoms:
+			- lethary, irritability, pallor
+			- pica (geo + pagophagia)
+			- blue sclera
+			- spoon nails
+			- hx of heavy menses, guaic +, epistaxis
+		- tx: iron supplement
+
+
+	- thalassemia trait:
+		- microcytosis, target cells
+		- non-responsive to iron
+		- normalish Hg and RDW
+		- normal iron
+
+	- anemia of chronic disease
+		- normocytic
+		- IL-6 -> high hepicidin -> poor iron absorbtion / release from stores
+		- signs:
+			- low serum iron
+			- low TIBC
+			- high ferritin
+
+	- hemochromatosis:
+		- signs:
+			- granular, dark red/brown liver
+			- iron in bone marrow
+			- high serum Fe
+			- high ferritin
+			- high iron sat
+		- symptoms:
+			- vertigo
+			- arthritis
+			- bronze skins
+			- hepatomegaly
+			- hair loss
+			- memory loss
+
+		- causes:
+			- transfusions
+			- failed hepicidin signaling
+
+
+L3: hemolytic anemias:
+	main:
+	- hemolysis:
+		- high LDH
+		- urine hemodsiderin
+		- high bilirubin
+		- high reticulocytes
+		- low haptoglobin
+	- coombs positive: antibody mediated hemolytic anemia
+		- warm / IgG:
+			- extravascular hemolysis (in spleen)
+			- sometimes fix complement
+			- microspherocytes
+			- causes: hep c, autoimmune, lymphomas
+			- tx: 
+				- steroids (first line)
+				- rituximab
+				- splenectomy
+				- treat underlying (TU)
+
+		- cold / IgM:
+			- fix complement
+			- intravascular + extravascular hemolysis
+			- agglutination
+			- causes: mycoplasma, mono (EBV/CMV), lymphomas
+			- tx:
+				- rituximab
+				- TU
+				- plasma exchange (rare)
+
+	- inherited:
+		- G6P deficiency
+			- bite + blister cells
+			- heinz bodies
+			- X-linked, mediterranean/african, oxidative stress (fava beans, anti-malarials, ketoacidosis)
+			- tx: transfusions, avoid triggers
+		- hereditary spherocytosis / elliptocytosis: splenectomy
+	
+	- mechanical destruction:
+		- thrombotic thrombocytopenia purpura (TTP):
+			- ADAMTS13 deficiency -> ultra large vWF -> large clots -> schistocytes
+			- microangiopathic hemolysis - thrombotic microangiopathy
+			- signs:
+				- always: anemia, thrombocytopenia 
+				- less common: fever, renal failure, neuro dysfunction
+			- tx
+				- steroids
+				- plasma exchange
+				- rituximab
+				- caplacizumab (stops vWF - platelet interactions)
+
+	- aquired RBC defect:
+		- paroxysmal nocturnal hemoglobinuria (PNH):
+			- urine dark in AM -> lighter through day
+			- GPI anchor loss (prevents alternate pathway complement)
+			- dx: flow cytometry for GPI proteins
+			- tx:
+				- eculizumab: C5 inhibitor
+				- pegcetacoplan: C3 inhibitor
+				- transfusions
+				- anticoagulation
+
+L4: normal hemostasis
+	main:
+	- pathways
+		- intrinsic: TENET (12, 11, 9, 8, 10)
+		- extrinsic: TF -> 7a -> 7a + TF
+		- common: 10 -> 2a (thrombin) -> fribin (1) -> 13 -> cross linked
+		- fibrinolysis: plasminogen --(tPA | 12a | kallikrein)--> plasmin -> fibrin products
+	- specials:
+		- thrombin effects:
+			- activates 11a and 7a (2nd step each pathway)
+			- activates 5 + 8 (the randos)
+			- activates 13 (the finisher)
+			- binds thrombomodulin -> protein C
+		- protein C:
+			- inactivates 5 + 8
+			- activity promoted by protein S
+		- antithrombin:
+			- activated by heparin
+			- inactivates X, thrombin, 11, 9
+		- tissue factor pathway inhibitor (TFPI):
+			- complexes 7/TF/Xa, inactivates Xa
+		- von willebrand factor:
+			- binds exposed collagen
+			- cleaved by ADAMTS13
+			- protects 8
+		- D-dimer:
+			- fibrinolysis byproduct
+			- high d-dimer -> excessive coagulation, inflammation, or renal failure
+
+	- vitamin K: 2, 7, 9, 10, prothrombin, protein C + S
+	- hepatic non vitamin k: 1 (fibrinogen) + 11, antithrombin
+	- hemophilias:
+		- A: factor 8
+		- B: factor 9
+		- C (recessive, mild, women): 11
+
+
+	- PTT: partial thromboplastin time:
+		- intrinsic time
+		- 23-35s
+	- PT: prothrombin time
+		- extrinsic time
+		- 10-13s
+
+
+L5: megaloblastic anemia
+	main: big blood rbcs -> check folate + cobalamine
+	- macrocytic anemias (non-megaloblastic):
+		- liver disease
+		- alcohol toxicity
+		- reticulocytosis: reticulocytes 10% bigger than rbcs
+		- hypothyroidism
+		- medication induced: chemo / antibiotics
+		- myelodysplastic syndromes
+
+	- megaloblastic anemia
+		- pathophysiology:
+			- normal hg/cell production
+			- defect in nuclear replication + division
+		- signs:
+			- oval macrocyte - MCV > 100 fl
+			- hypersegmented neutrophils - 5, 6+ segments
+			- pancytopenia
+			- reticulocytopenia
+			- LDH elevated
+			- serum Fe normal or elevated
+			- low B12 or folate
+
+		- folate deficient:
+			- folate/THF needed for purine synthesis -> cell division
+			- folate absorbed by duodenum/jejunum
+			- signs:
+				- megaloblastic anemia
+				- glossitis/stomatitis
+				- GI malabsorption (rare)
+
+		- B12 / cobalamin deficient:
+			- B12 needed to make folate into THF
+			- B12 absorbed in ileum bound to intrinsic factor IF from parietal cells
+
+			- pernicious anemia:
+				- autoimmune targetting of parietal cells or IF
+				- symptoms: achlorhydria, B12 deficiency / megaloblastic anemia
+			- signs:
+				- same as folate deficient
+				- dementia
+				- psych disturbances
+				- demyelinating disease
+	
+		- tx:
+			- check homocysteine, methylmalonic acid, if high -> B12 deficiency
+			- give B12 + folate
+			- transfusions if angina or hemodynamic unstable
+
+
+L6: prothrombotic disorders
+	main:
+   - anticoagulant protein deficiency
+		- heterozygous:
+			- increased VTE, sometimes ATE
+			- young age thrombosis
+			- increased thrombin production
+			- positive FHx
+
+		- homozygous:
+			- neonatal purpura fulminans
+			- fibrinogenolysis
+			- chronic DIC
+			- increased thrombin production
+			- negative FHx
+
+	- activated protein C resistance
+		- factor V leiden (98%)
+		- prolonged aPTT
+		- 4x VTE risk in het form, higher w/ homo
+		- northern european
+
+	- hypercoagulable states
+		- prothrombin G20210 > A
+			- increased prothrombin production
+			- northern european
+			- risks in pregnancy + VTE
+
+		- chronic inflammatory disease
+			- acute phase reactant / C4b binding protein
+				- binds protein S -> inactivates protein S
+			- inflammation
+				- IL-1 + TNF -> downregulate thrombomodulin -> thrombin becomes coagulant
+
+		- nephrotic syndrome / protein-losing enteropathy
+			- loss of protein S + C, antithrombin III
+			- remaining S is bound to C4b binding protein
+
+		- antiphospholipid antibody syndrome
+			- 30% w/ lupus
+			- VTE + ATE
+			- false positive RPR
+			- recurrent spontaneous abortions
+
+		- lupus anticoagulant
+			- do not understand
+			- antiphospholipid antibodies
+
+		- thrombotic thrombocytopenia purpura (TTP):
+			- sporadic + relapsing
+			- fatal w/o treatment, 90% survival w/ treatment
+			- MAHA
+			- tx:
+				- plasmapheresis: replaces ADAMTS13 + removes antibodies
+					- aggressive: 1.5-2 exchanges daily
+				- steroids: decrease antibody formation
+				- ritxuimab
+				- vincristine
+				- caplicizumab:
+					- monoclonal against vWF
+					- shortens plasmapheresis treatment duration
+					- increases bleeding, relapse more common
+
+		- heparin-induced thrombocytopenia (HIT):
+			- allergic reaction to heparin + PF4 complex
+			- thrombocytopenia
+			- UFH > LWMH, high dose > low, etc
+
+		- disseminated instravascular coagulation (DIC):
+			- caused by big bad things
+			- microthrombi in microvasculature -> use all clotting factors + platelets + fribinolysis
+			- all times elevated, all factors depleted
+			- tx:
+				- if thrombosis: anticoagulant (heparin)
+				- if bleeding: replacements: cryoprecipitate, fresh frozen plasma, platelets
+				- TU
+
+L7: thalassemias and hemoglobinopathies
+	main:
+	- hemoglobin:
+		- Ch16: 4 α alleles, 2 ζ alleles
+		- Ch11: 2 β alleles, 4 γ alleles, 2 ε 
+		- embryonic: 2 ζ + 2 ε
+		- fetal: 2 α + 2 γ
+		- infant: 2 α + 2 β
+
+ 	- thalassemia:
+		- underproduction of one of the chains
+		- β:
+			- excess of α tetramer is toxic
+			- microcytic, target cells
+			- types:
+				- trait (minor):
+					- 1 allele
+					- anemia
+				- major:
+					- 2 alleles
+					- bony changes (on edge)
+					- splenomegaly
+					- major cause of death: cardiomyopathy
+					- tx:
+						- regular transfusions
+						- iron chelation to stop hemochromatosis
+						- stem cell transplant
+		- α:
+			- γ4 tetramer is HgB Barts
+			- β4 tetramer is Hgb H
+			- unstable tetramers -> cause hemolytic anemia
+			- α thalassemia trait:
+				- 2 alleles
+				- HgB Barts detectable as newborn
+			- α thalassemia major / Hg H disease:
+				- HgB Barts detectable as newborn
+				- HgH after 6 mos
+
+	- hemoglobinopathy:
+		- defect in hemoglobin protein chain
+		- sickle cell:
+			- sickle cell anemia: SS alleles
+				- dactylitis
+				- spenic infarcts
+				- howel jolly bodys
+				- tx:
+					- penicillin
+					- pain management
+					- yearly transcranial doppler
+						- transfusions for high stroke risk
+					- hydroxyurea -> increases γ chain production
+					- bone marrow transplant
+
+			- sickle Hgb C disease: SC alleles
+			- sickle β+ thalassemia: Sβ+ alleles
+			- sickle β0 thalassemia: Sβ0 alleles
+			- look at chart for HgB, retic, MCV values
+			- S allele:
+				- GAG -> GTG codon 6 on β globin
+
+L8: bleeding disorders
+	main:
+	- hemophilia:
+		- symptoms:
+			- hemarthrosis
+			- hematuria
+			- hemorrhage
+			- GI bleeds
+			- epistaxis
+			- hematoma
+		- factor replacement:
+			- eventual antibody formation against factors -> refractory
+		- tx:
+			- prophylactic:
+				- 8: 3x week
+				- 9: 2x week
+			- on demand factor replacement
+			- emicizumab:
+				- binds 9 + 10 -> activates 10 w/o 8
+				- subq, biweekly or less
+	
+	- von willebrands disease:
+		- autosomal dominant
+		- more common in women
+		- most common in type O
+		- potentially normal aPTT
+		- symptoms:
+			- menorrhagia
+			- easy bruising
+			- dental/surgical bleeding
+		- tx:
+			- aminocaprioic acid / tranexamic acid:
+				- oral fibrinolysis inhibitors
+			- desmopressin (ddAVP):
+				- induce vWF surge
+			- vWF concentrates
+			- cryoprecipitate
+
+	- hemophilia C / factor XI deficiency:
+		- autosomal recessive, ashkenazi
+		- aPTT often prolonged
+		- tx: fresh frozen plasma if needed
+
+	- vitamin K deficiency:
+		- prolonged PT/INR
+
+	- immune thrombocytopenic purpura (ITP):
+		- antibodies to platelets
+		- dx: exclusion
+		- symptoms:
+			- petechiae
+			- purpura
+		- signs:
+			- no platelets on smear
+		- tx:
+			- steroids
+			- IV Ig
+			- IV anti-D (WinRho)
+			- splenectomy (rare)
+			- rituximab
+			- thrombopoietin mimetics
+				- romiplostim
+				- eltrombopag
+
+	- uremic platelet dysfunction:
+		- endothelial dysfunction
+		- platelet dysfunction
+		- tx:
+			- dialysis, partially treats
+			- acute: desmopressin ddAVP
+
+	- disseminated intravascular coagulation (DIC):
+		- causes:
+			- infections: meningococcemia + septicemia
+			- hypertransfusion w/ rbcs
+			- adenocarcinomas
+			- acute leukemias
+			- venoms
+		- symptoms:
+			- oozing from access sites
+			- purpura
+			- gangrene
+		- tx:
+			- cryoprecipitate
+			- heparin
+
+L9: hematologic therapies:
+	main:
+	- antithrombotics:
+		- anticoagulants:
+			- heparin:
+				- sulfated polysaccharides from porcine intestine mucosa or bovine lung
+				- unfractionated heparin:
+					- variable bioavailability (UH)
+					- reversible with protamine (+ charges blocks - heparin)
+					- monitoring required to ensure therapeutic dose
+					- higer risk for thrombocytopenia
+
+				- low molecular weight heparins (LWMH)
+					- smaller polysaccharides
+					- no monitoring, except high risk
+					- longer half life, 1-2x per day
+					- partially reversible
+					- renally excreted
+					- black box w/ regional anesthesia
+					- types:
+						- enoxaparin: VTE prophylaxis + tx, ACS
+						- dalteparin: same as enoxaparin + VTE tx w/ cancer
+
+				- fondaparinux:
+					- semisynthetic sulfated pentasaccharide
+					- inhibits only factor Xa
+					- subq, daily dosing
+					- no thrombocytopenia
+					- superior to LMWH
+					- risk of wound hematomas in orthopedics
+			
+			- warfarin:
+				- vitamin K reductase inhibitor
+				- metabolized by CYP2C9
+				- monitor w/ PT/INR
+				- lots of interactions + zero order kinetics
+				- reversible: vitamin K
+				- dosing:
+					- overlap with parenteral agent for 5 days
+					- high variability
+
+			- Xa inhibitors:
+				- wider therapeutic range
+				- few interactions (no food)
+				- no monitoring
+				- VTE prophylaxis + tx, CAD, stroke prevention w/ non-valvular afib
+
+				- rivaroxaban:
+					- non inferior to warfarin
+					- 1-2x daily
+				- apixaban:
+					- superior to warfarin
+					- 2x daily
+				- edoxaban:
+					- 1x daily
+					- VTE, VTE tx w/ cancer
+				- betrixaban:
+					- 1x daily
+					- VTE
+
+			- direct thrombin inhibitors:
+				- block active site of thrombin
+				- more potent than heparins
+				- irreversible
+
+				- argatroban:
+					- HIT, TEs, ACS
+					- half life 30-40 mins
+					- problems w/ liver
+				- bivalirudin:
+					- hirudin derivative
+					- unstable angina/angioplasty
+					- short acting
+				- dabigatran:
+					- oral
+					- superior to warfarin for TE w/ afib
+					- VTE prophylaxis + tx
+					- 2x daily
+					- problematic with renal failure
+
+	- growth factors:
+		- thrombopoetin (TPO):
+			- used for ITP or liver disease
+			- types:
+				- romiplostim
+				- eltrombopag
+				- avvatrombopag
+				- lusotrombopag
+		
+		- GM-CSF - sargramostim:
+			- granulocyte-monocyte colony stimulating factor
+
+		- G-CSF:
+			- neutrophil stimulator
+			- use: post-chemotherapy
+			- types:
+				- filgrastim
+				- pegilgrastim
+
+		- EPO stimulators:
+			- erythropoietin
+			- darbepoetin
+			- methoxy-polyethylene glycol-epoetin beta
+
+
+
+L10:

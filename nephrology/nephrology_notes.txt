@@ -1,0 +1,1824 @@
+L2: normal kidney structures
+	main:
+	
+L3: the glomerulus & GFR
+	main:
+	- GFR = Ucr * V / Pcr
+	- hormonal GFR regulation
+		- angiotensin II:
+			- constricts efferent -> ΔP increases, GFR same, RBF decreases, π increases -> FF increases
+			- increases PCT Na reabsorption
+		- ANP:
+			- dilates afferent -> ΔP increases, GFR increase, RBF increased, π same, -> FF variable, decreased
+		- norepinephrine:
+			- constricts efferent + afferent -> ΔP same, GFR decreased, RBF decreases, π same -> FF same
+
+	
+L4: estimation of renal function
+	main:
+	
+L5: the tubule & tubular function
+	main:
+	- tubule components:
+		- 70% Na/H20 reabsorption
+		- 90% H2CO3 reabsorption
+		- proximal convoluted tubule (PCT):
+			- activity increased by ATII
+			- Na/H exchanger
+				- reabsorbs Na
+				- reabsorbs H2CO3
+				- inhibited by diamox
+			- Na/solute co transporters
+				- oats inhibited by probenecid
+				- inhibited by flozins
+	
+	- loop of henle:
+		- descending limb:
+			- water reabsorption
+		- thick ascending limb:
+			- NKCC
+				- reabsorbs Na, K, 2 Cl
+				- inhibited by loop diuretics
+			- Ca, Mg, NH4 reabsorbed by gradient
+			- K excreted by ROMK
+
+	- distal convoluted tubule:
+		- TSC NaCl co-transporter
+			- inhibited by thiazides
+		- Ca / Na exchanger
+			- reabsorbs Ca
+			- slowed by high cell Na -> thiazides cause hypercalcemia
+	
+	- collecting ducts:
+		- intercalated cells:
+			- H+ ATPases -> H2CO3 reabsorption
+			- stimulated by MR / aldosterone
+			- large pH gradient established by tight junctions
+
+		- principal cells:
+			- ENaC
+				- Na reabsorption
+				- K channel to excrete K / offset charge
+				- inhibited by amiloride
+				- stimulated by MR / aldosterone
+		
+		- aquaporins:
+			- stimulated by ADH / vasopressin
+			- 
+
+
+L6: kidney development
+	main:
+	- fetal urine:
+		- urine products supplment amniotic fluid
+		- fetal kidney disfunction -> pulmonary hypoplasia
+	- low birth weight -> kidney issues
+	- congenital anomalies of the kidney + urinary tract (CAKUT):
+		- detected by fetal ultrasound
+		- causes 50% of pediatric kidney failure
+
+		- types:
+			- renal agenesis: UB failed to reach MM
+			- duplication of urinary track: gain of function
+			- primary vesicoureteral reflux (VUR):
+				- retrograde urine
+				- SLIT2 / ROBO2
+				- XY babies
+				- prenatal US
+			- secondary VUR: elevated bllader pressure
+	- renal-coloboma syndrome:
+		- PAX2
+		- optic nerve cysts, pupillary fissure, mesangial fibrosis
+		- dominant
+
+
+L7: volume regulation
+	main:
+	- afferent volume senses:
+		- intrathoracic: LA, RA, RV, pulmonary capillaries
+		- aterial: carotid + aortic arch
+		- renal: juxtaglomerular apparatus (JGA)
+		- CNS: volume receptors
+		- hepator volume receptors
+
+	- hormonal response to volume depletion:
+		- pathway:
+			- decreased renal perfusion
+			- lower Cl to macula densa in TALH via NKCC
+			- macula densa increases COX2 -> PGE2 release
+			- PGE2 causes JGA/granular cells to release renin
+			- renin converts ATogen -> AT
+			- ACE in lung capillaries ATI -> ATII
+			- ATII -> increased Na/H2O reabsorption
+			- ATII -> increases aldosterone, ADH, thirst
+
+	- primary volume depletion:
+		- symptoms: light headed, weak/tired, cold, thirsty
+		- signs: low BP, orthostasis, weight loss, dry skin, no saliva, low skin turgor
+		- labs: high BUN/Cr, low Una, high Uosm, low V
+		- physiology:
+			- aldosterone -> ENaC Na recovery -> low Una
+			- aldosterone -> K secretion -> increased UK
+			- ADH -> AQP2 increased -> low V
+			- ADH -> NKCC increase -> high Uosm
+		- diagnosis:
+			- Pcr ~ 1.3 - 2
+			- BUN high (> 10)
+			- BUN/Cr > 20
+			- low FeNa ~ Una / Pna
+			- high ADH
+
+	- effective volume depletion:
+		- primary gain of Na
+		- causes: CHF, cirrhosis, nephrosis
+		- signs/symptoms:
+			- stage I: same as primary volume depletion
+			- stage II: normalized
+
+	- volume overload:
+		- gain of Na or IV overload or redistribution
+		- signs: dyspnea, high BP, weight gain, edema, dilute urine
+
+	- addisons disaes:
+		- adrenal insufficiency
+	
+	
+L8: derangements in body volume
+	main:
+	- body water:
+		- 1/3 extracellular
+			- 1/3 vascular
+			- 2/3 interstitial
+		- 2/3 intracellular
+	
+L9: blood pressure regulation
+	main:
+
+	- pressure-natriuersis theory:
+		- high BP to excrete more Na
+	
+	- treatments:
+		- dietary Na:
+			- biggest effect on resistant htx (23/9)
+		- thirsty gene:
+			- low salt: low BP and high RAAS
+			- salt + high RAAS: BP increases
+		- dysfunctional gastro-renal axis
+			- 
+
+L10: secondary hypertension
+	main:
+	- MC4R -> obesity
+	- glucorticoid remediable aldosteronism (GRA):
+		- dominant
+		- stroke + CV events
+
+	- AME:
+		- 11-B hydroxysteroid dehydrogenase 2 dysfunction
+			- enzyme that converts cortisol -> cortisone
+			- inhibited by glycyrrhizic acid (licorice)
+		- excess cortisol
+		- recessive
+		- hypokalemia, metabolic alkalosis, suppressed renin + aldosterone
+
+	- primary aldosteronism:
+		- 40% are adrenal adenomas: CONN + cushing syndrome
+		- 60% are bilateral hyperplasia: repond to MRA
+
+
+	- renal artery stenosis:
+		- decreased perfusion -> increased RAAS
+		- dx w/ CT angio, duplex doppler, MR angio
+		- medial fibromuscular dysplasia:
+			- string of beads CT angio
+			- small kidney
+			- tx: angioplasty
+		- atherosclerosis:
+			- tx: angioplasty + stent
+
+	- pheochromocytoma
+		- anxiety, dizziness, headaches, sweating, palpitations
+		- episodic high BP, orthostasis
+		- elevated catecholamine metabolites
+		- rules of 10:
+			- 10% extra-adrenal, malignant, bilateral, no htx
+			- 40% genetic
+
+	- hypotensive disorders:
+		- signs:
+			- metabolic alkalosis
+			- hypokalemia
+			- elevated renin
+			- elevated aldosterone
+
+		- recessive
+		- gitelman syndrome:
+			- loss of NCCT, thiazide transporter
+			- hypocalciuria
+
+		- bartter syndrome:
+			- NKCC, ROMK, CLCNKB loss, loop diuretic resemblance
+			- hypercalciuria
+
+
+L11: antihypertensive therapy
+	main:
+	- stages:
+		- normal: <120 / <80
+		- prehypertension: 120-129 / <80
+		- htx stage 1: 130-139 / 80-89
+		- htx stage 2: >140 / > 90
+		- hypertensive crisis: >180 / >120
+	
+	- measuring:
+		- whitecoat htx: 5-65%
+		- masked htx: 14-30%
+		- measure over 24 hours
+
+	- types:
+		- primary
+		- secondary:
+			- types:
+				- pheochromocytoma
+				- hyperaldosteronism
+				- hyperthyroidism
+				- cushings syndrome
+				- renovascular disease
+				- renal parechymal disease
+				- OSA
+				- meds
+			- work up if:
+				- severe htx: >170 / > 110
+				- acute rise
+				- htx before puberty
+				- before age 30 in non-obese
+	- treatment:
+		- diet modifications
+			- low salt: 5-20 / 3-9 reduction
+			- vegetarian: 5 / 2 reduction
+				- more fat -> more salt
+		- exercise: moderate: OR .90, high: OR .8
+		- black barbershops: BP decrease ~9 from health promotion, ~27 from tx + health promotion
+		- diuretics: thiazides, loops, K-sparing
+		- RAAS blockers: ACEi, ARBs, renin inhibitors, MRAs
+		- CCBs: both dihydropyridine and non
+		- direct vasodilators
+		- adrenergic inhibitors: cental α agonists, α/β blockers
+
+		- paradigms:
+			- high salt: diuretics
+			- high RAAS: RAAS blockade
+				- low PRA: anti-volume = ARBs, thiazides, CCBs, α blockers 
+				- high PRA: anti-renin:
+					- r1 RAAS blockers: ACEi, ARBs, DRIs
+					- r2 renin suppresants: β blockers, central α agonists, reserpine
+			- high sympathetic:
+				- identifiers:
+					- stroke, OSA, alcoholism, paroxysmal htx
+					- refractory htx
+					- unexplained severe htx
+					- htx + sinus tachycardia
+			- use combo therapy!
+			- chronotherapy, > 1 med at night!
+
+			- special cases:
+				- CAD: β blockers, ACEi
+				- CKD: ACEi/ARBs, diuretics
+				- 
+			- hypertensive urgency:
+				- BP > 180 / > 100
+				- no signs / symptoms
+				- tx: oral therapy, bring to 160/100 in 24-48 hours, <130/80 over 8 weeks
+			
+			- hypertensive emergency:
+				- signs + symptoms:
+					- ICP, stroke, seizure,
+					- retinal hemorrhages, exudates, papilledema
+					- pulm edema, angina, MI, dissection, CHF
+					- ARF w/ increased Cr, proteinuria, hematuria
+				- tx: hospitalization
+					- IV therapy DBP -> 100 in 2-6 hours
+					- 25% reduction in 2-6 hours
+					- overaggresive -> relative hypotension -> ischemia
+					- <130/80 on oral therapy over 2-3 mo
+				- meds:
+					- oral: captopril, nifedipine, clonidine
+					- IV:
+						- vasodilators: hydralazine, nitroprusside, fenoldopam, nitroglycerin, enalaprit
+						- adrenergic inhibitors: labetalol, esmolol, phentolamine
+
+
+
+L12: osmolality
+	main:
+	- body: 290 mOsm/L
+
+	- ADH:
+		- osmotic release:
+			- 290 mOsm water resorption is maximal
+			- vasopressin after 290 mOsm -> continue to drive thirst
+			- separate from sodium regulation
+		- non-osmotic release:
+			- ADH from other sources
+			- JGA + baroreceptors -> ADH release
+
+	- osmolar maintenance:
+		- intake = 600 mOsm/day
+		- max urine dilution = 50 mOsm/L
+		- max V = 12 L/day
+		- max urine concentration = 1200 mOsm/L
+		- min V = .5L/day
+
+
+L13: derangements in tonicity
+	main:
+	- tonicity is behavior of solution
+
+	- hypernatremia:
+		- acute:
+			- osmotic demyelination
+			- central pontine myelinolysis
+		- causes:
+			- water deficit
+			- salt intoxication
+			- non-renal water loss
+			- renal water loss: osmotic diuresis, diabetes insipidus (DI)
+
+		- diagnosis:
+			- renal: polyuria -> check Uosm
+				- <250: DI
+				- > 300 solute diuresis: DM, mannitol
+			- extrarenal: GI, sweat, respiratory, burns
+
+		- adaptation:
+			- chronic hypernatremia -> idiogenic osmoles prevent water loss
+
+		- tx:
+			- free water deficit (FWD): TBW * ([Na+] / 140 - 1)
+				- TBW = weight * TBW_factor:
+					- male/child: .6
+					- female/old male: .5
+					- old female: .45
+				- add 24h insensible losses
+
+			- severe symptoms: 3-5% reduction in Na is enough
+			- mild: faster in adults, slower in children
+
+
+
+	- hyponatremia:
+		- acute:
+			- cerebral edema
+			- uncal herniation
+			- seizures, coma, stupor
+		- iso-osmolar:
+			- high lipids / protein
+		- hyper-osmolar:
+			- unmeasured solutes
+		- hypo-osmolar:
+			- increased free water intake
+				- primary polidisia, water intox
+				- ADH absent, Uosm low
+			- decreased free water excretion
+				- renal failure
+				- normal ADH:
+					- volume depletion
+					- sense volume depletion:
+						- czCHF, cirrhosis
+						- high risk of death
+					- renal/cerebral salt wasting
+				- elevated ADH: SIADH
+				- special:
+					- NSAIDS: PG antagonize ADH effect on tubules
+					- thiazides: cannot make dilute urine
+					- adrenal insufficiency: salt wasting + hypotension + CRH -> ADH
+					- low oSm intake: tea  + toast, beer potomania
+			-  tx:
+				- 4-6 meq correction then slow
+				- emergency: 100 ml 3% saline IVP
+				- ΔPNa = (infusate Na - PNa) / (TBW + 1)
+
+
+	- extracellular osmolality:
+		- regulated by Na
+	- intracellular osmolality:
+		- regulated by K
+
+	
+L14: acid base homeostasis
+	main:
+	- pH: 7.37 - 7.43
+
+	- HCO3 reabsorption / H+ secretion:
+		- proximal tubule:
+			- Na/H exchanger
+			- Na/CO3 co-transporter
+			- stimulated by ATII
+			- 90% reabsorption of H2CO3
+		- collecting duct:
+			- intercalated cells:
+				- H+ ATPase
+				- Cl/HCO3 exchanger
+				- 10% reabsorption of H2CO3
+				- additional creation of H2CO3
+				- responds to:
+					- aldosterone
+					- pH gradient
+					- K: 
+					- NH3: net acid production
+					- pCO2: CO2 stimulates exocytosis of H+ ATPases vesicles
+
+	- acidosis:
+		- respiratory: high CO2
+		- metabolic: reduced HCO3 production
+
+	- alkalosis:
+		- respiratory: low pCO2, low HCO3
+		- metabolic: high pCO2, high HCO3
+
+
+L15: acid base disorders
+	main:
+	- normal bicarb 22-29
+	- carbonic anhydrase is key converting enzyme
+	- acid balance:
+		- 1st: buffers
+		- 2nd: compensation
+			- moves pH towards normal but never norma
+
+	- anion gap:
+		- AG = cations - anions = Na - (Cl + HCO3)
+		- normal ~ 8-12
+		- indicates other anions in blood: mostly albumin
+		- loss of HCO3- w/ increase in Cl -> No anion gap change
+		- gain of H+ + anion -> anion gap increase
+
+	- acidosis:
+		- metabolic:
+			- H+ gain or HCO3- loss
+			- increase ventilation "blow off acid" -> pCO2
+			- response:
+				- bone buffering: HCO3- + CO32- release 
+				- increase minute ventilation
+				- H+ shift into cells
+				- proximal tubular ammoniagensis: adds HCO3- to blood and NH3/4 to urine
+			- causes:
+				- increased anion gap:
+					- lactic acid, renal failure, ketoacidosis
+					- methanol, aspirin, glycol, rhabdomyolysis
+				- normal anion gap:
+					- diarrhea (HCO3- loss), intestinal fistula, tube feeds, renal failure
+					- RTA 1, 2, 4, resuscitation acidosis (saline admin)
+
+		- lactic acidosis:
+			- shock, cardiac arrest, sever hypoxemia
+			- general tonic-clonic seizure
+			- salicylate, cyanide
+			- non-reverse transcriptase inhibitors for HIV
+			- respiratory alkalosis
+			- severe acute or chronic liver disease: decreased lactate clearance
+			- lymphoma
+			- metformin
+
+		- ketoacidosis:
+			- increased free fatty acids (FFA)
+
+		- renal failure:
+			- GFR < 25
+			- non-anion gap: impaired H+ excretion
+			- anion gap: impaired sulfate + H+ excretion
+
+		- renal tubular acidosis:
+			- normal AG: impaired HCO3- reabsorption or H+ excretion
+
+			- RTA 1:
+				- distal tubule
+				- defective H+ ATPase
+				- impaired gradient: causes hypokalemia
+				- high urine pH > 5.5
+
+			- RTA 2:
+				- proximal tubule
+				- any H+ transporters: example Na/H+ transporter
+				- HCO3 wasting
+				- fanconi syndrome:
+					- large part of proximal tubule impaired
+					- impaired absorption of AAs, glucose, Pi, etc
+					- high Uglucose, low serum PO4, high FePO4
+					- low Puric acid, low vitamin D -> bone disease
+
+				- acetazolamide inhibits CAII -> RTA 2
+				- Na reabsorption compensated in collecting duct -> hypokalemia
+				- urine pH < 5.5 once serum HC03 is reduced to 17/18
+
+			- acidosis respiratory compensation:
+				- expected pCO2 = 1.5 * [HCO3-] + 8 +/- 2
+				- if pCO2 < epCO2: superimposed respiratory alkalosis, increased breathing
+				- if pCO2 > epCO2: superimposed respiratory acidosis, decreased breathing
+		
+		- respiratory:
+			- increased pCO2
+			- acute: eHCO3 = normal + (pCO2 - 40)
+			- chronic: eHCO3 = normal + 5 * (pCO2 - 40)
+			- HCO3 > eHCO3: superimposed metabolic alkalosis
+			- HCO3 < eHCO3: superimposed metabolic acidosis
+
+	- alkalosis:
+		- metabolic:
+			- causes:
+				- loss of H+ or gain of HCO3-:
+					- loss of H+:
+						- loop or thiazide diuretics
+						- vomiting, barter/gitelman syndromes, excess sweating
+					- gain of HCO3-:
+						- calcium alkali syndrome: increased Ca + HCO3-
+						- IV Na2CO3
+				- AND
+				- decreased HCO3- excretion
+					- extracellular fluid depletion
+					- hyperaldosteronism: increased H+ secretion
+					- hypokalemia: stimulates ammoniagensis + H+ secretion -> increased serum HCO3
+
+			- post hypercapnea:
+				- compensated hypercapnea (high HCO3) -> acute pCO2 drop (on vent) -> high HCO3 causes alkalosis
+			
+			- alkalosis respiratory compensation:
+				- epCO2 = 0.7 * [HCO3] + 20 +/- 5
+				- if pCO2 < epCO2: superimposed respiratory alkalosis, increased breathing
+				- if pCO2 > epCO2: superimposed respiratory acidosis, decreased breathing
+		
+		- respiratory:
+			- decreased pCO2
+			- acute: eHCO3 = normal - 2 * (40 - pCO2)
+			- chronic: eHCO3 = normal + 5 * (40 - pCO2)
+			- HCO3 > eHCO3: superimposed metabolic alkalosis
+			- HCO3 < eHCO3: superimposed metabolic acidosis
+
+
+L16: potassium homeostasis
+	main:
+	- dietary K greatly affects serum K
+		- excreted within hours
+	- K shifts:
+		- into cells:
+			- epinephrine
+			- insulin
+			- alkalosis
+		
+		- out of cells:
+			- acidosis
+			- diabetes
+			- β blockers
+
+	- K homeostasis:
+		- intracellular absorbtion
+		- excretion:
+			- 95% reabsorbed in PCT + TALH
+			- UK is dependent on distal tubule + collecting duct secretion
+			- collecting duct:
+				- principal cells:
+					- K gradient affects ENaC:
+		- channels:
+			- ROMK: small conductance
+			- BK: large conductance, Ca sensitive
+				- expressed in principal + intercalated
+				- flow dependent: Ca increase due to flagella
+
+		- secretion regulation:
+			- aldosterone:
+				- increases ROMK
+				- increases ENaC -> more negative membrane potential -> higher K secretion
+				- increases Na/K ATPase
+			- urine flow rate:
+				- low K tubular fluid
+				- increased Ca -> opens BK -> increased K secretion
+			- acid/base balance:
+				- acidosis -> low intracellular K
+				- alkalosis -> high intracellular K
+	
+	- hypokalemia:
+		- causes:
+			- decreased intake
+			- re-distribution:
+				- alkalosis
+				- insulin infusion
+				- β-adrenergic agonists: asthma (SABA/LABA)
+
+			- increased loss:
+				- non-renal: diarrhea, sweat
+				- renal:
+					- increased flow rate: diuretics
+					- hyperaldosteronism
+					- drugs: amphotericin B
+
+			- genetic:
+				- glucorticoid remediable aldosteronism (MRA): CYP11B2 + 11B1
+				- liddle syndrome: ENaC mutation
+				- bartter's syndrome: NKCC or Cl channel mutation
+				- apparent mineralocorticoid excess: steroid dehydrogenase
+				- adrenal adenomas: CLCN2, KCNJ5, CACNA1H
+				- hypokalemic periodic paralysis: NaV1.4 channel
+
+		- symptoms:
+			- muscle weakness -> paralysis
+			- sometimes rhabdomyolysis
+			- EKG: U waves
+
+
+	- hyperkalemia:
+		- causes:
+			- intake: only if acidosis or renal failure
+			- re-distribution:
+				- acidosis
+				- diabeteas mellitus
+				- β-adrenergic blockers
+
+			- decreased renal excretion:
+				- decreased urine flow rate: CHF, oliguric ATN
+				- hypoaldosteronism: ACEi, ARBs
+				- drugs: ENaC blockers, amiloride, triamterene
+				- interstitial renal disease
+
+			- genetic:
+				- infantile hyperkalemia: ROMK
+				- pseudohypoaldosteronism:
+					- type IA: mineralocorticoid receptor
+					- type IB: inactivating ENaC
+					- type II: gordon syndrome, ROMK mutations
+				- periodic paralysis: NaV1.4 channel
+		
+		- symptoms:
+			- EKG: peaked T waves
+
+	- bartter's syndrome:
+		- mimics loop diuretics
+		- hypovolemic
+		- high renin, high aldo
+		- metabolic alkalosis, 
+		- hyperkalemia mutations:
+			- ROMK
+			- CaSR: Ca sensing receptor
+		- hypokalemia mutations:
+			- NKCC
+			- CLC-KB: chloride channel
+			- barrtin: Cl channel protein
+		
+
+L17: diuretics
+	main:
+	- loop:
+		- block NKCC in TALH
+		- 25% Na
+		- types:
+			- furosemide
+			- bumetanide
+			- torsemide
+			- ethacrynic acid
+
+		- effects:
+			- hypokalemia: causes are increased flow + increased aldo
+			- hypocalcemia
+			- metabolic alkalosis:
+				- more H+ secretion in collecting duct to reabsorb Na
+		
+	- thiazide:
+		- block Na/Cl co-transporter in DCT
+		- 5% Na
+		- types:
+			- hydrochlorothiazide
+			- chlorthalidone
+			- metolazone
+
+		- effects:
+			- hypokalemia
+			- hypercalcemia
+			- metabolic alkalosis
+			
+
+	- K-sparing:
+		- 2% Na
+		- types:
+			- ENaC blockers:
+				- amiloride
+				- triamterene
+			- MR blockers:
+				- spironolactone
+				- eplerenone
+		- effects:
+			- hyperkalemia
+			- metabolic acidosis: reduced ENaC -> reduced gradient -> less H+ secretion
+
+	- carbonic anhydrase (CAII) inhibitors:
+		- PCT CAII:
+			- prevents HCO3 production
+			- CAII allows H+ reabsorption -> stops Na/H+ ATPase
+		- types:
+			- acetazolamide
+		- effects:
+			- metabolic acidosis: reduced HCO3- reabsorption
+			- hypokalemia: 
+
+	- osmotic:
+		- osmotic pressure pulls H20 from PCT + descending limb
+		- removes free water
+		- types:
+			- mannitol
+			- urea
+			- glucose
+
+	- diuretic adjustment/resistance:
+		- increased RAAS -> distal hypertrophy
+		- loop diuretics increase Na/Cl co-transporter abundance (aldo)
+		- tx:
+			- combo therapy
+			- increase dose
+			- Na restriction
+
+	- use cases:
+		- SIADH: loop
+		- hypercalcemia: loop
+		- calcium stones: thiazides
+		- loop-diuretic induced metabolic alkalosis: acetazolamide or K-sparing
+		- loop-diuretic induced hypokalemia: K-sparing
+
+
+L18: urinalysis
+	main:
+	- physical:
+		 - color:
+		 	- red: hematuria, hemoglobinuria or	myoglobinuria
+		 	- white: chyluria, propofol, phosphate crystals
+		 	- brown: red, jaundice, chloroquine, nitrofurantoin
+		 	- green: methylene blue, triamterene, propofol
+		 	- black: alkaptonuria
+		 	- pink: mild red, uric acid crystals
+		 - turbidity: non-transparent: infection, genital secretions, chyluria, crystals
+		 - odor:
+		 	- foul: infection
+		 	- maple syrup urine disease
+		 	- musty: phenylketonuria
+		 	- sweet/fruity: ketones
+
+	- chemical:	
+
+	
+L19: acute kidney injury
+	main:
+	- acute tubular necrosis:
+		- ischemia
+		- high UNa, high FeNa, low BUN/Cr
+		- Uosm = Sosm
+		- low V or normal V
+		- urinalysis: muddy-brown granular casts
+		- histology:
+			- dilated tubular lumens
+			- loss of brush border
+			- normal glomeruli
+
+		- causes:
+			- constrast
+			- rhabdomyolysis
+
+	- pre-renal:
+		- low Una, low FeNa, high BUN/Cr
+		- low Uosm, low V
+		- urinalysis: hyaline "ghost" casts
+		- histology: normal
+
+	- post renal
+
+	- causes:
+		- CHF, portal htx
+
+	- pathophysiology:
+		- necrotic tubules -> impaired reabsorption (low Cl) -> afferent vasoconstriction -> decreased GFR
+
+	- effects:
+		- uremia:
+			- accumulation of organic waste
+
+		- anemia, hyponatremia, hyperkalemia, hypocalcemia
+		- volume overload, hypoxia
+
+	- tx:
+		- monitor, treat primary
+
+
+L20: fluid and electrolyte therapy
+	main:
+	- fluid destinations:
+		- cystalloids: extracellular
+			- saline
+			- dextrose + saline combo
+			- balanced: plasmalyte, ringer's lactate (RL)
+				- help w/ renal perfusion
+		- dextrose: everywhere
+			- DXW
+		- colloids + blood: intravascular
+			- albumin 5% + NS
+			- albumin 25%
+			- dextrans
+			- hetastarch
+
+	- fluid deficits:
+		- intravascular:
+			- causes: hemorrhage
+			- signs: cardio effects, cool, sweating, dry mucus membranes
+
+		- extracellular:
+			- causes: salt + water loss, sepsis
+			- signs: skin turgor, sunken eyeballs, weight, hemo
+		
+		- total:
+			- causes: diabetes insipidus, osmotic diarrhea
+			- signs: thirst, hypernatremia
+			- water deficit:
+				- defict = weight * (PNa / Pna desired - 1) * .6 M / .5W
+	
+
+L21: nephrotic syndrome I + II
+	main:
+
+	- nephrotic syndrome:
+		- heavy albuminuria: > 3-3.5 g/day
+		- hypoalbuminemia: proteinuria + increased albumin catabolism
+		- edema: low oncotic pressure
+			- tx: low Na diet, loop diuretics
+		- hyperlipidemia: maltese crosses
+			- tx: statins
+		- thrombotic tendency:
+			- tx: sometimes anticoagulation
+
+		-tx:
+			- treat principal
+			- slow progression + reduce proteinuria:
+				- bp regulation
+				- ACEi/ARBs, SGLT2i
+
+		- types:
+			- minimal change disease (MCD):
+				- pathology:
+					- lipoid nephrosis: pale, fatty kidneys
+					- lipids in PCT: fatty tubules
+					- urinalysis: oval fat body
+					- LM: normal glomeruli
+					- EM: podocyte effacement
+					- no Ig or C immunoflourescence
+
+				- physiology:
+					- effacement of podocyte
+					- thickening of podocyte, no gaps
+					- viral infections/immunizations/hodgins disease may precede
+					- increased lymphocytotoxins: permeability factors/cytokines, antibody to nephrin
+
+				- diagnosis:
+					- 10% NS in adults
+					- 85% NS in children
+					- sudden onset of heavy proteinuria + edema
+				- tx:
+					- steroids
+					- low salt diet + loop diuretics
+
+				- symptoms:
+					- edema, high proteinuria
+					- hypoalbuminemia, high cholesterol
+
+			- focal segmental glomerulosclerosis (FSGS):
+				- pathology:
+					- subset of glomeruli (focal) + segment of glomerular tuft (segmental)
+					- silver stain: focal segmental darkening
+					- IF: segmental staining for IgM + C3
+					- EM: podocyte effacement + detachment
+					- progression: interstitial fibrosis + tubular atrophy
+
+				- symptoms:
+					- edema + weight gain
+					- 4+ albuminuria
+					- low seron albumin
+					- very high proteinuria
+					- negative serologies
+					- hypercholesterolemia
+					- no improvement with steroids
+
+				- causes:
+					- primary: unknown
+					- secondary:
+						- genetic: nephrin, podocin
+						- HIV: tubular microcysts in HIVAN
+						- covid: glomerular tuft collapse
+						- heroin, anabolic steroids
+						- adaptive cause to elevated GC pressure
+							- reflux nephropathy, renal agenesis, CRD
+					- risks:
+						- APOL1: prevents sleeping sickness
+
+				- physiology:
+				- diagnosis / epidimiology:
+					- >20% idiopathic NS
+					- 70% NS adults, 1/3 proteinuria
+					- 50% get renal dysfunction
+					- worse symptoms -> predict ESRD
+					- 50% remission after immunosuppression
+					- recurs in 1/3 transplant kidneys
+
+				- tx:
+
+
+			- membranous glomerulopathy (MGN):
+				- pathology:
+					- GBM thickening
+					- no hypercellularity
+					- silver stain: GBM spikes, thick blackening of GBM
+					- trichrome: red subepithelial deposits
+					- IF: granular IgG + C3, entire glomeruli
+					- IF: PLA2R staining
+					- EM: dense subepithelial deposits separated by GBM spikes
+					- EM: podocyte effacement
+
+				- symptoms:
+					- edema
+					- low serum albumin
+					- hypercholesterolemia
+					- high proteinuria
+					- increased thrombosis - RVT common
+
+				- physiology:
+					- antibodies deposit subepithelials against Ag
+					
+					primary: antibody to PLA2R 70% of MGN
+					secondary:
+						- antigens: hep B, hep C, syphilis, malaria, schistosomiasis
+						- antigens: gold, penicillamine, collagen vascular disease, carcinoma
+
+				- diagnosis:
+					- most common NS in white adults
+					- 1/3 -> spontaneous remission
+					- 1/3 -> persistent NS
+					- 1/3 -> ESRD
+
+				- tx:
+					- cyclosporine
+					- rituximab
+					- alternate steroids - cytotoxics
+					- anti-PLA2R levels show response before proteinuria
+					- anti-PLA2R levels predictive of outcome
+
+			- diffuse diabetic glomerulosclerosis:
+				- pathology:
+					- H&E: diffuse thickening of mesangium
+					- trichrome: glomerular microaneurysm
+					- EM: thick gbm + mesangial sclerosis
+					- EM: mesangial nodules
+
+				- symptoms:
+					- proteinuria
+					- elevated Cr
+					- edema + weight gain
+
+				- physiology:
+					- thickening in capillary, microvessel BMs
+					- thickening in renal tubules, mammary ducts, schwann cells
+					- high plasma proteins -> mesangial sclerosis
+					- low sialic acid content -> proteinuria + GBM degradation
+					- GBM degradation -> GBM thickening
+
+				- diagnosis:
+					- large kidneys w/ ESRD
+				
+				- tx:
+					- BP regulation
+					- ACEi/ARBs: less GC pressure -> less scarring
+					- SGLT2i: higher NaCl delivery to macula densa -> less GC pressure -> less scarring
+					- blood glucose control
+
+			- amyloidosis nephrotic syndrome:
+				- pathology:
+					- H&E: amyloidosis, homogenous global segmental mesangium thickening
+					- congo red: orangiophilia of mesangium
+						- polarization -> apple green birefriengence, global + segmental
+
+					- EM: amyloid fibrils
+					- immunostain for SAA -> AA amyloid
+					- IF: lambda light chain stain: all mesangium 
+					- gross: white pale, large
+
+				- symptoms:
+					- rheumatoid
+					- edema, proteinuria, normal BUN, normal Cr
+					- negative serologies
+					- GFR = normal
+
+				- physiology:
+					- types:
+						- AL: 
+							- primary
+							- light chains
+							- cause: dysproteinemia
+						- AA: 
+							- secondary
+							- serum amyloid A (SAA) protein
+							- cause: inflammation / infection
+								- all the chronic infections / inflammations
+
+				- diagnosis:
+				- tx:
+					- diuretics
+					- ACEi / ARBs
+					- TU
+
+	
+L23: glomerulonephritis I + II
+	main:
+	- lesion naming:
+		- focal: <50% glomeruli
+		- diffuse: ≥50% glomeruli
+		- segmental: part of glomerulus
+		- global: full glomerulus
+
+	- acute nephritic syndrome:
+		- renal failure, htx, hematuria
+		- urinalysis: 
+			- RBCs, sometimes deformed: acanthocytes (loops)
+			- RBC casts: look like logs
+			- variable albuminuria 
+
+		- mechanisms:
+			- linear: Ab to glomerular Ag
+			- granular:
+				- glomerular Ag-Ab complex deposits
+				- antigen is implanted in glomerular capillary wall -> Ag-Ab complex
+
+			- fix complement on GBM + attract PMN
+
+			- glomerular proliferation patterns:
+				- endocapillary: within glomerular tuft
+					- leukocytes, endothelial cells, mesangial cells
+				- crescentic: extracapillary
+					- parietal epithelial cells
+
+	- rapidly progressive glomerulonephritis:
+		- causes:
+			- anti-GBM: check anti-GBM Abs
+				- tx: steroids, cyclophosphamide, plasmapheresis
+
+			- immune complex GN (LN, IgAN, PSGN): check complement, ANA
+				- tx: TU
+
+			- pauci-immune GN: check ANCA
+				- cyclophosphamide, rituximab, steroids
+
+	- acute post-infectious glomerulonephritis:
+		- pathology:
+			- diffuse, global endocapillary proliferation
+			- glomerular neutrophil invasion
+			- trichrome: red humps on GBM
+			- EM: large dense subepithelial humps outside GBM
+			- EM: podocyte effacement over humps
+			- EM: RBCs going through GBM gaps
+			- IF: granular IgG + C3 -- starry sky pattern
+			- gross:
+				- acute: red dotted "flea bitten" kidney
+				- chronic: leath grain, granular
+
+			- progression: tubular atrophy + interstitial fibrosis
+				- chronic: depressions + elevations
+
+			- if from endocarditis: usually focal + segmental
+
+		- symptoms:
+			- dark urine, low V
+			- edema, high BP
+			- urinalysis: rbcs, rbc casts, 2+ proteinuria
+			- high Pcr, low complement, C3 low, ASLO high
+
+		- physiology:
+			- infection related antigens
+				- usually group A beta-hemolytic streptococcus 
+				- strep: pyrogenic exotoxin B
+
+		- diagnosis:
+			- children > adults
+			- 10-14 days post infection
+			- low C3 + complement
+			- positive serology for recent infection (strep s)
+			- <2% rapidly progress to crescents -> poor prognosis
+
+		- tx:
+			- resolve ~6 weeks
+
+	- IgA nephropathy + henoch schonlein purpura:
+		- pathology:
+			- >3 mesangial cells
+			- diffuse mesangial proliferation
+			- IF: mesangial IgA
+			- EM: large mesangial deposits + RBCs in urinary space
+
+		- symptoms:
+			- dark brown urine
+			- urinalysis: rbc + rbc casts
+			- mild proteinuria
+			- normal serologies + complement
+
+		- physiology
+			- IgA deposts in mesangium
+			- defective hepatic clearance: cirrhosis
+			- increased IgA production: elevated serum IgA, post URI/GE
+			- defective galactosylation of IgA hinge region
+			- systemic disease -> IgA vasculitis / henoch schonlein purpura
+				- purpura, abdominal pain, arthralgias, nephritis
+				- IgA immune deposits in small vessels
+
+		- diagnosis:
+			- most common ideopathic GN
+			- mean 25 yo, 4-80 yo
+			- 65% of cases in 20s/30s
+			- M:F = 2:1
+			- ~30% of european glomerulopathies
+			- ~45% of asian glomerulopathies
+			- rare in patients of african descent
+
+		- tx:
+			- steroids
+			- ACEi/ARBs
+
+
+	- lupus nephritis:
+		- pathology:
+			- diffuse + global endocapillary proliferation
+			- leukocyte/neutrophil infiltration
+			- wire loop deposits thicken glomular walls
+			- class IV: membranous lupus w/ spikes
+			- EM + IF: subendothelial wire loop deposits at edge of GBM
+			- IF: diffuse, global IgG glomular capillary wall
+				- full house staining: IgG, IgM, IgA, C3 + C1
+
+		- symptoms:
+			- lymphadenopathy, malar rash
+			- fever, athritis in multiple joints
+			- urinalysis: 3+ proteinuria, RBCs
+			- low complement, ANA positive, anti-DNA antibody positive
+
+
+		- physiology:
+			- immune complexes in mesangium + subendothelial
+
+		- diagnosis:
+			- staging:
+				- I: minimal mesangial
+				- II: mesangial proliferation
+				- III: focal proliferation
+				- IV: diffuse proliferation
+				- V: membranous
+				- VI: chronic sclerosing
+		
+		- tx:
+			- class I + II: TU
+			- class III + IV: steroids + immunosuppression
+			- class V: only treat if heavy proteinuria
+			- class VI: prep for transplant
+			- belimumab: anti BLISS
+			- voclosporin: calcineurin inhibitor
+			- obinutuzumab: more potent version of rituximab
+
+
+	- ANCA-associated nephritis:
+		- pathology:
+			- granulomatosis with polyangiitis (GPA): necrotizing + crescentic GN
+			- silver stain: GBM rupture
+			- EM: GBM rupture w/ no deposits
+			- necrotizing arteritis: interlobular artery thickening + destruction of lumenal border
+			- pulmonary capillaritis + alveolar hemorrhage
+			- granulomatous inflammation
+
+		- symptoms:
+			- weight loss, sinusitis, malaise, dry cough
+			- urinalysis: rbcs, wbcs, rbc casts
+			- elevated Cr, normal complement, ANCA positive
+			- cavitary lesion
+
+		- physiology:
+			- ANCAs are pathological
+
+			- types:
+				- pauci-immune:
+					- usually w/ ANCA
+					– granulomatosis with polyangiitis (GPA)
+					– microscopic polyangiitis (MPA)
+
+				- immune complex deposits (granular):
+					- SLE 
+		
+		- diagnosis:
+			- ANCA
+		- tx: cyclophosphamide or rituximab + steroids
+
+
+	- anti-GBM nephritis:
+		- pathology:
+			- silver stain: diffuse crescentic + necrotizing GN
+			- trichrome: red circumferential crescent (fibrin)
+			- IF: linear staining along GBM
+
+		- symptoms:
+		- physiology:
+			- goodpasture's antigen: non-collagenous α3 domain in collagen IV
+			- goodpasture's antigen exposed following:
+				- hydrocarbon exposure
+				- influenza
+				- covid-19
+			- goodpasture's antigen then targeted in GBM
+		- diagnosis:
+			- IgG
+		- tx: steroids, cyclophosphamide, plasmapheresis 
+
+	- glomerulonephritis complement levels:
+		- low:
+			- acute post-infectious GN
+			- lupus nephritis
+			- membranoproliferative GN (MPGN)
+			- cryoglobulinemic GN
+
+		- normal:
+			- IgA nephropathy
+			- ANCA-RPGN, microscopic polyangiitis (MPA), granulomatosis w/ polyangiitis (GPA)
+			- anti-GBM disease
+			- minimal change disease, FSGS, MGN
+			- diabetes, amyloids, etc
+
+
+L25: vascular & interstitial diseases I + II
+	main:
+
+	- tubulointerstitial disease:
+		- acute tubular necrosis
+			- hematuria, trace proteinuria
+			- ischemic:
+				- gross: P&S
+				- tubular degenerative changes
+				- most severe in PCT + mTAL
+				- tx:
+					- maintenace: dialysis
+					- recovery: diuretic phase, often electrolyte abnormalities
+
+			- nephrotoxic:
+				- causes:
+					- heavy metals, organic solvents
+					- antiobitcs: gentamicin
+					- antifungals: amphotericin B
+					- antivirals: tenofovir disoproxil
+					- chemo: cisplatin
+					- bisphosphonate: zoledronate
+					- radiation + radiocontrast
+					- pigments: Hgb, Mgb
+					- osmotic agents: mannitol
+
+
+		- inflammatory: tubulointerstitial nephritis (TIN):
+			- acute interstitial nephritis:
+				- rash, fever, eosinophilia
+
+			- chronic interstitial nephritis:
+
+			- urinalysis: some rbcs, no casts, trace protein
+			- Na wasting, unable to concentrate urine
+			- urine acidication defect: hyperchloremic, metabolic acidosis
+			- hyperkalemia
+
+			- causes:
+				- drug-induced 70%: antibiotics, PPIs, NSAIDs
+				- inflammatory 20%: SLE, MCTD, fungal, mycobacteria, sarcoid etc
+					-  ICIs
+				- ideopathic 10%:
+
+			- pathology:
+				- eosinophils
+				- interstitial inflammation + edema
+				- tubulitis
+				- +/- granulomas
+
+			- elvated Cr, elevated BUN
+			- tubulointerstitial nephritis
+
+		- acure pyelonophritis:
+			- acute suppurative infection of kidney
+			- mostly unilateral: serum Cr stable
+
+			- pathology:
+				- gross: +/- coalescent absecesses
+				- micro:
+					- severe inflammation, PMNS
+					- microabsecesses
+					- PMN casts + tubulitis
+				- hematogenous: starts cortically
+				- ascending: starts near medulla
+			- symptoms:
+				- back pain, fever, pyuria
+				- positive urine cultures / Ab sensitivity
+			- infection:
+				- ascending: UTI > hematogenous, F > M
+				- hematogenous: septic emboli, bacteremia, F=M
+				- 85% gram negative bacilli
+
+		- chronic pyelonephritis:
+			- scarring inflammation, deformity of calyces/pelvis
+			- pathology:
+				- gross: shrunken, irregular, flat scars, papillary blunting + calyceal deformity
+				- micro: tubulointerstitial scarring, atrophic tubules + colloid casts
+					- chronic inflammation, no PMNs
+			- symptoms:
+				- insidious RI
+				- +/- htx, mild proteinuria, decreased Uosm, negative cultures
+				- causes: VUR or persistent obstruction
+
+		- papillary necrosis:
+			- causes:
+				- sickle cell
+				- obstructive pyelonephritis
+				- diabetes mellitus
+				- analgesic abuse - phenacetin
+
+
+L27: genetics I: cystic diseases
+	main:
+	- cystic diseases:
+		- acquired:
+			- simple renal cysts
+		- hereditary:
+			- adulthood (dominant):
+				- autosomal dominant polycystic kidney disease (ADPKD)
+					- 60% have positive hx
+					- 50% ESRD by 60 yo
+					- issue with cilia
+					- genes:
+						- PKD1 (85%) and PKD2 (15%) make proteins PC1/2
+						- homozygotes -> lethal
+						- trans-heterozygotes -> worse clinical course
+
+					- common symptoms:
+						- htx, pain, hematuria, polyuria
+						- nephrolithiasis
+						- low proteinuria
+						- progressive GFR decline
+						- hepatic cysts
+						- cerebral/aortic aneurysms -> positive FHx stroke -> MR angio
+						- colonic diverticula
+					- tx:
+						- ACEi/ARB
+						- hematuria: analgesics + bed rest
+						- fluoroquinolones
+						- 
+				- MCKD:
+					- same as NPHP except adult onset + dominant
+					- hyperuricemia + gout
+					- genes:
+						- MCKD1 / MUC1: 60s yo onset
+						- MCKD1 / UMOD: 30s yo onset
+
+
+			- childhood (recessive):
+				- ARPKD
+					- gene: PKHD1 (fibrocystin) -> dilation of renal/hepatic ducts
+					- systemic htx
+					- renal insuffiency
+					- portal htx
+					- potter syndrome:
+						- flattened nose, infraorbital creases
+						- pulmonary hypoplasia
+				
+				- nephronopthisis (NPHP):
+					- most common cause of ESRD in children
+					- NPHP genes
+					-symptoms:
+						- polyuria, polydipsia, secondary enuresis, anemia
+						- senior-løken syndrome: retinitis pigmentosa
+						- joubert syndrome: cerebellar vermis aplasia
+						- liver fibrosis
+
+	
+L28: genetics II: glomerular diseases
+	main:
+	- alport's syndrome:
+		- x-linked (80%): α5, α6
+			- absence of α3, α4, α5 staining
+			- deafness
+			- opto issues
+
+		- recessive (20%): α3, α4
+			- less severe in carriers
+			- FSGS in progressive disease
+		
+		- normal complement / serologies
+		- microhematuria, proteinuria, renal dysfunction
+		- collagen IV issue
+		- tx:
+			- ACEi/ARBs
+			- transplant:
+				- anti-GBM disease: antibodies against donor collagen
+
+	- glomerular diseases:	
+		- focal segmental glomerulosclerosis (FSGS):
+			- monogenic: steroid resistant nephrotic syndrome, mutations in podocyte proteins
+		- APOL1 increases risk
+			- protects against sleeping sickness
+			- 50%-80% increased risk of CKD
+
+		- membranous nephropathy:
+			- immune MN:
+				- 70% have PLA2RI antibodies
+				- HLA-PLA2R explains 1/3 of risk
+			- IgA nephropathy:
+
+	
+L29: chronic kidney disease
+	main:
+	- CKD:
+		- proteinuria associated with bad events
+		- criteria (either):
+			-  kidney damage > 3 months
+				- albuminuria (>= 30mg/g)
+				- Hx of transplant
+				- abnormalities: electrolyte, histology 
+			-  GFR < 60
+
+		- stages:
+			- 1: GFR > 90 diagnose, slow progressin
+			- 2: GFR: 60 - 89
+			- 3A: GFR: 45-59, treat complications
+			- 3B: GFR: 30-44, 
+			- 4: GFR: 15-29, nephro, prep for dialysis/transplant
+			- 5: < 15, prep for dialysis/transplant
+			- ESRD: < 15, on dialysis or had kidney transplant
+
+		- causes:
+			- primary:
+				- vascular disease: RAS, htx, Sc, MAHA
+				- glomerular disease: DM, glomerulonephritis
+				- tubulo-interstitial disease: AIN, ATN, reflux, obstruction, cystic
+			- secondary:
+				- htx + RAAS activation -> inflammation -> renal hypertrophy
+					- glomerulosclerosis + interstitial fibrosis
+		
+		- diagnosis:
+			- biopsy, US
+		- prerenal failure:
+			- renal artery stenosis (RAS):
+		- renal failure:
+			- tubulointerstitial fibrosis
+			- renal parenchymal volume loss
+			- enlarged/small kidneys
+			- obstruction
+			- cystic disease
+		- postrenal failure:
+			- hydronephrosis
+			- hydroureter
+			- dilated calyces
+
+		- anemia:
+			- EPO deficiency
+			- inflammation -> destruction of blasts, inhibit epo production / resistance
+				- hepcidin upregulation
+		- acidosis:
+			- H2CO3 production failure
+			- effects: muscle wasting, bone disease, inflammation, etc
+		- uremia:
+			- symptoms: fatigue, anorexia, nausea, mental slowing, pruritus
+		- tx:
+			- ACEi, ARBs
+			- SGLT2i
+			- manage htx
+
+
+
+L30: calcium phosphate homeostasis
+	main:
+	- calcium phosphate homeostasis:
+		- vitamin D pathway:
+			- 7-dehydrocholesterol --(sun)--> vitamin D3
+			- vitamin D --(liver)--> 25(OH)D
+			- 25(OH)D --(kidney)--> 1,25(OH)2D
+		- 1,25(OH)2D functions:
+			- up regulates FGF-23
+			- increases bone resorption
+			- increases Ca + PO4 absorption
+			- inhibits PTH
+		- PTH functions:
+			- increases PO4 excretion
+			- increases 1,25(OH)2D production
+		- FGF-23 functions:
+			- decreases 1,25(OH)2D production
+			- increases 1,25(OH)2D degradation
+			- increases PO4 excretion
+
+		- Ca/Phos function
+			- decreases 1,25(OH)2D production
+
+		- calcitriol function:
+		 	- decreases 1,25(OH)2D production
+
+		 - storage:
+		 	- calcium stored in bones
+	
+	- calcium control:
+		- PTH
+		- PO4: reduces urine Ca, stimulates PTH
+	- PO4 control:
+		- FGF-23 (phosphatonin): controls reabsorption
+
+	- CKD - mineral bone disorder:
+		- reduced klotho expression -> reducded PO4 excretion
+		- chronic PO4 retention
+		- increased PTH -> parathyroid gland hyperplasia
+
+		- renal osteodystrophy:
+			- significant bone resorption with ckd
+
+		- tx:
+			- parathyroidectomy
+			- vitamin D analogs:
+				- ergocalciferol (D2)
+				- cholecalciferol (D3)
+					- reduces secondary hyperparathyroidism
+				- active D:
+					- alfacalcidol
+					- paricalcitol
+					- doxercalciferol
+					- calcitriol
+			- diet:
+				- low phophate diet
+					- reduction in dairy, beans, cereal
+			- Pi binders:
+				- calcium containing:
+					- calcium carbonate (tums)
+					- calcium acetate (phoslo)
+				- non-calcium binders:
+					- sevelamer: big tablets
+					- lanthanum: not chewable
+					- sucroferric oxyhydroxide: diarrhea
+					- ferric citrate: diarrhea
+					- aluminum oh: osteomalacia, dementia
+			- calcium sensor stimulation:
+				- lowers PTH, Ca, PO4
+				- types: cinacalet, etelcalcetide
+
+	
+L31: nephrolithiasis
+	main:
+	- epidemiology:
+		- 50% risk of second stone 5-7 years
+		- 9% women, 20% men
+		- hot weather worsens: sweat -> concentrating
+
+	- stone types:
+		- calcium oxalate (CaO):
+			- risks: hypercalciuria, hyperuricosuria, hyperoxaluriam, low V, low Ucitrate, 
+			- 70%
+			- malabsorption, obesity
+			- envelope appearance
+
+		- calcium phosphate (CaP):
+			- hypercalciuria, alkaline urine, medullary sponge kidney
+			- coffin lid appearance
+
+		- uric acid:
+			- 10-15%
+			- risks: acidic urine, metabolic syndrome, gout, hyperuricemia
+			- diamond shape
+			- detectable by RUS or CT
+
+		- magnesium ammonium phosphate (struvite):
+			- 10-15%
+			- urine infection w/ urea splitting bacteria
+				- proteus, haemophilus, klebsiella, ureaplasma urealyticum
+			- staghorn stones
+			- risk: women, chronic urinary obstruction, neuro dysfunction
+
+		- cystine:
+			- <1%
+			- cystine, ornithine, arginine, lysine transporter defects
+			- cystinuria
+			- microhexagonal
+			- CT or RUS
+
+	- stone inhibitors:
+		- Mg, citrate, tartrate, pyrophosphate, phosphocitrate
+		- THP, GAGS, nephrocalcin, calgranulin, osteopontin, UPTF-1
+
+	- diagnosis:
+		- acute, colicky flank pain
+		- hematuria
+		- reccurent uti
+
+	- states:
+		- hypercalciuria: bone resorption, vitamin D excess, ideopathic
+	
+	- management:
+		- medical:
+			- 
+
+			- drink more water
+			- oxalate: diet restriction
+			- Ca: thiazide diuretics, citrate helps, normal Ca diet
+
+			- uric acid stones -> diet + allopurinol
+			- cystine stones -> captopril: captopril-cystine complex more soluble
+		- surgical:
+			- Percutaneous Nephrolithotomy
+			- Ureteroscopic removal
+			- Extracorporeal Shock Wave Lithotripsy
+
+
+L32: obstructive uropathy:
+	main:
+	- obstructive uropathy:
+		- epediomiology:
+			- 20-60 yo: occurence women > men
+			- >60 yo: occurence men > women
+			- congenital: occurence men > women
+		- pathophysiology:
+			- unilateral:
+				- phase 1:
+					- first hour
+					- increased RBF by PGE2 + NO
+					- tubule pressure high
+				- phase 2:
+					- 3-4 hours
+					- decreased RBF by RAAS constriction
+					- tubule pressure high
+				- phase 3:
+					- 5 hours
+					- decreaed RBF
+					- tubule pressure low
+
+			- bilateral:
+				- phase 1:
+					- first 90 mins
+					- increased RBF by PGE2 + NO
+				- phase 2: decreased RBF
+
+			- obstruction messes up gradients
+			- gross changes:
+				- 6 weeks: cystic dilation
+			- microscopic changes:
+				- 7 days: dilation of duct, tubules, bowmans space, edema
+				- 12 days: papillary tip necrosis
+				- 16 days: thickening of GBM
+				- 5-6 weeks: glomerular collapse, interstitial fibrosis
+
+			- common causes:
+				- upper urinary tract:
+					- nephrolithiasis
+					- extrinsic
+					- ureteropelvic junction obstuction
+					- blood clot
+				- lower urinary tract:
+					- benign prostatic hyperplasia
+					- urethral stricture
+					- cervical cancer
+					- uterine prolapse
+					- pregnancy
+		- diagnosis:
+			- US, retrograde pyelography, CT, MRI, nuclear renography
+
+		- management:
+			- surgery: percutaneous fluoroscopic needle, endoscopic
+			- stent
+
+		- post obstructive diuresis:
+			- only after bilateral obstruction
+			- gradient lost after obstruction -> diuresis
+			- 500-600 cc per hour for 24 hours
+			- profound metabolic disarray + hypokalemia
+
+
+L33: dialysis
+	main:
+	- uremic syndrome:
+		- symptoms:
+			- GI: anorexia, N/V, dysguesia, bleeds
+			- skin: pruritis, uremic frost
+			- CV: dyspnea, pericarditis
+			- encephalopathy
+			- myoclonus, asterixis
+
+	- dialysis indications:
+		- uremic syndrome
+		- GFR < 5-10, 10-15 with LV CHF
+
+	- adjuvant management:
+		- dose adjustments
+		- special diet
+		- restriction of overhydration
+	
+	- dialysis:
+		- requires EPO replacement
+		- activated vitamin D
+		- suppression of PTH
+		- replace B complex
+
+		- diffusion:
+			- J = D * A * dC/dx
+			- small molecule clearance
+			- corrects electrolyte inbalance
+
+		- convection:
+			- solvent drag
+			- ultrafiltrate solute concentration approximates original solvent
+			- larger weight molecules
+			- NaCL + H20 correction
+	
+		- hemodialysis:
+			- goals:
+				- nitrogen removal: diffusion
+				- fluid/electrolyte balance:
+					- convection for NaCL + H20
+					- diffusion for rest
+				- acid-base control: diffusion
+			- 90-95% diffusion
+			- hydrostatic pressure gradient
+			- AV fistula / AV graft
+			- risks: strict dietary limitations
+			- 65% BUN reduction each treatment
+
+		- peritoneal dialysis:
+			- add dialysate into peritoneal space
+			- 80-90% diffusion
+			- osmotic pressure gradient
+			- intra-abdominal catheter
+			- risks: peritonitis, glycemic control, hernias, EPS
+			- types:
+				- CAPD: continuous ambulatory PD
+				- APD: automated PD
+				- CCPD: continuous cyuclic PD
+
+		- mineral bone disorder:
+			- use phosphate binders
+	
+L34: kidney transplantation basics
+	main:
+	- transplants have better survival
+		- equalizes after 106 days
+		- earlier, better survival
+
+	- eligibility:
+		- on dialysis or GFR <= 20
+		- no contraindications
+			- absolute:
+				- malignancy
+				- infection
+				- contraindication to surgery
+				- organ failure
+			- relative:
+				- substance abuse
+				- insurance coverage
+				- inadequate support
+				- nonadherence
+				- severe uncontrolled psychiatric illness
+				- conditions that reduce allograft longevity
+
+	- matching:
+	 	- wait time:
+			- dialysis start time or registration date (w/e earliest)
+			- special: former living donor, pediatric, perfect match / highly sensitized
+			- blood type
+			- center
+			- regional variation
+
+		- match donor risk index: age, diabetes, height, cause of death, weight, Pcr, hep C, htx, race
+		- HLA sensitized:
+			- pregnancy, transfusion, transplant
+			- PRA assessment
+		- swaps / chains: untapped potential
+
+	- transplant surgery/medications:
+		- anterior placed in left lower abdomen
+		- immunosuppression:
+			- intense first week
+				- lympho or non-lymphdepleting agent
+				- steroids
+			- maintenance:
+				- calcineurin inhibitors: tacrolimus, cyclosporine
+				- nucleotide synthesis inhibitors: MPA
+				- mTOR inhibitors: sirolimus, everolimus
+				- CD80 inhibitors: CTLA 4-Ig
+				- cell cycle inhibitors: azathioprine
+		- rejection:
+			- acute:
+				- 10-20% cases, 90% successful treatment
+				- cell mediated: host cells infiltrate/kill graft
+				- antibody mediated: antibodies destroy peri-tubular glomerular capillaries
+			- chronic:
+				- very common
+	- death:
+		- 40% fail due to patient death
+		- 60% allografts fail:
+			- 40% chronic rejection
+			- 10-20% from other causes
+	
+L35: ESKD and transplant disparities
+	main:
+	- ESRD:
+		- transplant is best option cost + outcome
+		- covered by medicare
+	- transplants:
+		- black people are less likely to be referred, get it
+		- APOL1 testing

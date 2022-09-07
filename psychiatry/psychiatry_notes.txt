@@ -1,0 +1,114 @@
+L1: psychosis
+	main:
+
+
+L2: depression
+	main:
+
+
+L3: mania
+	main:
+
+
+L4: anxiety
+	main:
+
+
+L5: SUD I clinical assessment
+	main:
+
+
+L6: neurobiology of depression
+	main:
+
+
+L7: eating disorders
+	main:
+
+
+L8: women
+	main:
+
+
+L9: antidepressants
+	main:
+
+
+L10: SUD II opioids
+	main:
+
+
+L11: somatic symptoms
+	main:
+
+
+L12: SUD III neurobiology of addiction
+	main:
+
+
+L13: personality disorders psychiatric disorders of medical conditions
+	main:
+
+
+L14: antipsychotics
+	main:
+
+
+L15: neurobiology of schizophrenia
+	main:
+
+
+L16: SUD IV alcohol and nicotine
+	main:
+
+
+L17: anxiolytics and hypnotics
+	main:
+
+
+L17: II pharmacotherapy mood and anxiety
+	main:
+
+
+L18: stimulants cannabis and hallucinogens
+	main:
+
+
+L19: PTSD
+	main:
+
+
+L20: OCD
+	main:
+
+
+L21: child I
+	main:
+
+
+L22: child II
+	main:
+
+
+L23: child III
+	main:
+
+
+L24: child life
+	main:
+
+
+L25: autism
+	main:
+
+
+L26: suicide
+	main:
+
+
+L27: CBT
+	main:
+
+
+L28: psychodynamics
+	main:
