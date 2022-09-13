@@ -1,0 +1,77 @@
+L17: sexually transmitted infections:
+	main:
+	- STI general symptoms:
+		- discharge: GC, CT, mycoplasma
+		- ulceration: HSV, syphilis
+		- suprapubic/testicular/perineal discomfort, join pain: all
+		- urethritis:
+			- dysuria
+			- urethral pruritis
+			- discharge
+			- dx:
+				- gram stain > 2 WBCs/hpf
+				- positive leukocyte esterase or > 10 WBC/hpf on first urine void
+
+	- gonnoccocal infections:
+		- 600k in US
+		- signs:
+			- 2-8 days incubation
+			- abrut onset
+			- severe dysuria
+			- more purulent discharge
+
+		- neisseria gonorrhea (GC):
+			- oxidase positive
+			- gram negative
+			- intracellular diplococci (kidney bean shape)
+			- infects mucus secreting columnar/cuboidal epithelial cells
+
+			- resevoir: asymptomatic people
+			- virulence factors:
+				- pili: attach/penetrate non-ciliated host cells
+					- inhibit phagocytosis
+				- Opa: bind CD66 on epithelium -> internalization
+				- LOS: attach epithelium, release TNF-α
+				- Ng-OMPA: adhesion + invasion
+				- PorB: interferes with degranulation of PMNS
+					- prevents phagolysosome
+					- prevents complement killing
+				- RMP: inhibit host antibodies
+
+			- diagnosis:
+				- gram stain 98% sensitivity
+				- NAAT: preferred testing
+				- culutre: for resistance
+			- clinical symptoms:
+				- w/ penis:
+					- dysuria, purulent discharge
+				- w/ cervix: discharge, dysuria, vaginal bleeding, abdominal pain
+
+			- disseminated GC:
+				- 1-3% patients
+				- risks: female, menstruation, C5-C8 deficiency
+				- symptoms:
+					- fever, pustular skin lesions
+					- migratory/asymmetric polyarthralgias
+					- hepatitis/endocarditis, etc
+
+			- treatment:
+				- ceftriaxone 500mg IM x 1
+					- double if > 150kg
+					
+					- gentamicin/azythromycin if allergic
+					- cefixime 800 mg for PO
+				- doxycycline 100 mg x 2 per day x 7 if chlamydia
+
+
+	- non-gonnococcocal infections:
+		- signs:
+			- 7-14 days incubation
+			- mild dysuria
+			- less volume, mucoid discharge
+
+	- testing:
+		- HIV every 3-6 mos for MSM, at risk
+		- pregnant women:
+			- test for syphilis
+			- HCV
