@@ -1,0 +1,123 @@
+vector borne pathogens:
+	- rickettsia rickettsii
+		- rocky mountain spotted fever
+		- vector
+		- specifics:
+			- small GN coccobacilli
+			- obligate intracellular
+			- weak LPS, mininal peptidoglycan
+		- vector: ixodidae ticks, american dog ticks
+		- reservoir: mammals
+		- symptoms
+			- 1 week incubation -> flu symptoms
+			- 2-5 days later -> macular eruption on appendages, centripetal rash (+hands, +feet)
+		- pathogenesis: lymphatics -> phagocytosed -> fission in cytosol -> damage -> vascular leakage
+		- tx: doxycycline
+
+	- rickettsialpox:
+		- r. akari
+		- vector: mites
+		- reservoir: mice
+		- symptoms: pox, lymphadenopathy
+		- dx: nothing, if bad -> doxycycline
+
+	- epidemic typhus:
+		- r. prowazekii
+		- vector: human body louse
+		- reservoir: humans
+		- centrifugal petechial rash (no face, palms, soles)
+		- multisys organ failure (fatal 5-40%)
+
+	- ehrlichioses:
+		- flu like
+		- dx: acute PCR, sensitive -> serologies +4x
+		- tx: doxycycline
+		- pathogenesis:
+			- obligate intracellular GN coccoid
+			- morulae (spheres in phagocytome)
+		- anaplasma phagocytophilum:
+			- north, granulocytes (neutrophils)
+			- vector: ixodes, scapularis + pacificus
+			- reservoir: white-footed mice
+		- ehrlichia chaffeensis:
+			- shallow south monocytic
+			- vector: lone star tick (ixodes)
+			- reservoir: white-tailed deer
+	- lyme:
+		- borrelia burgdorferi, spirochete
+		- vector: I. scapularis nymphs
+		- reservoir: white footed mice, small mammals
+		- science:
+			- OspC variant -> increased human transmission
+			- OspA -> hematogenous spread (binds plasminogen)
+			- DbpA + DbpB -> bind collagen -> ECM of joints, heart, C/PNS
+		- dx: EIA or IFA -> western blot
+		- tx: doxycycline, cardiac/C/PNS -> ceftriaxone
+
+
+
+staphylococcus:
+	- commensal GP cocci
+	- aureus:
+		- commensal GP cocci, coagulase +, catalase +
+		- syndromes:
+			- toxic shock syndrome: TSST-1
+			- gastroenteritis: enterotoxin B
+			- scalded skin syndrome: exofliative A + B
+			- endorcarditis:
+		- pathogenesis:
+			- MSCRAMMS: determines location
+			- PMG infiltration -> thrombosis + necrosis -> abscess
+			- destructive enzymes: lipase, coagulase, hyaluronidase, DNAse
+	- epidermis:
+		- endocarditis
+		- relatively avirulent
+		- biofilm
+	- saprophryticus:
+
+streptococcus:
+	- GP catalase negative
+	- pyogenes:
+		- β hemolytic, bacitracin S
+		- pathogenesis:
+			- M protein (inhibits complement, causes virulence) -> rheumatic fever
+			- capsule: inflammation
+			- adhesins (protein F1 and lipoteichoic acid) -> adhere to epithelia
+			- virulence: M proteins, hyaluronate capsule, exotoxins
+		- syndromes:
+			- asymptomatic: common
+			- pharyngitis: no cough, coryza, conjuctivitis, cough, diarrhea
+			- poststrep glomerulonephritis: anti-streptolysin O
+			- toxic shock like: exotoxins A-C
+				- necrotizing fasciitis
+			- rheumatic fever:
+				- jones criteria: 2 major or 1 major + 2 minor
+		- dx: culture best, rapid strep tests
+		- tx: penicillin VK + clindamycin (or other protein synthesis inhibtiors)
+
+	- pneumoniae:
+		- α hemolytic, optochin S
+		- pathogenesis:
+			- phosphorylcholine C - polysaccharide 
+			- cell wall -> inflammatory response
+			- adhesins: choline binding proteins, A -> adhere to type II cells
+			- IgA protease
+			- capsule -> anti-phagocytic
+		- tx: often pencillin resistance
+			- PCV 13 vaccine (protein conjugate)
+
+
+	- enteroccocal spp.:
+	- viridans: endocarditis
+
+
+
+anaerobes:
+	- syndromes:
+		- abscesses
+	- clostridium:
+		- difficile:
+			- pathogenesis:
+			- syndromes:
+			- dx:
+			- tx:

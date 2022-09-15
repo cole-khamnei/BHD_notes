@@ -1,0 +1,263 @@
+protein synthesis inhibitors:
+	- 30S (AT):
+		- aminoglycosides:
+			- gentamicin, tobramycin, amikacin, streptomycin
+			- prevent initiation of translation
+			- cidal
+			- resistance: enzymatic modification (plasmid or transposon)
+			- forms: PE
+			- uptake: water soluble
+			- toxicity: nephro, ototo
+			- metabolized: excreted to urine
+			- uses:
+				- actual: severe
+				- GP: synergy with some severe (staph, enterococcus)
+				- GN: severe, aerobic (enterobacter, pseudomonas)
+				- yersinia pestis
+		
+
+		- tetracyclines (very broad spectrum):
+			- doxycycline, tetracycline, etc
+			- blocks tRNA binding, translation
+			- static
+			- resistance: uptake + e pumps (plasmid)
+			- forms: PO, IV exist
+			- uptake: lipophilic, high CNS penetration
+			- toxicity: GI (common), photosensitivity, liver, teeth staining, allergic,  
+			- metabolized: feces (doxy), liver (mino)
+			- uses:
+				- actual: skin + soft tissue
+				- GP: staph (+ MRSA), strep, entero
+				- GN: e. coli, and some (enterobacteria, haemophilus, neisseria, vibrio)
+				- spirochetes, rickettsiae, chlamydia, mycoplasma
+				- upgrades:
+					- tigecycline (IV) + eravacycline: VRE + carbapenem R enterobacteria
+						- black box warning
+
+
+	- 50s (macro, lincos, oxa):
+		- macrolides (broad spectrum):
+			- azithromycin, clarithromycin, erythromicin
+			- block peptide translocation
+			- static
+			- resistance: uptake, e-pumps, mutant rRNA (erm gene)
+			- forms: PO, PE
+			- uptake: good lungs, no CNS
+			- toxicity: GI, long QT, P450 inhibitor
+			- metabolized: bile excretion
+			- uses:
+				- actual: community pneumonia, pertussis, otitis, GN + CT
+				- GP: strep+, some staph
+				- GN: b. pertussis, n. campylobacter, legionella, haemophilus
+				- other: mycoplasma, ureaplasma, chlamydia
+				- upgrades:
+					- azi/clarithro:
+						- expanded GN: salmonella, shigella, campylobacter, pylori
+
+
+		- lincosamides:
+			- clindamycin
+			- block translation midway, close to macros
+			- static
+			- resistance: inducible
+			- forms: PO, PE
+			- toxicity: diarrhea
+			- uses:
+				- actual: TSST, anaerobic when penicillin allergy or resistance
+				- GP: aerobic (+ MRSA) and anaerobes
+				- GN: none
+
+
+		- oxazolidinones:
+			- linezolid
+			- stops initiation
+			- static
+			- resistance: mutation rRNA
+			- forms: PO, PE
+			- uptake: excellent
+			- toxicity:
+				- neuropathy (+ optic)
+				- thrombocytopenia + myelosuppression
+				- lactic acidos (rare)
+				- serotonin syndrome
+			- metabolized: liver -> urine
+			- uses:
+				- actual: drug resistance GPs
+				- GP: MRSA + VRE 
+				- GN: no
+				- other:
+		
+
+glycopeptides:
+	- vancomycin
+	- blocks d-ala d-ala
+	- static
+	- resistance: d-ala d-lac
+	- forms: IV, PO (for c. diff, not absorbed)
+	- uptake: CNS
+	- toxicity: red man (histamine)
+	- metabolized: kidney
+	- uses:
+		- actual: severe broad spectrum GPs + resistance
+		- GP: MRSA, R s.pneumo, enterococci, clostridium, listeria, bacillus
+		- GN: no
+		- other:
+
+
+miscellaneous:
+	- flouroquinolones (broad spectrum)
+		- ciprofloxacin, levofloxacin, moxifloxacin, delafloxacin
+		- dna gyrase inhibitor
+		- cidal
+		- resistance: mutation, efflux, chromosomal
+		- forms: PO, IV
+		- uptake: excellent, CSF + bone
+		- toxicity: long QT, joints, GI (nausea +), neuro, vascular, allergic, photosensitivity
+		- metabolized: renal
+		- uses:
+			- actual: complicated UTIs, STIs, pencillin allergies, PO invasive
+			- GP: strep, MSSA
+			- gn: aerobic (enterobacteriaceae, neisseria, campylobacter, pseudomonas)
+			- other: legionella, chlamydia, mycoplasma, anthrax
+			
+
+	- metronidazole (broad anaerobe):
+		- diffuse -> reduced -> radicals -> damage DNA
+		- cidal
+		- resistance: pores
+		- forms: PO, IV, topical
+		- uptake: abscesses, CNS
+		- toxicity: disulfram, metal taste, P450
+		- metabolized:
+		- uses:
+			- actual:
+			- GP:
+			- GN: bacteroides, clostridia, helicobacter
+			- other:
+		
+	- trimethoprim-sulfamethoxazole (broad spectrum)
+		- blocks folate metabolism
+		- cidal
+		- resistance: uptake, affinity (plasmid)
+		- forms: PO, IV
+		- uptake: excellent
+		- toxicity: allergic, GI (nausea +), stevens johnson syndrome
+		- metabolized: liver -> urine
+		- uses:
+			- actual:
+			- GP: strep, staph (+ MRSA), listeria
+			- GN: enterobacteria, neisseria, haemophilus
+			- other: chlamydia
+		
+	- daptomycin (resistant GPs)
+		- punches hole in membrane w/ liphilic tail
+		- cidal
+		- resistance: altered phospholipids
+		- forms: IV
+		- uptake: not lungs
+		- toxicity: myopathy (monitor CPK)
+		- metabolized: kidneys
+		- uses:
+			- actual:
+			- GP: VRE, MRSA, pencillin-resistant pneumo
+			- GN: no
+			- other:
+		
+	- polymixin (resistant GNs)
+		- detergent
+		- static
+		- resistance: LPS modification
+		- forms: PO, IV
+		- uptake:
+		- toxicity: nephro, neuro
+		- metabolized:
+		- uses:
+			- actual:
+			- GP: no
+			- GN: enterobacteria, pseudomonas
+			- other:
+		
+
+
+beta-lactams:
+	- inhibit cell wall synthesis
+	- cidal
+	- penicillins:
+		- resistance: pores
+		- forms: PO, IV
+		- uptake:
+		- toxicity: seizures, diarrhea, c. diff, biliary sludge, nephro (I nephritis), cyopenias, allergies
+
+	cephalosporins:
+		- 1st:
+			- cephalexin (PO), cefazolin (IV)
+			- GP: strep, staph
+			- GN: e. coli, klebsiella, proteus
+			- use: skin + soft tissue, perioperative prophylaxis
+		- 2nd:
+			- cefuroxime
+				- haemophilus + respiratory tract infections
+			- cefoxitin, cefotetan
+				- bacteroides, anaerobic
+				- use: gut/pelvic surgery
+		- 3rd:
+			- cetriaxone, cefotaxime
+				- CNS penetration
+				- biliary + renal excretion -> sludge
+			- ceftazidime: pseudomonas
+		- 4th:
+			- cefepime
+			- CNS penetration
+			- GP: strep, staph
+			- GN: pseudomonas + (less ampC susceptible)
+		- 5th:
+			- ceftaroline
+			- 3rd gen + MRSA + resistant pneumococci
+
+	monobactams (allergic GN):
+		- aztreonam
+		- resistance: ESBLs, ampC (chromosomal), pumps
+		- forms: PO, IV
+		- uptake: CNS
+		- metabolized:
+		- uses:
+			- actual: when allergies
+			- GP: no
+			- GN: pseudomonas +
+			- other:
+
+	carbapenems (broad spectrum):
+		- imipenem-cilastatin, meropenem
+		- resistance: porins, NDH metallo, KPCs 
+		- forms: PO, IV
+		- uptake: CNS
+		- toxicity: seisures
+		- metabolized:
+		- uses:
+			- actual:
+			- GP: lots, no MRSA
+			- GN: lots + pseudomonas
+			- other: anaerobes
+
+
+Resistances Mechanisms:
+	- ampC:
+		- 3rd gen cephalosporins ()
+		- aztreonam
+
+	- ESBLs:
+		- 1-3rd gen cephalosporins
+		- aztreonam
+		- beta-lactamase inhibitors may help (clavulanate)
+
+
+clear choices:
+	syphilis: penicillin
+	gonorrhea - ceftriaxone
+	pertussis - azithromycin 
+	c.diff – fidaxomicin (alt po vancomycin)
+	lyme - doxycycline
+	RMSF - doxycycline (if no advanced complications) 
+	anaplasma - doxycycline
+	ehrlichia - doxycycline
+	chlamydia - doxycycline (alt azithromycin)
