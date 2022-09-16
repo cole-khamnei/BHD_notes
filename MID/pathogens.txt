@@ -319,9 +319,9 @@ enteric bacteria:
 		- duration: 7 days
 		- inoculum: <200
 		- symptoms:
-			- watery diarrhea
+			- watery diarrhea -> dysentery
 			- initial: cramping, abdominal pain, fever,
-			- main: severe abdominal pain, tenesmus, dysentery
+			- main: severe abdominal pain, tenesmus
 		- types: many, dysenteriae most virulent (A1)
 		- pathogenesis:
 			- move along GI -> destruction, abscesses, ulcers
@@ -348,7 +348,7 @@ enteric bacteria:
 						- rose spots (30%), hepatosplenomegaly (50%)
 						- intestianl perforation, abscesses, endocarditis
 						- relapse 10%
-
+ffdcg
 			- non-typhoidal
 				- chickens + all animals
 				- onset: 6-48 hours

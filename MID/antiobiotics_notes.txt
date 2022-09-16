@@ -119,7 +119,6 @@ miscellaneous:
 			- GP: strep, MSSA
 			- gn: aerobic (enterobacteriaceae, neisseria, campylobacter, pseudomonas)
 			- other: legionella, chlamydia, mycoplasma, anthrax
-			
 
 	- metronidazole (broad anaerobe):
 		- diffuse -> reduced -> radicals -> damage DNA
@@ -131,8 +130,8 @@ miscellaneous:
 		- metabolized:
 		- uses:
 			- actual:
-			- GP:
-			- GN: bacteroides, clostridia, helicobacter
+			- GP: clostridia
+			- GN: bacteroides, helicobacter
 			- other:
 		
 	- trimethoprim-sulfamethoxazole (broad spectrum)
@@ -176,7 +175,6 @@ miscellaneous:
 			- GP: no
 			- GN: enterobacteria, pseudomonas
 			- other:
-		
 
 
 beta-lactams:
