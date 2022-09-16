@@ -1,8 +1,30 @@
 L8_sepsis:
 	- sepsis:
 		- sepsis: hypotx + infection
-		- septic shock: sepsis + hypotx w/ IV fluids
+		- septic shock: sepsis + lactate > 2 +  hypotx w/ IV fluids
 		- 1/3 rule: 1/3 bacteremic and 1/3 all cultures negative
+		- pathogens:
+			- GPs: staph aureus + strep pneumo
+			- GNs: e. coli, klebsiella, pseudomonas
+		- pathogenesis:
+			- upregulation inflammasome
+			- increased coagulation + decreased anticoag -> DIC
+			- hypotx + vasodilation + RBC deformity -> hypoperfusion -> hypoxia -> capillary leak
+			- high lactate: caused by hypoperfusion + endogenous epinephrine
+		- risks: chronic, bimodal age
+		- labs:
+			- increased WBCs, procalcitonin, lactate, ALT/LST
+			- hypo/hyper glycemia
+			- ileus
+		- tx:
+			- IV antibiotics
+			- vasopressors: nor epi then vasopressin, dopamine
+			- IV crystalloid
+			- steroids?
+
+
+L9_endocarditis:
+
 
 
 L17: sexually transmitted infections:
@@ -28,11 +50,9 @@ L17: sexually transmitted infections:
 			- more purulent discharge
 
 		- neisseria gonorrhea (GC):
-			- oxidase positive
-			- gram negative
+			- GN oxidase positive
 			- intracellular diplococci (kidney bean shape)
 			- infects mucus secreting columnar/cuboidal epithelial cells
-
 			- resevoir: asymptomatic people
 			- virulence factors:
 				- pili: attach/penetrate non-ciliated host cells
@@ -50,8 +70,7 @@ L17: sexually transmitted infections:
 				- NAAT: preferred testing
 				- culutre: for resistance
 			- clinical symptoms:
-				- w/ penis:
-					- dysuria, purulent discharge
+				- w/ penis: dysuria, purulent discharge
 				- w/ cervix: discharge, dysuria, vaginal bleeding, abdominal pain
 
 			- disseminated GC:
@@ -64,18 +83,65 @@ L17: sexually transmitted infections:
 
 			- treatment:
 				- ceftriaxone 500mg IM x 1
-					- double if > 150kg
-					
 					- gentamicin/azythromycin if allergic
 					- cefixime 800 mg for PO
 				- doxycycline 100 mg x 2 per day x 7 if chlamydia
-
 
 	- non-gonnococcocal infections:
 		- signs:
 			- 7-14 days incubation
 			- mild dysuria
 			- less volume, mucoid discharge
+
+		- chlamydia trachomatis:
+			- obligate intracellular parasite
+			- similar to GN, but no cell wall
+			- most frequent STI
+			- dx: NAAT, serology for LGV
+			- tx: doxycycline or azithromycin
+			- pathogenesis:
+				- elementary body (spreader)
+				- reticulate body (breeder)
+			- types:
+				- A-C: endemic
+				- D-K: GU infections
+				- L1-3: lymphogranuloma venereum
+			- syndromes:
+				- asymptomatic (most)
+				- urethritis, prostatisis, proctitis
+				- PID
+				- reactive arthritis: reiter's syndrome:
+					- conjuctivitis, urethritis, skin lesions
+				- lymphogranuloma venereum:
+					- early: painless ulcer 3-30 days
+					- middle: tender inguinal lymphadenopathy (constitutional Sx)
+					- late (mo - yrs): hard masses, urethral/rectal strictures
+
+	- PID:
+		- fitz-hugh-curtis: perihepatitis
+		- risks: multiple partners, < 20 yo
+		- signs: fever, discharge, CRP or ESR, cervical motion tenderness
+		- tx: metronidazole + ceftriaxone + doxycycline
+
+	- herpes:
+		- 1-4 people has HSV-2 antibodies
+		- primary stage 21 days
+		- dx: PCR, serologies
+		- tx: acycolvir, famciclovir, valacyclovir (decreases severity)
+
+	- haemophilus decreyi:
+		- GN coccobacilli
+		- causes HIV risk
+		- sx: *painful* ulcer, ragged edges, yellow exudate
+		- tx: azythromycin, ceftriaxone, ciprofloxacin, erythromycin
+
+	- granuloma inguinale (donovanosis):
+		- klebsiella granulomatosis
+		- GN bacillus
+		- locations: equatorial line, southern Africa, south america
+		- sx: painless subcutaneous nodules
+		- dx: dark donovan bodies on smear of lesion
+		- tx: 3 weeks - azythromycin, doxycycline, erythromycin, bactrim
 
 	- testing:
 		- HIV every 3-6 mos for MSM, at risk
