@@ -115,9 +115,182 @@ streptococcus:
 anaerobes:
 	- syndromes:
 		- abscesses
+
+	- cutibacterium (propionibacterium):
+		- GP rod
+		- colonize: skin, conjunctiva, oropharynx, female GUT
+		- produces propionic acid from fermentation
+		- syndromes: acne + opportunistic on prosthetic devices
+
+	- actinomyces:
+		- GP rod
+		- facultative or strict anaerobe
+		- colonize: URT, GI, female GUT
+		- endogenous
+		- causes: dental procedures
+		- pathology: grains of sand (sulfur granules)
+		- tx: penicillin
+
+	- lactobacillus:
+		- GP rod
+		- facultative or strict anaerobe
+		- colonize: GI and GUT
+		- syndomes: bacteremia with immunocompromised, endocarditis
+
 	- clostridium:
+		- GP rods
+		- colonize: GI everywhere
+		- pathogenesis:
+			- spore formation (hearty)
+			- lots of toxins
+		
 		- difficile:
 			- pathogenesis:
+				- enterotoxin A: chemotaxis, fluid, + hemorrhagic necrosis
+				- cytotoxin B: polymerization of actin -> cytoskeleton loss
 			- syndromes:
+				- asymptomatic
+				- antibiotic assoc. diarrhea
+				- pseudomembranous colitis
 			- dx:
+				- ELISA for toxin A/B, PCR for toxin B
+				- culture
 			- tx:
+				- fidaxomicin (alt. vancomycin PO or metronidazole PO/IV)
+				- IV Ig
+				- fecal transplant
+				- bezlotozumab: antibody for toxin B
+
+		- perfringens:
+			- colonize: GI humans + animals
+				- type A in soil, B-E in GI
+			- pathogenesis:
+				- α-toxin: lyse endothelial + RBCs -> vascular permeability
+				- β-toxin: necrotizing activity
+				- enterotoxin: increased intestinal membrane permeability
+			- syndromes:
+				- gastroenteritis
+				- cellulitis, fascitis, myonecrosis (gas gangrene)
+
+		- tetanus:
+			- colonize: soil + animal GI
+			- pathogenesis:
+				- spore in wound
+				- tetanospasmin: heat-labile neurotoxin -> blocks GABA
+			- syndromes:
+				- tetanus:
+					- generalized:
+						- bulbar + paraspinal muscles
+						- autonomic symptoms
+					- cephalic: only CNs
+					- localized: only local
+					- neonatal: infected umbilical stump -> general
+			- tx: vaccine + metronidazole
+
+		- botulinum:
+			- colonize: soil + water
+			- pathogenesis:
+				- toxins A + B (cans), E (fish), F
+				- blocks acetylcholine release
+			- syndromes:
+				- botulism:
+					- blurred vision, dilatred pupils, dry mouth, constipation
+					- bilateral peripheral muscle weakness
+					- types:
+						- foodborne: onset 1-2 days
+						- infant: honey + syrups, onset: 3-10 days
+				- wound botulism
+				- asymptomatic
+			- dx:
+				- bilateral CN palsies: diplopia, dysphonia, dysarthria, dysphagia
+				- intact mentation
+				- bilateral flaccid paralysis
+				- bioassay for toxin
+				- EM nerve tests
+			- tx:
+				- supportive
+				- metronidazole or penicillin
+				- botulinum Ig (BIG)
+				- botulism antitoxin heptavalent (HBAT) Ig
+
+	- anaerobic GN:
+		- colonize: oral, GI, vagina
+		- syndromes:
+			- sinusitis
+			- infections: periodontal, intra-abdominal, female GU
+			- brain abscess
+			- ulcers (decubitus, diabetic)
+
+	- bacteroides:
+		- GN rods
+		- pathogenesis:
+			- polysaccharide capsule -> stops opsonization + phagocytosis
+				- adhesion + fimbriae
+				- capsular polysaccharide complex: PS A + B -> abscess formation
+			- synergistic with aerobes
+		- syndromes:
+			- 80% of intra-abdominal infections (peritonitis + abcesseses)
+			- diabetic foot ulcers
+		- dx:
+		- tx:
+
+
+other:
+	- abscess formation:
+		- initial: inflammatory exudates
+		- localization: 
+			- fibrin deposition, plalet clumping -> no bacterial clearance
+			- no phagocytosis
+			- neutrophil migration -> killing by hypoxia + low pH
+			- necrotic debris -> complement depletion
+		- mature:
+			- core of necrotic debris + bacteria
+			- surrounded by PMNs + macros
+			- ring of fibroblasts + SMCs within collagen capsule
+
+	- diarrhea:
+	 	- 
+
+
+enteric bacteria:
+	- facts:
+		- watery / small colon:
+
+
+	- cholera
+		- facultative anaerobe GN bent rod w/ 1 flagellum
+		- pathogenesis:
+			- O1 and O139 cause disease
+			- cholera toxin (CT): inhibits CFTR (not SGLT)
+			- toxin-coregulated pilus: colonizing factor
+			- ToxR: virulence regulator
+			- inoculum: 10^5-10^8
+			- protective against: stomach acid, LPS targetted IgA/G, vaccine
+
+		- onset: 1-2 days (2 hour - 5 days)
+		- duration: 7-14 days
+		- symptoms:
+			- asymptomatic (75%)
+			- watery diarrhea (20%)
+			- severe watery diarrhea, vomiting (5%)
+		- tx:
+			- IV / ORS
+			- doxycycline / quinolone / macrolide
+
+
+	- e. coli
+		- facultative anaerobe GN rod +pili, +flagella
+		- lactose fermenting
+		- pathogenesis:
+			- STX-1 
+
+		- types:
+			- enterotoxigenic (ETEC):
+				- onset: 1-2 days
+				- duration: 3-5 days
+				- pathogenesis:
+					- heat-stable (STa): increase cGMP
+					- heat labile (LT): same mech as CT
+
+	- shigella
+	- salmonella
