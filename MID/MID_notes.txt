@@ -25,7 +25,81 @@ L8_sepsis:
 
 L9_endocarditis:
 
+L10_UTIs:
+	- upper UT: pyelonephritis -> perinephric abscess (late)
+	- lower UT: cystitis, urethritis, prostatitis
+	- uncomplicated UTI:
+		- most common
+		- types:
+			- simple cystitis
+			- pyelonephritis w/o stones/pregnancy/obstruction/diabetes
+		- pathogens:
+			- e. coli (80%)
+			- staph saprophyticus (11%)
+			- klebsiella (3%)
 
+	- complicated UTIs:
+		- increased risk / susceptibility
+		- pathogens:
+			- e. coli (30%)
+			- enterococcus (22%)
+			- pseudomonas (20%)
+			- staph epidermis (15%)
+	- recurrent UTIs:
+		- 2+ in 6 mo or 3+ in 12 mo
+		- give prophylaxis: 2+ UTIs within 6 mo and no successful antibiotic measures
+			- also can infrequently do antiseptic methenamine
+
+	- cystitis:
+		- dysuria, urinary urgency/freq, hematuria
+		-tx:
+			- TMP-SMX: if not resistant
+			- nitrofurantoin
+			- fosfomycin (single dose)
+
+	- pyelonephritis:
+		- fever, sweating, nausea/vomiting, flank pain
+		- dysuria, urinary urgency/freq
+		- collect urine culture
+		- tx:
+			- TMP/SMX, something specific
+
+	- children:
+		- < 2 yo: enuresis, fever, poor weight gain
+		- > 3 yo: adult sx
+
+	- dx (urine):
+		- pyuria or RBCs
+		- presence of bacteria (> 10^5 / mL)
+			- asymptomatic: treat if pregnant or undergoing urological surgery
+		- dipstick: nitrate to nitrite, leakocyte esterase test
+
+	- risks (female): short urethra, diaphragm, spermicide
+
+	- acute bacterial prostatitis:
+		- sx:
+			- fever, perineal + back pain, urinary retention
+		- dx:
+			- warm, swollen tender prostate
+			- pyuria
+			- urine culture
+		- pathogens:
+			- GN enterics + enterococci
+			- nsaids + antibiotics
+
+L13: respiratory infections:
+	- community associated pneumonia:
+		- pathogens:
+			- bacteria (30-50%)
+				- strep pneumonia
+				- haemophilus influenza
+				- s. aureus
+				- s. pyogenes
+				- moraxella catarrhalis
+			- atypicals (>15%)
+				- bacteria: mycoplasma, chlamydia, legionella, coxiella
+			- viral (23%): RSV, influenza, metapneumovirus, adeno, rhino, corona, boca
+		
 
 L17: sexually transmitted infections:
 	main:
