@@ -248,15 +248,31 @@ other:
 			- surrounded by PMNs + macros
 			- ring of fibroblasts + SMCs within collagen capsule
 
-	- diarrhea:
-	 	- 
 
+
+facts:
+	- watery - intestine:
+		- cholera
+		- c. perfringens
+		- bacillus cereus
+		- staph aureus
+	- bloody (dysentery) - colon or distal intestine:
+		- shigella
+		- salmonella (non-typhi)
+		- campylobacter jejuni
+		- EHEC
+		- c. difficile
+	- enteric fever - distal intestine:
+		- salmonella typhi
+		- yersinia entercolitica
+
+	- neurotoxins:
+		- staph aureus: 2-4 hours
+		- bacillus cereus:
+			- vomit: 1-6 hours
+			- diarrhea: 10-12 hours
 
 enteric bacteria:
-	- facts:
-		- watery / small colon:
-
-
 	- cholera
 		- facultative anaerobe GN bent rod w/ 1 flagellum
 		- pathogenesis:
@@ -281,9 +297,6 @@ enteric bacteria:
 	- e. coli
 		- facultative anaerobe GN rod +pili, +flagella
 		- lactose fermenting
-		- pathogenesis:
-			- STX-1 
-
 		- types:
 			- enterotoxigenic (ETEC):
 				- onset: 1-2 days
@@ -291,6 +304,57 @@ enteric bacteria:
 				- pathogenesis:
 					- heat-stable (STa): increase cGMP
 					- heat labile (LT): same mech as CT
+			- enterohemorrhagic (EHEC):
+				- pathogenesis:
+					- STX 1/2: bind 28S ribosome -> hemorrhagic colitis
+					- systemic STX -> endothelial damage, prothrombotic, proinflammation -> HUS
+					- HUS: hemolytic uremic syndrome
+						- glomerular epithelial damage from STX (2)
+						- fragged RBCs, CNS symptoms, thrombocytopenia, AKI, HTN
+						- 15% children
 
 	- shigella
+		- GN rod, non-motile
+		- onset: 12 hours
+		- duration: 7 days
+		- inoculum: <200
+		- symptoms:
+			- watery diarrhea
+			- initial: cramping, abdominal pain, fever,
+			- main: severe abdominal pain, tenesmus, dysentery
+		- types: many, dysenteriae most virulent (A1)
+		- pathogenesis:
+			- move along GI -> destruction, abscesses, ulcers
+			- stays within mucosa
+			- invades through macrophages -> evades phagosome
+			- STX: blocks 60s ribosome
+			- possible HUS
+
 	- salmonella
+		- GN rod
+		- pathogenesis:
+			- Sips/Ssps to induce phagocytosis by M cells
+			- SPI 1/2 islands
+			- replicates in phagosome
+		- types:
+			- typhoidal
+				- s.typhi / paratyphi
+				- human fecal-oral
+				- onset: 5-21 days
+				- duration: 4-8 weeks
+				- pathogenesis: macrophage replication -> lymphatics -> spleen, liver, marrow
+				- syndromes:
+					- enteric fever:
+						- rose spots (30%), hepatosplenomegaly (50%)
+						- intestianl perforation, abscesses, endocarditis
+						- relapse 10%
+
+			- non-typhoidal
+				- chickens + all animals
+				- onset: 6-48 hours
+				- duration: 3-7 day
+				- pathogenesis: kills macrophages, limited to epithelium
+				- syndromes:
+					- gastroenteritis: cramping, fever, bloody diarrhea
+					- bacteremia (quick onset)
+					- tissue infection: arterial, cholystitis, osteomyelitis, arthritis
