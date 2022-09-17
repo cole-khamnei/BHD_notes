@@ -103,9 +103,38 @@ L13: respiratory infections:
 L15: meningitis:
 	- pathogens:
 		- strep pneumonia
+			- GP diplococci
+			- pathogenesis:
+				- pneumolysin: IL-1 + 18 -> neuronal apotptosis
+				- platelet activating factor (PAF) -> inflammation + clotting -> hypoperfusion
+				- ICAM upregulation: PMN recruitment -> ROS + elastase (both bad for CNS)
 		- neisseria meningitidis
-		- group B strep (> 80% of kids < 2 mo though)
+			- sub-saharan africa
+			- GN LPS
+			- pathogenesis:
+				- colonization through nasopharynx
+				- encapsulated - binds Factor H -> inhibits lysis
+			- vaccine: Men B (sialic acid epitopes) for adolescents + college + travelers
+		- group B strep (> 80% of kids < 2 mo though):
+			-  stealth sialic capsule: prevents C3b killing
 		- haemophilus influenza
+			- LOS capsule
+			- polyribose phosphate capsule: efficient phagocytosis
+			- vaccine: PRP - diptheria toxin + meningococcal OMP
+			- tx:
+				- steroids (prevent inflammation from lysing LOS)
+				- antibiotics
+		- listeria monocytogenes:
+			- GP bacillus motile
+			- from animal feces + cotija
+			- infects: neonatal meningitis
+	- tx:
+		- antibiotics
+		- steroids (yes adults, maybe children): prevents inflammation + hearing loss
+
+	- risks:
+		- recurrent IPD: IRAK4 NEMO - IL-1 recepter kinase - TLR regulator
+
 
 L17: sexually transmitted infections:
 	main:
