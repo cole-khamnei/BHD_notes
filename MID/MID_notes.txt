@@ -99,7 +99,13 @@ L13: respiratory infections:
 			- atypicals (>15%)
 				- bacteria: mycoplasma, chlamydia, legionella, coxiella
 			- viral (23%): RSV, influenza, metapneumovirus, adeno, rhino, corona, boca
-		
+
+L15: meningitis:
+	- pathogens:
+		- strep pneumonia
+		- neisseria meningitidis
+		- group B strep (> 80% of kids < 2 mo though)
+		- haemophilus influenza
 
 L17: sexually transmitted infections:
 	main:
