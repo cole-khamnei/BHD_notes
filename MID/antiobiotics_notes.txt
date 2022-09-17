@@ -129,7 +129,7 @@ miscellaneous:
 		- toxicity: disulfram, metal taste, P450
 		- metabolized:
 		- uses:
-			- actual:
+			- actual: anaerobes
 			- GP: clostridia
 			- GN: bacteroides, helicobacter
 			- other:
@@ -265,6 +265,45 @@ clear choices:
 bugs to drugs map:
 	- MSSA:
 		- NODs or 1st gen cephalosporins (cefazolin, cephalexin)
+
 	- MRSA:
 		- vancomycin, linezolid, ceftaroline, daptomycin (not for pneumonia)
-	- strep. pyogenes + agalactiae
+
+	- strep. pyogenes + agalactiae:
+		- pencillins
+		- allergy: macrolide, lincosamide, flouroquinolone, or cephalosporin (non-severe reaction)
+
+	- enterococcus:
+		- ampicillin or amoxicillin
+		- ampicillin resistant: vancomysin
+		- vancomysin resistant: linezolid or daptomycin
+		- invasive infections: combo with gentamicin or ceftriaxone (spanish regiment)
+
+	- anarobes:
+		- metronidazole, clindamycin, amoxicillin-clavulanate, zosyn, meropenem
+
+	- c. difficile: 
+		- fidaxomycin or oral vancomysin
+
+	- enterobacteriaceae:
+		- 3/4 gen cephalosporins, amoxicillin-clavulanate, zosyn, meropenem
+		- allergic: flouroquinolone or aztreaonam
+		- combo: add gentamicin
+
+	- pseudomonas:
+		- cephalosporins, zosyn, meropenem
+		- allergic: oral flouroquinolone, aztreaonam
+		- combo: add tobramycin
+
+	- atypicals (mycoplasma, legionella, bordetella):
+		- azithromycin, flouroquinolone, or doxycycline
+
+	- vector-borne (lyme, anaplasma, ehrlichia, rickettsia):
+		- doxycycline
+		- neuro/cardiac lyme: ceftriaxone
+		- babesiosis: atovaquone/azithromycin
+
+	- STIs:
+		- gonorrhea: ceftriaxone
+		- chlamydia: doxycycline (alt azithromycin)
+		- syphilis: penicillin (alt doxycycline if not pregnant)
