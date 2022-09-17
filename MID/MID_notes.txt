@@ -100,6 +100,71 @@ L13: respiratory infections:
 				- bacteria: mycoplasma, chlamydia, legionella, coxiella
 			- viral (23%): RSV, influenza, metapneumovirus, adeno, rhino, corona, boca
 
+
+	- vaccines:
+		- children: PCV-7 + PCV-13
+		- adults: PCV-15 + 20
+
+
+	- mycoplasma:
+		- atypical: no cell wall
+		- pathogenesis:
+			- sialic acid receptors
+			- super antigen
+		- dx: special culture, PCR
+		- sx:
+			- erythema multiforme
+			- walking pneumonia
+
+	- chlamydia trachomatis:
+		- age: neonates (< 3 mo)
+		- sx:
+			- staccato cough, eosinophilia, no fever
+			- minimal xray findings: hyperinflation
+		- tx: macrolide
+
+	- chlamydia pneumoniae:
+		- age: school age + elderly
+		- sx:
+			- indolent, chronic cough, no fever
+		- dx: PCR or serology
+		- tx: macrolide or fluoroquinolone
+
+	- chlamydia psittaci:
+		- associated with birds (parrots)
+		- sx:
+			- fever + rash, CNS palsies, seizures, hepatitis, pericarditis
+			- xray: reticular nodular pattern + adenopathy
+		- dx: serologies (> 1:64)
+		- tx: macrolide or doxycycline
+
+	- legionnares disease:
+		- legionella (pneumophila)
+		- GN bacilli, lives in water
+		- pathogenesis:
+			- flagella + pili attach to resp. epithelium and macrophages
+		- dx: culture, urine assay for pneunophila
+		- sx:
+			- 105 fever, rigors, cough, etc
+			- high WBC, abnormal liver + renal
+			- mulilobar infiltrates and microabscesses
+
+	- bordetella pertussis:
+		- fastidious GN coccobacilii
+		- tx: azithromycin, potential alt bactrim
+		- vaccine: Tdap
+		- sx:
+			- "whoop" cough
+			- clear lungs, rhinerea, sneezing
+			- elevated WBC w/ lymphocytosis
+
+		- pathogenesis:
+			- stages: catarrhal (cold like, contagious), paroxysmal (whoop), convalescent (weak)
+			- respiratory droplets spread
+			- multiplication in mucus membrane
+			- ciliary stasis: pertussis AB5 toxin binds cilia and prevents movement
+			- increased cAMP -> increased secretions
+
 L15: meningitis:
 	- pathogens:
 		- strep pneumonia

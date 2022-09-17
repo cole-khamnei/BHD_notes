@@ -259,3 +259,12 @@ clear choices:
 	anaplasma - doxycycline
 	ehrlichia - doxycycline
 	chlamydia - doxycycline (alt azithromycin)
+
+
+
+bugs to drugs map:
+	- MSSA:
+		- NODs or 1st gen cephalosporins (cefazolin, cephalexin)
+	- MRSA:
+		- vancomycin, linezolid, ceftaroline, daptomycin (not for pneumonia)
+	- strep. pyogenes + agalactiae
