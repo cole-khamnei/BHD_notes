@@ -100,13 +100,11 @@ L13: respiratory infections:
 				- bacteria: mycoplasma, chlamydia, legionella, coxiella
 			- viral (23%): RSV, influenza, metapneumovirus, adeno, rhino, corona, boca
 
-
-	- vaccines:
+    - vaccines:
 		- children: PCV-7 + PCV-13
 		- adults: PCV-15 + 20
 
-
-	- mycoplasma:
+    - mycoplasma:
 		- atypical: no cell wall
 		- pathogenesis:
 			- sialic acid receptors
@@ -147,7 +145,7 @@ L13: respiratory infections:
 		- sx:
 			- 105 fever, rigors, cough, etc
 			- high WBC, abnormal liver + renal
-			- mulilobar infiltrates and microabscesses
+			- multilobar infiltrates and microabscesses
 
 	- bordetella pertussis:
 		- fastidious GN coccobacilii

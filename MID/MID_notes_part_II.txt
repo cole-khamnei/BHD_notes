@@ -1,0 +1,573 @@
+MID Second Half Notes:
+
+
+L53: HIV Treatment:
+	- HIV notes:
+		- viral load has set point
+		- CD4 decline rate dependent on viral load set point
+		- timeline:
+			- primary: ~ 6 months
+			- asymptomatic: 3-10 yrs
+			- AIDS: ~ 7 years after infection
+	- anti-retroviral treatment:
+		- nucleoside reverse transcriptase inhibitors (NRTIs):
+			- mechanism: prevent DNA elongation (missing 3' -OH)
+			- types:
+				- zidovudine: mother-child prevention
+					- significant side effects: nausea, vomitting, headache, macrocytic anemia, peripheral neuropathy, lipodystrophy
+				- abacavir: HLA B57:01 fatal hypersensitivity reaction
+				- lamivudine: low resistance barrier
+				- emtricitabine: low resistance barrier
+				- tenofovir disproxil fumarate (TDF): rare proximal tubule damage, - bone density
+				- tenofovir alafenamide (TAF): +LDL, +weight
+
+		- non-nucleoside reverse transcriptase inhibitors (NNRTIs):
+			- mechanism: prevent DNA synthesis enzyme
+			- types:
+				- first gen: low half-lives, low resistance barrier
+					- efavirenz: neuropsych SEs, rare skin + hepatotoxicity
+					- nevirapine: rare skin + hepatotoxicity
+				- second gen: less SEs
+					- etravirine: 2x daily, not used
+					- rilpivirine: strong oral, injectable
+					- doravirine
+
+		- protease inhibitors (PIs):
+			- powerful (1995)
+			- given with "booster"
+			- very high resistance barrier
+			- CYP 450 3A4 inhibitor
+			- SEs:
+				- GI (bloating, nausea, etc)
+				- lipodystrophy + dyslipedemia
+				- older PI: risk of MI
+			- types:
+				- lopinavir
+				- atazanavir
+				- darunavir
+
+		- integrase inhibitors (INSTIs):
+			- rapid viral decay (2007)
+			- SEs: very few, metabolic syndrome like
+			- types:
+				- 1st gen:
+					- low resistance barrier
+					- raltegravir: 2x daily
+					- elvitegravir: needs "booster"
+				- 2nd gen:
+					- high resistance barrier
+					- dolutegravir
+					- bictegravir
+					- cabotegravir: PO, IM
+
+		- pharmacoenhancers ("booster"):
+			- types:
+				- ritonavir: low dose, early gen PI, GI discomfort
+				- cobicistat: GI discomfort
+
+		- entry inhibitors:
+			- fusion inhibitors:
+				- binds GP41 envelope glycoprotein blocking fusion
+				- type: enfuvirtide (T20) injectable, rarely used
+			- CCR5 antagonist:
+				- blocks CD4+ chemokine co-receptor
+				- type: maraviroc
+				- use: CCR5 tropic virus
+
+			- CD4 post-attachment inhibitor:
+				- monoclonal Ab stops viral fusion
+				- type: ibalizumab-uiyk IV
+				- use: MDR HIV
+			- attachment inhibitor:
+				- binds gp120, blocks virus/CD4 coupling
+				- type: fostemsavir -> temsavir
+				- use: MDR HIV
+
+
+		- combination therapy:
+			- triple therapy:
+				- 2 NRTIs + base
+			- dual therapy:
+				- 1 INSTI + 1 NRTI
+
+L36-37 nematodes:
+	- roundworms
+	- intestinal, blood, larvae migrate through tissue
+
+	- enterobias vermicularis:
+		- pinworm
+		- cycle: oral-fecal
+		- pathogenesis
+			- peri-anal itch
+			- no eosinophilia
+		- dx:
+			- scotch tape/paddle test
+		- tx: albendazole (retreat)
+
+	- trichuris trichuria:
+		- whipworm
+		- cycle: oral-fecal
+		- pathogenesis:
+			- attach cecum/colon
+		- sx:
+			- rectal prolapse
+			- systemic anemia
+			- clubbing
+			- bleeding
+		- dx:
+			- stool O&P
+		- tx: albendazole
+
+	- ascaris lumbricoides:
+		- cycle:
+		- pathogenesis:
+			- lung migration -> loefflers syndrome
+		- sx:
+			- bowel obstruction in children
+			- biliary invasion
+			- pancreatitis
+		- dx:
+			- recover worm
+			- stool O&P
+		- tx: albendazole
+
+	- necator americanus / ancylostoma duodenale:
+		- hookworm
+		- cycle:
+		- pathogenesis:
+			- penetrate skin -> lung migration
+			- loefflers syndrome
+		- sx:
+			- iron deficient anemia
+		- dx:
+			- stool O&P
+		- tx: albendazole
+
+	- strongyloides:
+		- cycle
+		- pathogenesis:
+			- penetration of skin
+		- sx:
+			- acute:
+			- chronic:
+		- dx:
+			- stool O&P (acute)
+			- serology (chronic)
+			- sputum O&P (hyperinfection)
+		- tx: ivermectin
+
+
+	- larva migrans
+		- cutaneous
+		- visceral
+	- 
+
+
+L41-42 flukes:
+	- flat, anterior/ventral sucker
+	- host: snails
+	- schistosomiasis
+		- pathogenesis:
+			- live in blood vessels
+			- penetrate skin
+		- cycle:
+			- water -> penetrate skin -> lungs -> heart -> liver -> bowel/bladder
+		- acute:
+		- acute (katayama):
+			- immediate: pruritic, papular rash "swimmers itch"
+			- 4-8 weeks post infection
+			- sx:
+				- systemic
+				- urticaria
+				- eosinophila
+				- hyperglobulinemia
+				- lymphadenopathy
+				- heptaosplenomegaly
+		- chronic:
+			- egg granuloma -> fibrosis
+			- sx:
+				- colonic polyposis: microabscesses
+				- diarrhea (pediatric)
+				- LLQ pain
+			- liver:
+				- granulomas -> periportal fibrosis
+				- block sinusoids -> portal htn
+				- sx:
+					- portal htn
+					- varices / bleeding
+					- splenomegaly + hyperspenism
+					- anemia
+					- reduced immune responses
+			- urinary:
+				- sx:
+					- 10-12 weeks after infection
+					- hematuria / dysuria
+					- late:
+						- bladder calcifications
+						- proteinuria
+						- CKD
+						- ureter obstruction
+
+			- dx:
+				- biopsy
+				- stool O&P
+				- serology: persistent
+
+		- tx:
+			- praziquantel, only for adult worms, must retreat
+	
+	- liver fluke:
+		- fasciola hepatica
+		- 1.5 cm fluke
+		- watercress
+		- cycle: stool -> water -> snails -> watercress + animals -> intestines -> glissons capsule -> liver
+		- forms:
+			- acute hepatic:
+				- 6-12 post ingestion
+				- sx:
+					- eosinophilia
+					- abdominal pain (RUQ)
+					- fever, systemic
+					- anorexia
+					- hepatomegaly
+				- dx:
+					- large on CT scan
+			- chronic:
+				- lumen of bile duct
+				- acute symptoms resolve
+				- sx:
+					- sometimes asymptomatic
+					- biliary obstruction / cholecystitis
+					- ascending cholangitis
+					- jaundice
+					- RUQ pain
+					- gall bladder lithiasis
+				- dx: US
+		- tx: triclabendazole
+
+	- paragonimiasis:
+		- endemic hemoptysis
+		- crustacea / crabs
+		- cycle:
+			- metacerariae ingested -> intestines -> peritoneum -> lungs
+		- pathogenesis:
+			- granulomas -> fibrosis + bronchiectasis
+			- bronchiolar fistula
+		- sx:
+			- productive cough
+			- blood sputum, hemoptysis
+			- pleuritic chest pain
+			- fever + pleural effusion
+			- eosinophilia
+		- dx: 
+			- xray: nodules, patchy infiltrates, calcifications
+			- eggs in sputum
+			- serology 
+			- biopsy
+		- tx: praziquantel
+
+
+L46 cestodes:
+	- flat worms, sexual segments
+		- scolex (head)
+		- proglottids (sections)
+	- tx: praziquantel
+
+	- diphyllobothrium latum
+		- source: fish
+		- size: 3-12 meter
+		- dark rosette
+		- sx:
+			- few, fatigue, pernicious anemia, HA
+			- 1/5 abdominal pain + discomfort
+			- B12 deficiency
+
+	- cysticercosis:
+		- taenia saginata:
+			- beef
+			- intact proglottid
+			- sx:
+				- abdominal pain
+				- no eosinophilia
+		- taenia solium:
+			- pork
+			- sx:
+				- asymptomatic: usually
+				- epigastric pain + umbilical pain
+				- nausea, hunger, anorexia
+				- eosinophilia
+			- neurocysticercosis:
+				- vesicular -> colloidal -> granular -> calcified
+				- dx:
+					- CT/MRI
+					- serology (not sensitive for single cyst or calcified lesion)
+				- tx:
+					- 1-2 lesions: albendazole
+					- >2 lesions: albendazole + praziquantel
+					- steroids + antiepileptics prophylaxis PRN
+					- calcified lesions: antiepileptics
+					- subarachnoid: albendazole + praziquantel
+					- intraventricular: ball valve -> removal
+
+	- echinococcus:
+		- host: dog
+		- intermediate host: humans + animals
+		- pathogenesis:
+			- invade from GI
+			- hydatid cysts with endocyst
+		- sx:
+			- liver: RUQ
+			- lungs: hemoptysis, cough, dyspnea
+		- dx:
+			- imaging
+			- serology: w. blot spec > ELISA
+		- tx:
+			- adjunctive albendazole
+			- surgical fields:
+				- soak scolicidal agents
+				- spillage -> praziquantel
+			- CE 1: aspirate
+			- CE 2: surgery
+			- CE 3: surgery
+			- CE 4/5: inactive, watch + wait (10 years)
+
+L51-52: protozoa
+	- amoeba:
+		- nonflagellate protozoa
+		- types:
+			- invasive: entamoeba hystolytica
+			- non-invasive: e. dispar, moshkovskii
+		- cycle:
+			- fecal cysts ingested
+			- gastric acid releases trophozoites
+			- invade colon -> liver
+		- pathogenesis:
+			- glycosidases: lyse PMNs on contact
+			- necrotic foci ulcers
+			- vasculitis + thrombosis
+		- tx:
+			- abscess: metronidazole
+			- luminicidal:
+				- iodoquinol
+				- paromomycin
+				- diloxanide furoate
+		- dx:
+			- stool O&P
+			- biofire (PCR)
+			- stool Ag
+
+		- syndromes:
+			- asymptomatic
+			- mucosal:
+				- bloody diarrhea
+				- acute rectocolitis
+					- onset: 1-3 week
+					- sx: 
+						- abdominal pain + tenderness
+						- bloody stools + tenesmus
+						- fever (30%)
+				- chronic nondysenteric colitis:
+					- frequent stools
+					- abdominal cramping
+					- weight loss, anorexia, nausea
+			- liver abscess:
+				- leukocytosis
+				- fever, RUQ pain
+				- no eosinophilia
+				- elvated ESR
+				- dx: serology/aspiration
+			- transmural:
+				- fulminant colitis + perforation
+				- toxic megacolon
+			- ulcerative postdysenteric colitis (rare)
+
+	- trichomonas vaginalis:
+		- STI
+		- sx:
+			- discharge, pruritis
+			- painful coitus
+			- vaginal erythema
+		- tx: metronidazole
+
+	- toxoplasma gondii:
+		- cycle:
+			- cat feces -> meat or ingestion
+	 	- pathogenesis:
+	 		- invade cells
+	 	- acute disease:
+	 		- painless lymphadenopathy (single cervical)
+	 		- fever, headache, malaise, myalgia
+	 	- affected fetus:
+	 		- retinal scars
+	 		- psychmotor impairment
+	 		- ocular disease:
+	 			- pain, photophobia, blurred vision
+	 			- hazy/yellow patches on eye exam
+	 	- AIDs (<100):
+	 		- multifocal necrotizing encephalitis
+
+	 	- tx:
+	 		- sulfadiazine-pyrimethamine:
+	 			- folate pathway inhibitor
+	 		- alt: bactrim, clindamycin
+	 	- dx:
+	 		- serology, 4x rise in IgG
+	 		- PCR/histology
+
+
+
+L54 kinetoplastids:
+	- chagas disease:
+		- trypanosoma cruzi
+		- vector: triatomine
+		- tx:
+			- < 50 yo: treat
+			- advanced disease: no
+		- dx:
+			- giemsa smear
+			- PCR (CDC double check): persistent antibodies
+			- culture
+		- cycle:
+			- blood -> vector -> blood -> gut -> feces
+			- feces/blood -> muscle -> muscle rupture
+			- transmission: vector / blood tx/nursing/transplant
+		- pathogenesis:
+			- trypomastigotes invade SMC/cardiomyocytes
+			- cause fibrosis + atrophy
+			- reactivation in tx patients
+		- sx:
+			- acute:
+				- often children
+				- romana's sign (eyelid edema, weeks)
+				- chagoma
+				- fever, systemic sx
+				- heptaosplenomegaly
+				- atypical lymphocytosis
+				- rare:
+					- arrhythmias
+					- acute meningoencephalitis
+					- myocarditis
+			- chronic:
+				- ~70% asymptomatic
+				- ~30%: cardiomyopathy:
+					- RBBB, LAFB
+					- arrhythmias: AFib/Flutter, AV blocks, VT
+					- cardiomegaly, hypertrophy + dilatation
+					- apical aneurysm (30%)
+						- intracardiac thromi
+				- GI disease:
+					- intramural neuron degeneration
+					- sever constipation, fecaloma (megacolon)
+
+
+	- leishmaniasis:
+		- vector: sandfly
+		- dx:
+			- biopsy
+			- PCR
+			- giemsa smear
+			- K39 antigen
+		- visceral (kala-azar):
+			- insidious onset (weeks to mos)
+			- sx:
+				- fever, weight loss
+				- anorexia
+				- massive splenomegaly
+				- pancytopenia (anemia, leukopenia, etc)
+				- dark pigmentation
+			- tx: amphotericin B
+
+		- cutaneous (old world):
+			- non-healing sores
+			- tx: amphotericin B
+		- mucosal (new world / espundia):
+			- brazilienesis
+			- sx:
+				- nodular lesions: nasal septum, nasopharyngeal
+				- horrifying
+			- onset: days to years
+			- tx: topical
+
+
+
+L55 COVID-19:
+	- structure:
+		- lipid bilayer
+		- hemagglutinin (HE)
+		- spike protein (S)
+		- membrane protein (M)
+		- envelope glycoprotein (E)
+		- RNA based
+	- pathogenesis:
+		- binds ACE2 -> TMPRSS2 fusion
+		- viral shedding peaks 1 day after symptom onset
+		- starts 2-3 days before symptoms
+
+	- epidimiology:
+		- 80% transmission from 10% of infected
+		- 80% cases: mild, URI
+		- 20% cases: ARDS, ALI, cytokine storm
+	- risks:
+		- age (highest)
+		- auto IFN antibodies (second highest)
+	- tx:
+		- nirmatrelvir (paxlovid):
+			- inhibits processing of RNA pol protein
+			- given with booster (ritonavir)
+			- 90% reduction in severe disease
+		- remdesivir:
+			- mRNA synthesis inhibitor
+			- Adenosine nucleoside analog
+			- 87% reduction in progression if given < 5 days
+		- molnupiravir:
+			- mRNA synthesis inhibitor
+			- cytidine nucleoside analog
+			- 30% reduction in progression if given < 5 days
+		- monoclonals:
+			- bind spike -> block ACE2 binding
+			- types:
+				- tixagevimab
+				- cilgavimab
+				- bebtilovimab (for omicron)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -13,6 +13,7 @@ protein synthesis inhibitors:
 				- actual: severe
 				- GP: synergy with some severe (staph, enterococcus)
 				- GN: severe, aerobic (enterobacter, pseudomonas)
+				- NO anaerobic coverage
 				- yersinia pestis
 		
 
@@ -307,3 +308,50 @@ bugs to drugs map:
 		- gonorrhea: ceftriaxone
 		- chlamydia: doxycycline (alt azithromycin)
 		- syphilis: penicillin (alt doxycycline if not pregnant)
+
+
+
+antifungals:
+	- polyenes:
+		- amphotericin B:
+			- interferes with ergosterol
+			- IV only
+			- side effects: AKI, hypokalemia, hypomagnesia, anemia
+			- broad spectrum, severe
+			- uses: crypto, mucor, severe dimorphics
+		- nystatin:
+			- 
+	- azoles:
+		- stops ergosterol synthesis (14-alpha sterol demethylase)
+		- topical, PO, IV
+		- side effects: inhibits P450, hepatoxicity
+		- fluconazole:
+			- uses: candida
+			- side effects: alopecia, dry mouth
+		- itraconazole:
+			- uses: candida + aspergillus/endemics
+			- bad PO absorption, bad CNS penetration
+		- voriconazole:
+			- uses: candida + aspergillus/endemics (go to)
+			- non-linear metabolism
+			- side effects, visual disturbances, skin cancer, fluorosis
+		- posaconazole:
+			- uses: candida + aspergillus/endemics + mucor
+			- side effects: long QT
+		- isavuconazole:
+			- uses: candida + aspergillus/endemics + mucor
+			- side effects: short QT
+	- echinocandins:
+		- micafungin, caspofungin, anidulafungin
+		- use:
+			- non-albicans candida
+			- combo with voriconazole for aspergillosis
+
+	- flucytosine:
+		- chemotherapy: antimetabolite
+		- side effects: marrow suppression, gastritis, rash, etc
+		- use: combo w/ amphotericin C for cryptococcal meningitis
+	- allylamines:
+		- terbinafine
+		- side effects: diarrhea, taste disturbances
+		- use: skin/nail infections
