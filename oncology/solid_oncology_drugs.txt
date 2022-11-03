@@ -1,3 +1,7 @@
+########################################################################################################################
+### Chemotherapy ###
+########################################################################################################################
+
 alkylating agents:
 	- mechanism: cross links DNA (cell-cycle non-specific)
 	- metabolism: liver
@@ -10,7 +14,7 @@ alkylating agents:
 	- types:	
 		- cyclophosphamide:
 			- side effects:
-				- GI - nausea/vomiting
+				- ematogenic
 		- ifosfamide:
 			- CNS toxicity
 			- renal toxicity
@@ -22,39 +26,128 @@ platinums:
 		- neuropathy
 		- electrolyte disturbances
 		- myelosuppression
-
+		- ematogenic
 	- types:
 		- cisplatin:
 			- side effects:
 				- ototoxicity
 				- nephrotoxicity - hydrate!
-				- very ematogenic: nausea/vomiting
+				- very ematogenic
 		- carboplatin:
 			- side effects:
 				- hypersensitivity reactions
-				- 
+				- neuropathy less than cisplatin
 		- oxaliplatin:
 			- side effects:
 				- neuropathy worse w/ cold
-				- my
+				- hepatotoxicity
+
 
 antimetabolites:
-	- fluorouracil
-	- capecitabine
-	- gemcitabine
-	- methotrexate
+	- mechanism:
+	- metabolism: liver
+	- side effects:
+		- myelosuppression
+		- diarrhea
+	- types:
+		- 5-fluorouracil (5FU) / capecitabine (oral):
+			- mechanism: 5FU replaces uracil -> inhibits RNA synthesis + cell growth
+			- side effects:
+				- hand foot syndrome
+				- dihydropyrimidine dehydrogenase defiency (DPD): life threatening
+
+		- methotrexate:
+			- mechanism: inhibits dihydrofolate reductase (S phase specific)
+			- side effects:
+				- renal toxicity: high doses require urine aklalizaion
+				- hepatotoxicity
+				- high doses: leucovorin rescue
+
+		- gemcitabine:
+			- mechanism: inhibits RNA synthesis + reductase
+			- metabolism: intracellular by nucleoside kinases
+			- side effects:
+				- ematogenic
+				- increased ALT/AST
+				- rare: thrombotic thrombocytopenia (TTP)
+
+
 anti-microtubules:
-	- docetaxel
-	- paclitacel
-	- vincristine
-	- vinblastine
+	- mechanism:
+		- stabilize + inhibit microtubule formation
+		- arrests cells in metaphase (M + S phase specific)
+	- metabolism: liver
+	- side effects: peripheral neuropathy
+	- types:
+		- paclitaxel / docetaxel (taxanes):
+			- side effects:
+				- myelosuppression
+				- alopecia
+				- ematogenic
+				- mucositis / diarrhea
+
+		- vincristine:
+			- side effects:
+				- constipation/ileus
+				- vesicant
+				- FATAL if given intrathecal
+
+
 topoisomerase I inhibitors:
-	- irinotecan
-	- topotecan
-topoisomerase II inhibitors:
-	- etoposide
-anthracyclines:
-	- doxorubicin
-	- daunorubicin
-anti-tumor antibiotics:
-	- bleomycin
+	- irinotecan:
+	- topotecan:
+
+topoisomerase II inhibitors (etoposide):
+	- mechanism: forms DNA + topo II complex -> DNA breaks
+	- metabolism: liver
+	- side effects:
+		- alopecia
+		- myelosuppression
+		- AML/MDS
+
+anthracyclines (doxorubicin):
+	- mechanism: intercalates DNA, inhibits topo I, creates free radicals
+	- metabolism: liver
+	- side effects:
+		- ematogenic
+		- stomatitis
+		- diarrhea
+		- myelosuppression
+		- alopecia
+		- cardiotoxicity (late + irreversible)
+		- AML/MDS
+
+anti-tumor antibiotics (bleomycin):
+	- mechanism: creates DNA breaks -> inhibits DNA synthesis
+	- metabolism: renal
+	- side effects:
+		- fever
+		- infusion reaction
+		- pneumonitis + pulmonary fibrosis
+
+
+########################################################################################################################
+### Monoclonals ###
+########################################################################################################################
+
+
+HER2 targetted:
+	- trastuzumab:
+	- pertuzumab:
+
+EGFR/EGF targetted:
+- cetuximab:
+
+VEGF targetted:
+
+
+########################################################################################################################
+### Monoclonal + Drug conjugates ###
+########################################################################################################################
+
+HER2 targetted:
+	- Ado-trastuzumab emtansine (T-DM1):
+	- fam-trastuzumab deruxtecan (T-Dxd):
+
+Trop-2 targetted:
+	- sacituzimab govitecan:
