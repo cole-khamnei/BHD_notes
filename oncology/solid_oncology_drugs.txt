@@ -131,23 +131,152 @@ anti-tumor antibiotics (bleomycin):
 ########################################################################################################################
 
 
-HER2 targetted:
+HER2 targeted:
+	- mechanism:
+	- side effects:
+		- cardiomyopathy (reversible)
+		- infusion reaction
+
 	- trastuzumab:
 	- pertuzumab:
 
-EGFR/EGF targetted:
-- cetuximab:
+EGFR/EGF targeted:
+	- cetuximab:
 
-VEGF targetted:
-
+VEGF targeted:
+	- bevacizumab
 
 ########################################################################################################################
 ### Monoclonal + Drug conjugates ###
 ########################################################################################################################
 
-HER2 targetted:
+
+HER2 targeted:
 	- Ado-trastuzumab emtansine (T-DM1):
 	- fam-trastuzumab deruxtecan (T-Dxd):
 
-Trop-2 targetted:
+Trop-2 targeted:
 	- sacituzimab govitecan:
+
+
+########################################################################################################################
+### Checkpoint Inhibitors ###
+########################################################################################################################
+
+
+checkpoint inhibitors:
+	- side effects:
+		- colitis
+		- rash
+		- hypo/hyperthyroidism
+	- types:
+		- pembrolizumab / nivolumab (PD-1)
+		- atezolizumab (PD-1L)
+		- ipilimumab (CTLA-4)
+
+
+########################################################################################################################
+### Endocrine Therapies ###
+########################################################################################################################
+
+selective estrogen receptor modulator (SERM):
+	- tamoxifen
+
+aromatase inhibitors:
+	- anastrazole, letrozole, exemestane
+
+GnRH agonists:
+	- goserelin / leuprolide
+
+anti-androgen:
+	- bicalutamide
+	- enzulatamide
+
+androgen synthesis inhibitors:
+	- abiraterone
+
+
+########################################################################################################################
+### Targeted Therapies ###
+########################################################################################################################
+
+
+kinase inhibitors:
+	- ribociclib, palbociclib, abemaciclib
+
+EGFR tyrosine kinase inhibitors:
+	- erlotinib, gefitinib, afatinib, osimertinib
+
+ALK + RET tyrosine kinase inhibitors:
+	- alectinib
+
+BRAF kinase inhibitors:
+	- debrafinib/vemurafinib
+
+MEK kinase inhibitors:
+	- tremetinib/cobimetinib
+
+Bcr-Abl + cKIT tyrosine kinase inhibitors:
+	- imatinib
+
+poly ADP-ribose polymerase inhibitors (PARPi):
+	- olaparib
+
+
+multiple receptor tyrosine kinase inhibitors:
+	- mechanism: inhibits VEGF-1-3, PDGFR-α/β
+	- metabolism: liver
+	- side effects:
+		- hypertension
+		- diarrhea
+		- fatigue
+		- stomatitis
+		- hand foot syndrome
+	- types:
+		- sunitinib:
+			- mechanism: inhibits FLT3, CSF-1R, RET
+			- side effects: decreased ejection fraction
+		- pazopanib:
+			- mechanism: inhibits FGFR-1/3, cKIT, lcK, cFms
+			- side effects: hair color changes
+
+
+therapeutic cancer vaccines:
+	- sipuleucel-T:
+		- mechanism: autologous T-cells target prostatic acid phosphatase (PAP)
+		- side effects: infusion reactions
+		- indications: prostate cancer
+
+radiopharmaceutical (radium 223):
+	- mechanism: mimics calcium -> complexes w/ bone -> α particles -> DNA ds breaks
+	- side effects: minimal myelosuppression
+	- indications: castrate resistant prostate cancer (CRPC) metastases
+
+
+########################################################################################################################
+### Supportive Therapies ###
+########################################################################################################################
+
+osteoclast inhibitors:
+	- indications: metastatic bone lesions + malignant hypercalcemia
+	- benefits: reduces skeletal events + reduces pain
+	- side effects:
+		- osteonecrosis of jaw
+		- hypocalcemia
+
+	- types:
+		- bisphosphonates (zoledronic acid):
+			- mechanism:
+			- side effects:
+				- renal insufficiency
+				- flu-like symptoms
+		- denosumab:
+			- mechanism: binds RANKL preventing osteoclast activation
+
+
+
+- mechanism:
+- metabolism:
+- side effects:
+- indications:
+- benefits:	
