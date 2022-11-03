@@ -1,0 +1,60 @@
+alkylating agents:
+	- mechanism: cross links DNA (cell-cycle non-specific)
+	- metabolism: liver
+	- side effects:
+		- myelosuppression
+		- hemorrhagic cystitis - high doses (MESNA prevents)
+		- AML/MDS + bladder cancer
+		- impaired fertility
+
+	- types:	
+		- cyclophosphamide:
+			- side effects:
+				- GI - nausea/vomiting
+		- ifosfamide:
+			- CNS toxicity
+			- renal toxicity
+
+platinums:
+	- mechanism: cross links DNA
+	- metabolism: non-enzymatic by sulfhydryl groups
+	- side effects:
+		- neuropathy
+		- electrolyte disturbances
+		- myelosuppression
+
+	- types:
+		- cisplatin:
+			- side effects:
+				- ototoxicity
+				- nephrotoxicity - hydrate!
+				- very ematogenic: nausea/vomiting
+		- carboplatin:
+			- side effects:
+				- hypersensitivity reactions
+				- 
+		- oxaliplatin:
+			- side effects:
+				- neuropathy worse w/ cold
+				- my
+
+antimetabolites:
+	- fluorouracil
+	- capecitabine
+	- gemcitabine
+	- methotrexate
+anti-microtubules:
+	- docetaxel
+	- paclitacel
+	- vincristine
+	- vinblastine
+topoisomerase I inhibitors:
+	- irinotecan
+	- topotecan
+topoisomerase II inhibitors:
+	- etoposide
+anthracyclines:
+	- doxorubicin
+	- daunorubicin
+anti-tumor antibiotics:
+	- bleomycin

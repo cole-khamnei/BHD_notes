@@ -1,0 +1,108 @@
+L12: prostate cancer
+	main:
+	- epidiomiology:
+		- most common male cancer (27%)
+		- 2nd most common male cancer death (11%)
+		- 11% lifetime risk
+		- 3% lifetime death risk
+		- median age 66
+		- most common 65-74 ages
+	- risk factors:
+		- familial risks (2x per first degree relative)
+		- BRCA: 1 -> 2x, 2->5x
+
+	- screening:
+		- prostate specific antigen (PSA)
+			- glycoprotein: liquefys semen
+			- cutoff: 4 ng/ml
+				- sens: 21%, 51% for gleason >= 8
+				- spec: 91%
+			- false positives: BPH, prostatitis, ejaculation, urinary retention
+		- controversial, only test 55-69
+	
+	- histology:
+		- prostate:
+			- lobular glands + ducts
+				- basal layer: cubuoidal
+				- luminal cells: columnar secretory
+			- fibromuscular stroma around glands
+		- gleason grading:
+			- higher worse
+			- add 1st and 2nd cell population scores
+			- grading:
+				- 3: lots of glands, differing sizes
+				- 4: glands fuse, no lumens
+				- 5: no gland differentiation
+			
+			- risk:
+				- <=6: low risk
+				- 7: medium risk
+				- >=8+: high risk
+
+	- pathology:
+		- adenocarcinomas:
+			- occur in peripheral zone
+			- infiltrative, crowded glands
+			- large nuclei + nucleoli
+			- basal cell layer missing
+
+		- benign prostatic hyperplasia:
+			- 20% men at 40
+			- 70% men at 60
+			- partial or complete urethral obstruction
+			- only in transitional zone: around urethral start by bladder
+
+	- symptoms:
+		- 80% asymptomatic
+		- 20%: urinary frequency, urgency, nocturia, hematuria, bone pain
+
+	- biopsy: 12 cores, transrectal US guided
+	
+	- treatment:
+		- localized:
+			- surgery (prostatectomy):
+				- risks:
+					- ED - 43% at 2 years
+					- incontinence: 15% at 2 years
+			- radiation:
+				- risks similar to surgery
+				- external beam:
+					- low risk for incontinence
+				- brachytherapy: radioactive seeds
+			- active surveillance:
+				- less risks, but similar to surgery
+				- PSA every 3 mo
+		
+		- metastatic:
+			- hormonal therapy:
+				- androgen deprivation therapy (ADT):
+					- testosterone < 50 ng/ml
+					- GnRH agonists: goserelin, leuprolide
+						- result in downregulation of LH/FSH
+					- antiandrogen: bicalutamide
+						- for initial GnRH androgen flare
+				- orchiectomy:
+					- quick, cost effective
+
+			- castrate resistant prostate cancer (CRPC):
+				- prostate cancer -> CRPC after ~2 years of ADT
+				- metastatic lethal form
+				- treatment:
+					- docetaxel (anti-microtubule)
+					- abitarone + prednisone:
+						- androgen biosynthesis inhibitor
+					- enzaulatamide:
+						- androgen antagonist
+						- superior to bicalutamide
+					- sipuleucel-T:
+						- vaccine
+						- T-cells targeted against prostatic acid posphatase (PAP)
+					- radium 223:
+						- targets bone mets
+				
+				- supportive care:
+					- zoledronic acid (bisphosphonates):
+						- for bone mets
+						- inhibits Ca release from tumors
+					- denosumab:
+						- anti-RANKL antibody
