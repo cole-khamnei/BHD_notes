@@ -1,6 +1,6 @@
-########################################################################################################################
+#############################################################################################
 ### Chemotherapy ###
-########################################################################################################################
+#############################################################################################
 
 alkylating agents:
 	- mechanism: cross links DNA (cell-cycle non-specific)
@@ -126,42 +126,95 @@ anti-tumor antibiotics (bleomycin):
 		- pneumonitis + pulmonary fibrosis
 
 
-########################################################################################################################
+#############################################################################################
 ### Monoclonals ###
-########################################################################################################################
+#############################################################################################
+
+
+HER2 targeted:
+	- mechanism:
+		- binds extracellular HER2
+		- starts antibody-dependent cellular toxicity
+	- indications: HER-2 amplification
+	- side effects:
+		- infusion reaction
+
+	- trastuzumab:
+		- mechanism:
+			- prevents EGFR heterodimerization
+			- suppressed HER2 signaling
+		- side effects:
+			- cardiomyopathy (reversible)
+	- pertuzumab:
+		- mechanism:
+			- prevents HER2 dimerization
+			- inhibits HER2 signaling (better than trastuzumab)
+		- side effects:
+			- possible cardiomyopathy (reversible)
+			- diarrhea
+
+EGFR/EGF targeted (cetuximab):
+	- mechanism: binds EGFR + EGF -> prevents phosphorylation
+	- side effects:
+		- acneiform rash
+		- diarrhea
+
+VEGF targeted (bevacizumab):
+	- mechanism: binds VEGF-A -> inhibits angiogenesis
+	- side effects:
+		- hypertension
+		- bleeding
+		- clotting
+		- poor wound healing
+		- GI perforation
+		- fistula formation
+		- nephrotic syndrome + proteinuria
+
+
+#############################################################################################
+### Monoclonal + Drug conjugates ###
+#############################################################################################
 
 
 HER2 targeted:
 	- mechanism:
 	- side effects:
 		- cardiomyopathy (reversible)
-		- infusion reaction
+	- indications: HER-2 amplification
+	- types:
+		- Ado-trastuzumab emtansine (T-DM1):
+			- mechanism: DM1 is microtubule inhibitor
+			- metabolism: DM1 is in liver
+			- side effects:
+				- neuropathy
+				- thrombocytopenia
+				- elevated AST/ALT
+		- fam-trastuzumab deruxtecan (T-Dxd):
+			- mechanism: Dxd is topo I inhibitor
+			- indication: HER2 expression
+			- side effects:
+				- ematogenic
+				- neutropenia
+				- pneumonitis + ILD
 
-	- trastuzumab:
-	- pertuzumab:
-
-EGFR/EGF targeted:
-	- cetuximab:
-
-VEGF targeted:
-	- bevacizumab
-
-########################################################################################################################
-### Monoclonal + Drug conjugates ###
-########################################################################################################################
-
-
-HER2 targeted:
-	- Ado-trastuzumab emtansine (T-DM1):
-	- fam-trastuzumab deruxtecan (T-Dxd):
 
 Trop-2 targeted:
 	- sacituzimab govitecan:
+	- mechanism:
+		- Trop-2 is transmembrane glyoprotein on epithelial cells
+		- SN-38 is topo I 
+	- metabolism: SN-38 in liver
+	- side effects:
+		- myelosuppression
+		- ematogenic
+		- diarrhea
+		- elevated ALT/AST
+		- alopecia
 
 
-########################################################################################################################
+#############################################################################################
 ### Checkpoint Inhibitors ###
-########################################################################################################################
+#############################################################################################
 
 
 checkpoint inhibitors:
@@ -175,52 +228,161 @@ checkpoint inhibitors:
 		- ipilimumab (CTLA-4)
 
 
-########################################################################################################################
+#############################################################################################
 ### Endocrine Therapies ###
-########################################################################################################################
+#############################################################################################
+
 
 selective estrogen receptor modulator (SERM):
-	- tamoxifen
+	- types: tamoxifen
+	- mechanism:
+		- competitively binds estrogen receptors -> decreased DNA synthesis
+		- arrests cells in G0 + G1
+	- metabolism: liver
+	- side effects:
+		- hot flashes
+		- thromboembolism (stroke, PE, DVT)
+		- endometrial cancer (postmenopausal)
+		- cataracts
+	- indications: hormone receptor positive breast cancer
+	- benefits: improved bone health (postmenopausal)
 
 aromatase inhibitors:
-	- anastrazole, letrozole, exemestane
+	- mechanism:
+		- stops peripheral conversion of androstenedione to estrone
+		- stops testosterone -> estradiol
+	- metabolism: liver
+	- side effects:
+		- arthralgias
+		- decreased bone density -> increased fractures
+		- hot flashes
+	- indications: prevention + tx of HR+ post-menopausal
+	- types:
+		- anastrazole, letrozole, exemestane
 
 GnRH agonists:
-	- goserelin / leuprolide
+	- mechanism: increase LH + FSH -> sustained gonadotropin suppression -> testosterone falls
+	- metabolism: liver
+	- side effects:
+		- erectile dysfunction
+		- osteoporosis
+		- hot flashes
+		- vasomotor symptoms
+		- fatigue
+		- cardiovascular disease
+		- diabetes
+	- types:
+		- leuprolide, goserelin, buserelin, triptorelin
 
 anti-androgen:
-	- bicalutamide
-	- enzulatamide
+	- mechanism: blocks testosterone receoptors
+	- metabolism: liver
+	- side effects:
+		- fatigue
+	- indications: given before GnRH agonist to prevent flare
+	- types:
+		- bicalutamide:
+			- side effects:
+				- hot flashes
+				- cardiovascular
+				- erectile dysfunction
+				- osteoporosis
+				- diabetes
+		- enzulatamide:
+			- side effects:
+				- hypertension
+				- seizures <1%
 
 androgen synthesis inhibitors:
-	- abiraterone
+	- types: abiraterone
+	- mechanism: inhibits CYP17 (17 α-hydroxylase) -> inhibits testosterone precursors
+	- metabolism: liver
+	- side effects:
+		- mineralocorticoid excess
+			- hypertension, hypernatremia, hypokalemia, fluid retention
+			- take with prednisone
 
-
-########################################################################################################################
+#############################################################################################
 ### Targeted Therapies ###
-########################################################################################################################
+#############################################################################################
 
 
 kinase inhibitors:
-	- ribociclib, palbociclib, abemaciclib
+	- types:
+		- ribociclib, palbociclib, abemaciclib
+	- mechanism: inhibits CDK4/6 -> arrests in G1-S phase
+	- metabolism: liver
+	- side effects:
+		- uncomplicated neutropenia
+		- anemia/thrombocytopenia
+		- fatigue
+		- pneumonitis rare
 
 EGFR tyrosine kinase inhibitors:
-	- erlotinib, gefitinib, afatinib, osimertinib
+	- types:
+		- erlotinib, gefitinib, afatinib, osimertinib
+	- mechanism: inhibits intracellular phosphorylation of EGFR
+	- metabolism: liver
+	- side effects:
+		- rash: indicative of response
+		- diarrhea
+		- nausea
+		- fatigue
+	- indications: EGFR mutated cancers (NSCLC)
 
 ALK + RET tyrosine kinase inhibitors:
-	- alectinib
+	- types: alectinib
+	- mechanism: inhibits ALK phosphorylation
+	- metabolism: liver
+	- side effects:
+		- elevated AST/ALT, bilirubin
+	- indications: ALK translocations (NSCLC)
+
 
 BRAF kinase inhibitors:
-	- debrafinib/vemurafinib
+	- types: debrafinib, vemurafinib
+	- mechanism: inhibits BRAF
+	- metabolism: liver
+	- side effects:
+		- rash
+		- cutaneous toxicity
+		- without MEKi -> basal/squamous cell skin cancer
+	- indications: BRAF V600E + MEKi
 
 MEK kinase inhibitors:
-	- tremetinib/cobimetinib
+	- types: tremetinib, cobimetinib
+	- mechanism: inhibits MEK (mitogen activated extraceullar kinase)
+	- metabolism: liver
+	- side effects:
+		- dermatologic toxicity
+		- cardiomyopathy
+		- hepatotoxicity
+		- retinopathy
+	- indications: BRAF V600E
 
 Bcr-Abl + cKIT tyrosine kinase inhibitors:
-	- imatinib
+	- types: imatinib
+	- mechanism:inhibits tyrosine kinase for PDGFR, SCF, cKIT, Bcr-Abl
+	- metabolism: liver
+	- side effects:
+		- myelosuppression
+		- *edema
+	- indications:
+		- CML (philly chromosome Bcr-Abl)
+		- ALL + philly chromosome
+		- GIST (gastrointestinal stromal tumor)
+
 
 poly ADP-ribose polymerase inhibitors (PARPi):
-	- olaparib
+	- types: olaparib
+	- mechanism: inhibits PARP (repairs SS breaks) -> DNA DS breaks -> death
+	- metabolism: liver
+	- side effects:
+		- myelosuppression
+		- ematogenic
+		- diarrhea
+		- AML/MDS
+	- indications: BRCA1/2
 
 
 multiple receptor tyrosine kinase inhibitors:
@@ -241,6 +403,11 @@ multiple receptor tyrosine kinase inhibitors:
 			- side effects: hair color changes
 
 
+#############################################################################################
+### Others ###
+#############################################################################################
+
+
 therapeutic cancer vaccines:
 	- sipuleucel-T:
 		- mechanism: autologous T-cells target prostatic acid phosphatase (PAP)
@@ -253,9 +420,9 @@ radiopharmaceutical (radium 223):
 	- indications: castrate resistant prostate cancer (CRPC) metastases
 
 
-########################################################################################################################
+#############################################################################################
 ### Supportive Therapies ###
-########################################################################################################################
+#############################################################################################
 
 osteoclast inhibitors:
 	- indications: metastatic bone lesions + malignant hypercalcemia
@@ -272,11 +439,3 @@ osteoclast inhibitors:
 				- flu-like symptoms
 		- denosumab:
 			- mechanism: binds RANKL preventing osteoclast activation
-
-
-
-- mechanism:
-- metabolism:
-- side effects:
-- indications:
-- benefits:	
