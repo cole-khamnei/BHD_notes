@@ -1,0 +1,113 @@
+alkylating agents:
+	- cyclophosphamide
+	- ifosfamide
+
+platinums:
+	- cisplatin
+	- carboplatin
+	- oxaliplatin
+
+antimetabolites:
+	- 5-fluorouracil (5FU) / capecitabine (oral)
+	- methotrexate
+	- gemcitabine
+
+anti-microtubules:
+	- paclitaxel / docetaxel (taxanes)
+	- vincristine
+
+topoisomerase I inhibitors:
+	- irinotecan
+	- topotecan
+
+topoisomerase II inhibitors: 
+	- etoposide
+
+anthracyclines: 
+	- doxorubicin
+
+anti-tumor antibiotics: 
+	- bleomycin
+
+
+
+HER2 targeted:
+	- trastuzumab
+	- pertuzumab
+
+EGFR/EGF targeted:
+	- cetuximab
+
+VEGF targeted:
+	- bevacizumab
+
+HER2 targeted:
+	- Ado-trastuzumab emtansine (T-DM1)
+	- fam-trastuzumab deruxtecan (T-Dxd)
+
+Trop-2 targeted:
+	- sacituzimab govitecan
+
+
+
+checkpoint inhibitors:
+	- pembrolizumab / nivolumab (PD-1)
+	- atezolizumab (PD-1L)
+	- ipilimumab (CTLA-4)
+
+
+
+selective estrogen receptor modulator (SERM):
+	- tamoxifen
+
+aromatase inhibitors:
+	- anastrazole, letrozole, exemestane
+
+GnRH agonists:
+	- leuprolide, goserelin, buserelin, triptorelin
+
+anti-androgen:
+	- bicalutamide
+	- enzulatamide
+
+androgen synthesis inhibitors:
+	- abiraterone
+
+
+
+kinase inhibitors:
+	- ribociclib, palbociclib, abemaciclib
+
+EGFR tyrosine kinase inhibitors:
+	- erlotinib, gefitinib, afatinib, osimertinib
+
+ALK + RET tyrosine kinase inhibitors:
+	- alectinib
+
+BRAF kinase inhibitors:
+	- debrafinib, vemurafinib
+
+MEK kinase inhibitors:
+	- tremetinib, cobimetinib
+
+Bcr-Abl + cKIT tyrosine kinase inhibitors:
+	- imatinib
+
+poly ADP-ribose polymerase inhibitors (PARPi):
+	- olaparib
+
+multiple receptor tyrosine kinase inhibitors:
+	- sunitinib
+	- pazopanib
+
+
+therapeutic cancer vaccines:
+	- sipuleucel-T
+
+radiopharmaceutical:
+	- radium 223
+
+
+osteoclast inhibitors:
+	- bisphosphonates (zoledronic acid)
+	- denosumab

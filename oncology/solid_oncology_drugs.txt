@@ -69,7 +69,7 @@ antimetabolites:
 			- side effects:
 				- ematogenic
 				- increased ALT/AST
-				- rare: thrombotic thrombocytopenia (TTP)
+				- rare: thrombotic thromboZopenia (TTP)
 
 
 anti-microtubules:

@@ -78,9 +78,8 @@ L12: prostate cancer
 				- androgen deprivation therapy (ADT):
 					- testosterone < 50 ng/ml
 					- GnRH agonists: goserelin, leuprolide
-						- result in downregulation of LH/FSH
 					- antiandrogen: bicalutamide
-						- for initial GnRH androgen flare
+						- initial GnRH androgen flare
 				- orchiectomy:
 					- quick, cost effective
 
@@ -89,20 +88,12 @@ L12: prostate cancer
 				- metastatic lethal form
 				- treatment:
 					- docetaxel (anti-microtubule)
-					- abitarone + prednisone:
-						- androgen biosynthesis inhibitor
-					- enzaulatamide:
-						- androgen antagonist
-						- superior to bicalutamide
-					- sipuleucel-T:
-						- vaccine
-						- T-cells targeted against prostatic acid posphatase (PAP)
-					- radium 223:
-						- targets bone mets
+					- abitarone + prednisone
+					- enzaulatamide
+					- sipuleucel-T
+					- radium 223: targets bone mets
 				
-				- supportive care:
-					- zoledronic acid (bisphosphonates):
-						- for bone mets
+				- supportive care (for bone mets):
+					- zoledronic acid (bisphosphonates)
 						- inhibits Ca release from tumors
 					- denosumab:
-						- anti-RANKL antibody
