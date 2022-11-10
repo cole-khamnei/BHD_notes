@@ -134,7 +134,72 @@ L20 ALL + CLL:
 			- treat stage 3/4 or symptomatic
 			- FCR/ibrutinib/venetoclax
 
+L24 multiple myeloma:
+	- multiple myeloma:
+		- epidimiology
+			- 2nd most commmon heme malignancy
+			- median age ~70
+			- ~5 year survival
+			- 2x in blacks, more in men
+			- blacks better surival
+		- pathology:
+			- plasma cell cancer
+			- fried egg cell with light golgi "clockface" nuclei
+			- rouleaux formation RBCs
+		- secrete M proteins:
+			- detect with SPEP/UPEP: look for M-spike > 3
+			- serum immunofixation (SIFE): identify heavy chain (G, A, or M) + light chain (κ or λ)
+			- IgG most common
+			- light chain mainly detected by urine or lambda:kappa ratio
 
+		- presentation:
+			- CRAB
+				- hyperCalcemia
+				- Renal insufficiency
+				- Anemia
+				- Bone Pain
+				- constitutional symptoms
+		- dx:
+			- need 1 and 2/3
+			- 1a: BM biopsy: >= 10% clonal plasma cells or
+			- 1b: plasmacytoma
+			- 2: end organ damage: >=1 CRAB Sx
+			- 3: myeloma biomarker"
+				- BM >= 60% clonal plasma cells
+				- MRI > 1 bone lesion
+				- kappa:lambda ratio >= 100
+
+		- dx/monitoring:
+			- CBC
+			- albumin, LDH, β2-microglobulin
+			- imaging: PET/CT
+
+		- staging:
+			- I: β2-M < 3.5 + albumin >= 3.5 + normal FISH/LDH
+			- III: β2-M >= 5.5 + high-rish FISH or high LDH
+			- II: not I or III
+
+		- course:
+			- active -> remission -> relapse -> repeat
+		- tx:
+			- allo transplant + SPI, SAI, or SI
+
+
+	- monoclonal gammopathy of undetermined significance (MGUS):
+		- pre-SMM/MM
+		- 1% per yr -> MM
+		- no significant features
+		- tx: observe 6-12 mos
+
+	– smoldering multiple myeloma (SMM):
+		- M-spike > 3
+		- BM clonal plasma >= 10%
+		- 50% at 5 yr -> MM
+		- observe every 3 months
+
+	– waldenstrom’s macroglobulinemia:
+
+	– AL amyloidosis:
 
 L25 CML + NPMs:
 	- CML:
