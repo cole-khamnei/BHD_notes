@@ -1,0 +1,49 @@
+AML + MDS:
+	- AML
+		- APL
+	- MDS
+		- 5q-
+
+ALL + CLL:
+	- ALL
+	- CLL
+		- richter transformation
+
+lymphoma:
+	- non-hodgkin lymphoma
+		- T-cell lymphoma
+			- PTCL-NOS
+			- AITL
+		- B-cell lymphoma
+			- mantle cell lymphoma
+			- follicular lymphoma
+			- diffuse large B-cell lymphoma
+			- burkitt's lymphoma
+			- marginal zone lymphoma
+
+	- hodgkins lymphoma
+		- classical hodgkins
+
+
+hodgkins lymphoma + T-cell lymphoma:
+	- hodgkins
+	- T-cell lymphoma:
+		- peripheral t-cell lymphoma – not otherwise specified (PTCL-NOS)
+		- anaplastic large T-cell lymphoma
+
+		- cutaneous T-cell lymphoma (mycosis fungoides)
+		- adult T-cell leukemia/lymphoma (ATLL)
+		- HTLV-1 associated acute T-cell leukemia/lymphoma
+
+multiple myeloma:
+	- multiple myeloma
+	- monoclonal gammopathy of undetermined significance (MGUS)
+	– smoldering multiple myeloma (SMM)
+	– waldenstrom’s macroglobulinemia
+	– AL amyloidosis
+
+myeloproliferative neoplasms:
+	- chronic myeloid leukemia (CML)
+	- polycythemia vera (PV)
+	- essential thrombocytosis (ET)
+	- primary myelofibrosis (PMF)
