@@ -1,0 +1,270 @@
+- AML drugs:
+	- induction:
+		- cytarabine
+		- daunorubicin/idarubicin
+
+	- cytarabine (Ara-C):
+		- cytosine arabinoside
+		- mechanism:
+			- strand termination -> inhibits DNA/RNA pol
+		- metabolism: liver
+		- side effects:
+			- GI: mucosal inflammation, ulceration, diarrhea
+			- myelosuppression
+		- notes: short half life (use continuous IV)
+
+	- daunorubicin/idarubicin
+		- mechanism: intercalates DNA -> inhibits topo II -> free radicals
+		- metabolism: liver
+		- side effects:
+			- GI: ematogenic, mucosal inflammation, diarrhea
+			- myelosuppression
+			- alopecia
+			- cardiac toxicity
+
+	- venetoclax:
+		- BLC2 inhibitor
+		- single dose
+
+	- prevent relapse:
+		- auto/allo transplant
+		- maintenance
+
+- APL drugs:
+	- all-trans retinoic acid (ATRA):
+	- arsenic trioxide:
+	- dexamethasone: APL differentiation syndrome
+
+- MDS drugs:
+	- maturation drugs:
+		- EPO + G-CSF: improves Hgb ~40%
+		- darbepoetin: improves Hgb 64%
+		- luspatercept: binds TGF-β ligands -> decreased SMAD2/3 -> erythroid maturation
+			- allows transfusion independence ~40% patients
+	- lenalidomide:
+		- improves cytopenia
+	
+	- hypomethylating agents:
+		- azacitidine/decitabine:
+			- prolongs life, complete response 20%
+
+- ALL drugs:
+	 - induction:
+	 	- prednisone
+	 	- dexamethasone
+	 	- vincristine
+	 	- doxorubicin
+	 	- cyclophosphomide
+	 	- asparaginase: depletes asparagine
+
+	 	- Sick At COD after they finish chemo = Steroids + Asparaginase + Cyclophosphomide + Oncristine + Doxorubicin 
+
+	 - CNS therapy:
+	 	- craniospinal irradiation
+	 	- ithrathecal methotrexate + cytarabine
+	 	- CNS = Cytarabine + Nethotrexate + Sun (irradiation)
+
+	 - maintenance:
+	 	- prednisone
+	 	- mercaptopurine
+	 	- methotrexate
+
+	 	- M&Ms (mercaptopurine, methotrexate, Steroids)
+
+	 - relapse treatment:
+	 	- blinatumomab:
+	 		- heavy hitter
+	 		- binds CD19 + CD3 -> binds B + T cells -> T-cell lyses B-cell
+	 	- CAR T
+
+- CLL drugs:
+	- regimens:
+		- FCR: fludarabine, cyclophosphamide, rituximab
+		- FR: fludarabine, rituximab
+		- BR: bendamustine, rituximab
+	- targeted:
+		- ibrutinib: I-nhibits brutons tyrosine kinase
+		- venetoclax: BCL2 antagonist
+			- BCL2 -> inhibits cytochrome C apoptosis
+
+		- idelalisib: blocks PI3K in BCR pathway
+
+- lymphoma drugs:
+	- DLBCL:
+		- R-CHOP:
+			- rituximab:
+				- tumor lysis syndrome, reactivation of HBV
+				- hypogammaglobulinemia
+				- progressive multifocal leokoencephalopathy (PML - JC virus)
+			- cyclophosphomide: myelosuppression, hemorrhagic cystitis
+			- doxorubicin (hydroxydaunorubicin): myelosuppression, cardiomyopathy
+			- vincristine (oncovin): neuropathy
+			- prednisone:
+				- SE: hyperglycemia, weight gain, agitation
+
+		- polatuzumab-R-CHP (pola-R-CHP)
+		- relapse:
+			- axicabtagene ciloleucel (axi-cel) (CAR-T)
+
+	- non-hodgkin lumphoma:
+		- radiotherapy:
+			- curative in early indolent lymphoma
+			- adjunct for bulky disease + DLBCL
+
+	- burkitt's lymphoma:
+		- high intensity immunochemotherapy
+
+	- follicular lymphoma:
+		- radiation: curative for early
+		- rituximab: low burden
+		- bendamustine + CHOP: high burden
+		- relapsed: axicabtagene ciloleucel
+
+	- marginal zone lymphoma:
+		- antibiotics: for H. pylori
+
+	- mantle cell lumphoma:
+		- aggressive: cytarabine + auto-SCT
+			- unfit: bendamustine + rituximab
+
+
+- hodgkins + T-cell lymphomas:
+	- hodgkins:
+		- ABVD:
+			- adriaxmycin (doxorubicin): myelosuppression, cardiomyopathy
+			- bleomycin: pulmonary fibrosis
+			- vinblastine: neuropathy
+			- dacarbazine: akylator: myelosuppression
+		- if response -> drop bleomycin
+		- if worse -> BEACOPP
+		- radiation:
+			- early stage
+			- bulky disease
+		- relapsed:
+			- auto/allo-SCT
+			- brentuximab vedotin: anti-CD30 (RS cells) + anti-microtubule
+			- nivolumab: T-cells kill RS cells
+		- advanced stage:
+			- A+ AVD: add brentuximab veodtin, drop bleomycin
+		- refractory:
+			- anti-PD-1
+
+
+		- paradigms:
+			- A + AVD / AVBD
+				- if worse -> BE A COPP
+			- relapse: allo-SCT, anti-PD1, A (BV)
+
+	- T-cell lymphomas:
+		- peripheral T cell (PTCL-NOS):
+			- chemotherapies
+		- anaplastic large T-cell:
+			- brentuximab vedotin
+		- cutaneous T-cell lymphoma (mycosis fungoides):
+			- topical glucocorticoids
+			- UV radiation
+			- topical/systemic chemotx
+			- transplant
+			- topical SUCT = topical Steroids UV radiation Chemo Transplant
+
+
+- multiple myeloma:
+	- chemotherapy:
+		- HDM-AHCT
+		- proteasome inhibitors:
+			- bortezomib, carfilzomib, ixazomib
+			- side effects: shingles risk -> add antivirals (acyclovir)
+
+			- Zome-ib = proteasome inhibitor -> Z for zoster -> acyclovir
+
+		- immunomodulators: kill MM cells
+			- lenalidomide, pomalidomide, thalidomide
+			- side effects: DVT, PE -> aspirin or anticoag
+		- alkylators:
+			- melphalan, cyclophosphamide, bendamustine
+		- targeted:
+			- daratumumab (CD38)
+			- elotuzumab (CD319)
+		- steroids
+		- regimens:
+			- steroid + PI + immunomodulator
+			- steroid + akylator + immunomodulator
+			- steroid + immunomodulator
+
+			- SPI, SAI or SI  = Steroids + Immunomodulator + Akylator + Proteasome Inhibitor
+	- SCT
+	- radiation: for bone lesions or plasmacytoma
+	- surgery: stabilize bones
+	- kyphoplasty/vertebroplasty: treat compression fractures
+	- bone modifiers: denosumab (RANKLi) + zoledronic acid (bisphosphonate)
+
+	- MM = auto transplant
+
+
+- myeloproliferative neoplasms:
+	- CML:
+		- imatinib: BCR-ABL inhibitor
+			- nilotinib
+
+	- polycythemia vera (PV):
+		- therapeutic phlebotomy
+		- low dose aspirin
+		- cytoreduction:
+			- < 40 yo: interferon alfa
+			- > 40 yo: hydroxyurea: weakest chemotx -> inhibits ribonucleotide reductase
+
+	- essential thrombocytosis (ET):
+		- <60 yo, no high risk: low dose aspirin
+		- >60 yo, prior TE, CV risks: low dose aspirin + hydroxyurea
+			- hyroxyurea intolerant: use anagrelide or interferon alfa
+
+	- primary myelofibrosis (PMF):
+		- supportive:
+			- EPO/transfusions
+			- hydroxyurea
+			- splenectomy/radiation
+			- "supportive SETHS" = Sun + EPO + Transfusions + Hydroxurea + Splenectomy
+		- active:
+			- SCT
+			- thalidomide + corticosteroids
+			- ruxolitinib/fedratinib: JAK2 inhibitors
+
+			- Transplant + Steroids + Immune modulators + Ji
+			- PMF becomes active -> just in time compilation support = JITs = JAK2i + Immune-modulators + Transplant + Steroids
+
+
+
+mnemonics:
+
+leukemia:
+	MDS - 3 groups - differentiate, immunomodulate, prolong life (hypomethylators), SCT
+	AML - 7 + 3 (C + Dauno) -> if weak venetoclax, SCT for relapse prevention
+	APL - arsenic + ATRA, APL differentiatio syndrome - steroids
+
+	ALL - induction: Sick At COD, CNS: C-N-S, maintenance: M&Ms, relapse: bind T-cells
+	CLL - OGs F'C'R: FCR, FR, BR, new kids: ibrutinib or venetoclax
+
+lymphoma:
+	non-hodgkins:
+		mantle zone - strong "mantle" so cytarabine + auto-SCT, if weak: bendamustine + rituximab
+		DLBCL - pol-R-CHOP, relapse: car-T
+		follicular - B-CHOP, relapse: car-T
+		burkitt's - high dose chemo
+		marginal zone - antibiotics (H. pylori)
+
+	hodgkins - A + AVD if bad -> BE A COPP, A = brentuximab vedotin, relapse: SCT, BV, anti-PD1
+	
+	T-cell:
+		PTCL-NOS - chemo
+		anaplastic large - brentuximab vedotin (A)
+		cutaneous / mycosis fungoides - topical SUCT
+
+multiple myeloma - SPI, SAI, or SI, bone tx, auto SCT
+
+myeloproliferative neoplasms (MPNs):
+	CML - imatinib, nilotinib
+	PV - phlebotomy, aspirin, <40 -> interferon-alfa, >40 -> hydroxyurea
+	ET - aspirin, >60 or risks -> hydroxyurea, interferon-alfa, or anagrelide
+	PMF - supportive SETHS and active JITS
+
+

@@ -1,0 +1,260 @@
+- epidimiology:
+- risks:
+- symptoms/signs:
+- histo/pathology:
+- pathogenesis:
+- dx:
+- staging:
+- disease course:
+- treatment:
+
+
+
+L19: AML + MDS notes:
+	- leukemogenesis: decreased differentiation + increased proliferation
+	- AML risks:
+		- topoIIi (del 11q23) + akylators (del 5+7)
+		- radiation/solvents
+		- downs, li fraumeni (p53), fanconi's anemia
+	- Sx: bleeding/bruising/ecchymoses/petechiae, hepatosplenomegaly, dyspea etc
+	- bad muts: tp53, SF3B1, inv(3), BCR-ABL1
+	- intermediate muts: FLT3, t(9, 11), 
+	- good muts: t(8, 21), inv(16), NPM1 w/o FLT3
+	- therapy:
+		- 7+3, SCT
+		- gemtuzumab: CD33
+		- FLT3 muts: midostaurin, gilteritinib
+	- induction -> aplasia -> infections
+	- paradigm:
+		- low risk t(8, 21), inv(16): 7+3
+		- high risk: allo SCT
+		- med risk: if donor -> allo sct
+		- old/weak -> venetoclax
+	- median age ~70
+
+	- APL: 
+		- 10% AML,
+		- bleeding diathesis
+		- t(15, 17)
+		- use ATRA + arsenic
+		- APL differentiation syndrome
+			- early: fever, dyspnea, weight gain
+			- late: pulm infiltrates, pleural/pericardial effusions
+			- use steroids
+			- 30% of APL during induction
+	- MDS:
+		- BM + PM blasts < 20%
+		- IPSS-R scoring: uses cyto, BM blast %, ANC, platelets, hemoglobin
+		- 5q- syndrome:
+			- more female
+			- mild, anemia + thrombocytosis
+			- mild neutropenia
+			- tx: lenalidomide
+		- tx:
+			- young MDS -> allo SCt
+			- no HLA, stable -> supportive + low tox therapy
+			- no HLA, young or progressive -> low: lenalidomide, high: hypomethylators or AML induction
+			- ring-sideroblasts -> luspatercept
+
+
+
+
+L20 ALL + CLL:
+	- ALL:
+		- rare, mostly kids
+		- worse prognosis:
+			- older
+			- t(9, 22)
+			- T-cell phenotype
+			- MRD
+		- good prognosis:
+			- t(12, 21)
+		- risks: radiation, downs
+		- symptoms:
+			- bleeding
+			- effective neutropenia
+			- fatigue, dyspnea, dizziness
+			- fever, bone pain, CNS symptoms
+			- ecchymoses, petechiae
+			- splenomegaly
+		- T cell - ALL: mediastinal mass, SVC-like syndrome
+		- pathology:
+			- large and sticky pull apart bread
+			- open chromatin
+			- light purple cytoplasm
+			- no granules
+
+		- markers:
+			- TdT+: blast
+			- CD10: B-cell lymphoblast
+
+		- tumor lysis syndrome:
+			- all up (phos, urea, K+)
+			- Ca+ down (phos soaks up)
+			- tx: allopurinol, rasburicase, hydration
+		- tx:
+			- relapse -> allo SCT
+
+	- CLL:
+		- most common adult leukemia
+		- median age ~70
+		- 1/3 no tx, 1/3 deferred tx
+		- richter transformation: rare transform to DLBCL
+		- mutatated IGHV -> more differentiated -> better prognosis
+		- pathology:
+			- smudge cells
+			- soccer ball look
+			- Crushed Little Lymphocytes
+
+		- presentation:
+			- lymphocytosis
+			- lymphadenopathy
+			- cytopenia symptoms
+			- splenomegaly + weight loss
+
+		- markers:
+			- CD5, CD19/20/23
+
+		- staging:
+			- 0: >5000/ul monoclonal lymphocytosis + markers
+			- 1: lymphadenopathy
+			- 2: splenomegaly
+			- 3: hemoglobin < 11
+			- 4: platelets < 100k
+		- prognosis:
+			- good: 13q-
+			- bad: 17p-
+		- symptoms:
+			- ITP
+			- AIHA (autoimmune hemolytic anemia)
+			- hypogammaglobilenmia
+			- pure red cell aplasia (PRCA)
+
+		- tx:
+			- treat stage 3/4 or symptomatic
+			- FCR/ibrutinib/venetoclax
+
+
+
+L25 CML + NPMs:
+	- CML:
+		- 45-55 yo
+		- slightly male
+		- presentation:
+			- incidental
+			- constitutional symptoms
+			- hepatosplenomegaly
+			- ecchymoses
+		- pathology:
+			- basophilia, thrombocytosis
+			- peripheral blood: looks like bone marrow
+			- bone marrow: hypercellular, increased myeloid:erythroid
+		- t(9, 22):
+			- tons of things
+		- phases:
+			- chronic (4-6 years)
+			- accelerated: variable
+			- blast crisis:
+				- 3-6 mo survival
+				- either myeloid or lymphoid
+		- tx: imatinib, nilotinib
+			- complete response:
+				- normal WBC, platelets, no immature cells
+				- 0% t(9, 22) cells
+				- > 4.5 log reduction BCR-ABL transcripts
+			- partial response: 1-35% t(9, 22) cells
+			- major response: >3 log reduction BCR-ABL transcripts
+			- can stop meds if responded
+
+	- polycythemia vera (PV):
+		- high HGB/HCT
+		- thrombosis
+		- Sx:
+			- pruritus: especially post shower
+			- plethora
+			- splenomegaly
+			- fatigue
+
+		- JAK2 V617F:
+			- 95% of PV
+			- EPO signaling uses JAK2 pathway -> increased RBCs
+
+		- pathology:
+			- bone marrow: moderate/marked hypercellularity
+			- large clustered megakaryocytes
+			- decreased iron stores
+			- increased reticulin fibers
+		- dx:
+			- Hgb > 16.5 + HCT > 49%
+			- BM biopsy: hypercellularity + pleomorphic mature megakaryocytes
+			- JAK2 mutation
+			- minor: low EPO
+
+		- tx: phlebotomy, etc
+		- 3% mortality each year
+			- thrombosis/bleeding
+			- transform to AML or PMF
+
+	- essential thrombocytosis (ET):
+		- presentation:
+			- high platelets
+			- thrombosis
+			- puritus: especially post shower
+			- erythromelalgia
+			- splenomegaly
+		- genetics:
+			- 50% JAK2 V617F
+			- 35% calreticulin muts: mut CALR activates MPl
+			- 5% MPL (thrombopoetin receptor)
+
+		- dx:
+			- platelet > 450 for 2+ months
+			- BM biopsy: megakaryocyte proliferation
+			- no evidence of CML, MDS, PV, or PMF
+			- JAK2, CALR, or MPL mut
+			- minor: clonal marker or no reactive thrombocytosis
+
+		- tx:
+			- low dose aspirin
+			- etc
+		- course:
+			- thrombosis
+			- 1% untreated -> AML
+			- 4-8% -> PMF
+
+	- primary myelofibrosis (PMF):
+		- pathology:
+			- BM fibrosis
+			- bizarre megakaryocyte hyperplasia
+			- extramedullary hematopoiesis
+				- in spleen, liver, etc
+			- teardrop RBCs
+			- blood looks like marrow	
+		- presentation:
+			- splenomegaly
+			- anemia
+			- bleeding/bruising
+			- infection
+			- cachexia
+		- dx:
+			- megakaryocyte atypia + reticulin fibers grade 2/3
+			- no evidence of CML, PV, ET, or MDS
+			- JAK2, CALR, MPL mut, other clone or no reactive fibrosis
+			- minor:
+				- leukocytos > 11
+				- high LDH
+				- splenomegaly
+				- anemia
+				- leukoerythroblastosis
+			- all major + 1 minor
+
+		- course:
+			- life expectancy: variable ~5 years
+			- risks:
+				- age, Hgb < 10, WBC > 25, blasts > 1%
+				- constitutional symptoms
+				- inv(3), del 5/7, +8, del 11q23
+				- platelets < 100
+			- 10-15% -> AML
+
+		- tx: supportive SETHS + active JITS
