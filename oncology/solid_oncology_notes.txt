@@ -1,3 +1,227 @@
+L2 radiation oncology:
+	- four Rs:
+		- repair: sublethal damage to cells between doses
+		- redistribution: cells -> radiosensitive phases
+		- reoxygenation: of hypoxic cells -> more sensitive to radiation
+		- repopulation: regrowth of cells between doses
+
+	- radiation side effects:
+		- swelling, redness
+		- so many
+
+
+L3 breast cancer: 
+	- epideiomiology:
+		 - 1/8 women
+	- risks:
+		- nulliparity / birth age > 30
+		- estrogen exposure
+		- radiation
+		- syndromes:
+			- li fraumeni
+			- cowden syndrome (PTEN)
+			- BRCA1/2
+				- breast cancer: 40-80% lifetime risk
+				- ovarian cancer: 20-40% lifetime risk
+	
+	- breast anatomy:
+		- terminal duct lobular unit
+	
+	- benign:
+		- fibrocystic changes
+		- fibroadenoma
+		- breast cysts
+		- fat necrosis
+		- galactocele
+
+	- proliferative with atype (RR 5x):
+		- atypical ductal hyperplasia (ADH):
+			- pathology: atypical duct wall cells
+		- atypical lobular hyperplasia (ALH)
+
+	- carcinoma in situ (RR 10x):
+		- stage 0
+		- lobular carcinoma in situ (LCIS):
+			- pathology: small cells in lobules
+			- multifocal + bilateral
+
+		- ductal carcinoma in situ (DCIS):
+			- pathology: looks like muscle/fibrosis around duct
+			- 25% of breast cancers
+			- ipsilateral risk
+
+	- invasive carcinomas:
+		- ductal:
+			- pathology: irregular nests w/o peripheral myoepithelial cells
+		- lobular:
+			- pathology:
+				- linear growth (single file)
+				- E-cadherin negative: cells don't stick together
+
+	- screening: 
+		- yearly 45-54 yo -> at 55: every other year
+		- 40-44 counseling on option for screening
+	
+	- primary prevention:
+		- BRCA1/2: mastectomy + oophorectomy
+		- tx: tamoxifen (SERM) + aromatase inhibitor
+		- prevent BC: "Think Aromatase": T + AI
+
+	- dx:
+		- mammogram, if <30: US, maybe MRI
+		- microcalcifications: DCIS
+		- metastatic: CT, bone scan
+
+	- prognosis:
+		- worse:
+			- size, stage, grade, proliferation
+			- ER- (<1%)
+			- PR- (<1%)
+			- HER-2 positive (IHC 3+)
+			- high oncotype Dx:
+				- high risk: chemo beneficial
+
+	- tx:
+		- surgery:
+			- mastetomy vs lumpectomy
+			- sentinel node vs axillary node biopsy
+		- radiation:
+			- if lumpectomy
+			- if mastectomy + large tumor or node involvement
+		
+		- systemic:
+			- everything: chemotherapy:
+				- regimen:
+					- doxorubicin
+					- cyclophosphamide
+					- taxanes
+					- CDT
+			
+			- anti-HER2+: trastuzumab/pertuzumab x 1yr
+			- HR+/PR+: tamoxifen or aromatase inhibitor x 5-10 years
+
+		- post-treatment:
+			- regular mammograms, physicals
+			- no scans/biomarkers if asymptomatic
+			- BRAC1/2:
+				- give PARPi
+
+	- metastatic tx:
+		- ER+/PR+:
+			- aromatase inhibitors
+			- CDK 4/6 inhibitors
+		- HER2+:
+			- chemo
+			- anti-HER2: trastuzumab/pertuzumab
+			- ADC: T-Dxd
+		- triple negative:
+			- chemo + anti-PD1
+
+		- general metastatic:
+			- sacituzimab govitecan
+
+		- supportive: bisphosphonates / denosumab
+
+	- pathology:
+		- ductal:
+		- lobular:
+
+			 
+
+
+L7 lung cancer:
+	- NSCLC:
+		- tx:
+			- chemo:
+				- platinums: cisplatin, carboplatin
+				- taxanes
+				- gemcitabine
+				- Tobacco Promotes Growth -> TPG -> Taxanes + Platinums + Gemcitabine
+			- anti-PD1
+			- EGFR inhibitors: osimertinib, erlotinib
+			- ALK + RET inhibitor: alectinib
+			- BRAF V600E inhibitors: dabrafenib + trametinib
+			- KRAS: sotorasib
+			- HER2 mutation: TdX-T
+
+	- SCLC:
+		- tx:
+			- chemo: platinum + etoposide
+				- small cell -> small PE -> Platinum + Etoposide
+			- radiation:
+				- concurrent w/ chemo
+				- prophylactic cranial irradiation (PCI)
+
+L10 colorectal cancer:
+	- tx:
+		- chemo:
+			- colon cancer: FOLFOX -> Fluorouracil + Oxaliplatin
+			- rectal cancer: radiation + capecitabine -> adjuvant oxaliplatin
+	- metastatic tx: chemo + targetted
+		- chemo: FOLFOX
+		- targeted:
+			- anti-VEGF: bevacizumab
+			- anti-EFGR: cetuximab - only in RAS WT
+		- MSI high: anti-PD1
+
+
+L15 oncology rounds I:
+	- bladder cancer:
+		- tx:
+			- bacillus calmette-guerin (BCG)
+			- mitomycin
+	- melanoma:
+		- anti-PD1
+		- BRAF V600E: BRAFi + MEKi
+	- head + neck: no tx given
+	- gastric: amoxicillin for H. pylori
+
+
+L16 oncology rounds II:
+	- ovarian cancer:
+		- tx:
+			- chemo:
+				- platinums + taxanes: carboplatin + paclitaxel
+	- liver cancer:
+		- tx: resection/transplant
+	- pancreatic cancer:
+		- tx:
+			- surgery
+			- chemo: gemcitabine + 5FU
+
+	- renal cell carinoma:
+		- tx:
+			- sunitinib/pazopanib
+			- anti-PD1
+			- anti-VEGF: bevacizumab
+
+
+L17 oncology rounds III:
+	- ewing's sarcoma:
+		- tx:
+			- cyclophosphamide + doxorubicin + vincristine
+			- ifosfamide + etoposide
+			- COD EIght: Cyclophosphamide + Ovincristine + Doxorubicin
+
+	- gastrointestinal stromal tumor (GIST):
+		- tx:
+			- surgery
+			- targeted: imatinib for cKIT
+
+	- testicular cancer:
+		- tx:
+			- surgery: orchiectomy
+			- chemo:
+				- cisplatin
+				- bleomycin
+				- etoposide
+				- EBC: Expell Ball Cancer - Etoposide + Bleomycin + Cisplatin
+
+
+
+
+
+
 L12: prostate cancer
 	main:
 	- epidiomiology:
@@ -76,7 +300,7 @@ L12: prostate cancer
 		- metastatic:
 			- hormonal therapy:
 				- androgen deprivation therapy (ADT):
-					- testosterone < 50 ng/ml
+					- goal: testosterone < 50 ng/ml
 					- GnRH agonists: goserelin, leuprolide
 					- antiandrogen: bicalutamide
 						- initial GnRH androgen flare
@@ -86,11 +310,12 @@ L12: prostate cancer
 			- castrate resistant prostate cancer (CRPC):
 				- prostate cancer -> CRPC after ~2 years of ADT
 				- metastatic lethal form
-				- treatment:
-					- docetaxel (anti-microtubule)
-					- abitarone + prednisone
-					- enzaulatamide
-					- sipuleucel-T
+				- tx:
+					- chemo: docetaxel
+					- hormonal:
+						- abitarone + prednisone
+						- enzaulatamide
+					- immune: car-T - sipuleucel-T
 					- radium 223: targets bone mets
 				
 				- supportive care (for bone mets):

@@ -1,52 +1,52 @@
-alkylating agents:
-	- cyclophosphamide
-	- ifosfamide
+alkylating agents: cross links DNA
+	- cyclophosphamide: hemorrhagic cystitis + AML/MDS + fertility
+	- ifosfamide: cyclo effects + CNS/renal toxicity
 
-platinums:
-	- cisplatin
-	- carboplatin
-	- oxaliplatin
+platinums: cross links DNA
+	- cisplatin: neuro/otoxicity + nephrotoxicity (hydrate)
+	- carboplatin: neuropathy
+	- oxaliplatin: cold neuropathy
 
 antimetabolites:
-	- 5-fluorouracil (5FU) / capecitabine (oral)
-	- methotrexate
-	- gemcitabine
+	- 5-fluorouracil (5FU) / capecitabine (oral): DPD deficiency -> fatal
+	- methotrexate: S phase + renal toxicity (alkalize urine) + rescue w/ leucovorin
+	- gemcitabine: TTP
 
 anti-microtubules:
-	- paclitaxel / docetaxel (taxanes)
-	- vincristine
+	- taxanes: paclitaxel / docetaxel: G2 phase + peripheral neuropathy
+	- vincristine: M+S phase + constipation/ileus + peripheral neuropathy
 
 topoisomerase I inhibitors:
 	- irinotecan
 	- topotecan
 
-topoisomerase II inhibitors: 
-	- etoposide
+topoisomerase II inhibitors: complexes DNA + topoII
+	- etoposide: AML/MDS
 
-anthracyclines: 
-	- doxorubicin
+anthracyclines: intercalates DNA + topoIIi + free radicals
+	- doxorubicin: cardiomyopathy + AML/MDS
 
-anti-tumor antibiotics: 
-	- bleomycin
+anti-tumor antibiotics: DNA breaks
+	- bleomycin: pneumonitis + pulmonary fibrosis
 
 
 
-HER2 targeted:
-	- trastuzumab
-	- pertuzumab
+HER2+ targeted:
+	- trastuzumab: reversible cardiomyopathy
+	- pertuzumab: reversible cardiomyopathy
 
 EGFR/EGF targeted:
-	- cetuximab
+	- cetuximab: acneiform rash
 
 VEGF targeted:
-	- bevacizumab
+	- bevacizumab: htn, bleeding/clotting, poor wound healing, GI perforation, fistulas, nephrotic syndrome
 
 HER2 targeted:
-	- Ado-trastuzumab emtansine (T-DM1)
-	- fam-trastuzumab deruxtecan (T-Dxd)
+	- Ado-trastuzumab emtansine (T-DM1): microtubule-i + neuropathy + reversible cardiomyopathy
+	- fam-trastuzumab deruxtecan (T-Dxd): topoIi + ILD/pneumonitis + reversible cardiomyopathy
 
 Trop-2 targeted:
-	- sacituzimab govitecan
+	- sacituzimab govitecan: topoIi + elevated AST/ALT
 
 
 
@@ -58,56 +58,73 @@ checkpoint inhibitors:
 
 
 selective estrogen receptor modulator (SERM):
-	- tamoxifen
+	- tamoxifen: G0 + G1 phase + TE + hot flashes + endometrial cancer + improved bone health
 
 aromatase inhibitors:
-	- anastrazole, letrozole, exemestane
+	- anastrazole, letrozole, exemestane: arthralgias + hot flashes + decreased bone density
 
 GnRH agonists:
-	- leuprolide, goserelin, buserelin, triptorelin
+	- leuprolide, goserelin: ED + osteoporosis + hot flashes + vasomotor sx + cardiovascular disease
 
 anti-androgen:
-	- bicalutamide
-	- enzulatamide
+	- bicalutamide: ED + osteoporosis + hot flashes
+	- enzulatamide: fatigue + htn + rare seizures
 
 androgen synthesis inhibitors:
-	- abiraterone
+	- abiraterone: mineralocorticoid excess - htn, hyper Na+, hypoK+ - give w/ steroid
 
 
 
-kinase inhibitors:
-	- ribociclib, palbociclib, abemaciclib
+CDK 4/6 kinase inhibitors:
+	- ribociclib, palbociclib, abemaciclib: G1-S phase + uncomplicated neutropenia + rare pneumonitis
 
-EGFR tyrosine kinase inhibitors:
-	- erlotinib, gefitinib, afatinib, osimertinib
+EGFR tyrosine kinase inhibitors: "tinib" if exclude else
+	- erlotinib, gefitinib, afatinib, osimertinib: rash - indicates response
 
-ALK + RET tyrosine kinase inhibitors:
-	- alectinib
+ALK + RET tyrosine kinase inhibitors: "al-kt inib"
+	- alectinib: myalgia + elevated liver labs
 
-BRAF kinase inhibitors:
-	- debrafinib, vemurafinib
+BRAF kinase inhibitors: "rafinib"
+	- debrafinib, vemurafinib: basal/squamous cell carcinoma w/o MEKi
 
-MEK kinase inhibitors:
-	- tremetinib, cobimetinib
+MEK kinase inhibitors: "metinib"
+	- tremetinib, cobimetinib: retinopathy + skin toxicity 
 
 Bcr-Abl + cKIT tyrosine kinase inhibitors:
-	- imatinib
+	- imatinib: edema
 
-poly ADP-ribose polymerase inhibitors (PARPi):
-	- olaparib
+poly ADP-ribose polymerase inhibitors (PARPi): "par -ib"
+	- olaparib: DS DNA breaks + AML/MDS
 
-multiple receptor tyrosine kinase inhibitors:
-	- sunitinib
-	- pazopanib
+multiple receptor tyrosine kinase inhibitors: "suni + pazo"
+	- sunitinib: htn + hand-foot syndrome
+	- pazopanib: htn + hand-foot syndrome
 
 
 therapeutic cancer vaccines:
-	- sipuleucel-T
+	- sipuleucel-T: infusion reaction
 
 radiopharmaceutical:
-	- radium 223
+	- radium 223: minor myelosuppresion
 
 
-osteoclast inhibitors:
-	- bisphosphonates (zoledronic acid)
-	- denosumab
+osteoclast inhibitors: osteonecrosis + hypocalcemia
+	- bisphosphonates (zoledronic acid): renal insufficiency
+	- denosumab: 
+
+
+
+
+antibody notes:
+
+u: human
+o: mouse
+xi: chimeric
+zu: humanized
+
+c: C-ardiovascular
+l: immunomodu-L-ating
+k: interleu-K-in
+o (s): b-O-ne
+t (u): T-umor
+v: V-iral

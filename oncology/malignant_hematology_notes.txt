@@ -1,15 +1,3 @@
-- epidimiology:
-- risks:
-- symptoms/signs:
-- histo/pathology:
-- pathogenesis:
-- dx:
-- staging:
-- disease course:
-- treatment:
-
-
-
 L19: AML + MDS notes:
 	- leukemogenesis: decreased differentiation + increased proliferation
 	- AML risks:
@@ -55,7 +43,6 @@ L19: AML + MDS notes:
 			- no HLA, stable -> supportive + low tox therapy
 			- no HLA, young or progressive -> low: lenalidomide, high: hypomethylators or AML induction
 			- ring-sideroblasts -> luspatercept
-
 
 
 
@@ -134,6 +121,208 @@ L20 ALL + CLL:
 			- treat stage 3/4 or symptomatic
 			- FCR/ibrutinib/venetoclax
 
+
+
+L21 B-cell lymphoma:
+	- evaluation:
+		 - CBC, LDH, viral serologies, LP if CNS, BM biopsy
+		 - biopsy node
+
+	- lugano staging:
+		- I: one sided same half
+		- II: multiple same half
+		- III: multiple two halves
+		- organ involvement
+
+	- prognosis:
+		- IPI: age, ECOG, LDH, # extra-nodal sites, stage
+
+	- non-hodgkins:
+		- symptoms:
+			- lymphadenopathy
+			- splenomegaly
+			- CNS
+			- cytopenias
+			- B symptoms: constitutional symptoms + drenching night sweats
+
+
+	- diffuse large N cell lymphoma:
+		- germinal center
+		- prognosis:
+			- aggressive
+			- fatal within months
+			- 65% cure rate
+		- associated with HIV
+		- pathology:
+			- 4-5x size of lymphocyte
+			- diffuse growth pattern
+			- markers: CD19+, CD20+
+		- tx:
+			- pol R-CHOP, outpatient
+			- rituximab:
+				- can reactivate HBV: use prophylaxis if HBV+
+				- hypogammaglobulinemia
+				- progressive multifocal leukoencephalopathy (PML)
+					- demyelinating -> often fatal
+					- JC virus
+			- relapse: CAR-T
+		- primary CNS:
+			- ring enhancing lesion
+			- AIDS-defining illness
+			- HIV/EBV associated
+			- tx: methotrexate +
+
+	- burkitt's lymphoma:
+		- germinal center
+		- course: rapid englargement in days
+		- pathogenesis:
+			- c-myc translocation with heavy chain Ig, t(8, 14)
+			- fastest lymphoma, Ki67 ~100%
+		- pathology: CD20+ starry sky, tingible body macrophages
+		- types:
+			- HIV associated:
+				- 25% latent EBV
+			- african endemic:
+				- 100% EBV
+				- location:
+					- mandible
+					- abdominal viscera
+					- kidneys
+					- ovaries
+					- adrenals
+			- sporadic:
+				- 20% latent EBV
+				- leocecum + peritoneum
+		- tx: intense chemo
+
+	- mantle cell lymphoma:
+		- aggresive:
+		- pathology:
+			- small lymphocytes
+			- nodular to diffuse
+			- markers: cyclin D1+, CD20+
+			- t(11, 14): cyclin D1:IgH
+		- tx:
+			- cytarabine + auto-SCT
+			- if weak: bendamustine + RCT
+
+	- follicular lymphoma:
+		- sx:
+			- asymptomatic lymphadenopathy
+		- pathology:
+			- nodular pattern
+			- looks like follicles but denser
+			- markers: BCL2+, CD20+
+
+		- pathogenesis:
+			- t(14, 18): IgH + BCL-2
+		- tx:
+			- stage I: radiation
+			- low burden: rituximab
+			- high burden: B-CHOP
+			- relapse: car-T
+
+	- marginal zone lymphoma:
+		- pathogenesis:
+			- infection: stomach - H. pylori
+				- CagA+ strains
+			- auto-antigen: salivary gland - sjogren syndrome
+			- t(11, 18): API2/MALT1
+		- pathology:
+			- MALT lymphoma
+
+
+
+
+L23 Hodgkins + T cell lymphoma:
+	- hodgkins:
+		- CD20- B-cell lymphoma
+		- pathology:
+			- reed-sternberg (RS) cells
+				- binucleate owl's eyes: hoot for hodgkins
+			- RS cells <10%
+			- background of macrophages + eosinophils
+			- markers: CD30+, CD15+, EBV+, 
+		- pathogenesis:
+			- derive from GC B-cells
+				- no IgG production or hypermutation
+			- spread through lymph contiguously
+		- types:
+			- nodular sclerosis: most common
+			- mixed cellularity: HIV, eosinophilia
+			- lymphocyte rich: best prognosis
+			- lymphocyte depleted: worst prognosis
+		
+		- epidimiology:
+			- bimodal ages: mainly young
+
+		- presentation:
+			- large mediastinal mass
+			- B symptoms
+			- pruritus
+			- pel ebstein fevers
+			- painful nodes with EtOH
+
+		- staging (use PET/CT):
+			- 1: same side
+			- 2: >3
+			- 3: nodes above and below diaphram
+			- 4: infiltrates organs
+			- A: no constitutional sx
+			- B: fever, night sweats, >=10% wt loss
+
+		- prognosis:
+			- I-II: 90% cure rate
+			- III-IV: 75% cure rate
+			- B symptoms worse
+
+		- tx: A + AVD, etc, allo transplant, anti-pd1, BV
+
+
+	- T-cell lymphoma:
+		- rare/heterogenous
+		- staging: like non-hodgkins B-cell
+
+		- cutaneous T cell lymphoma (mycosis fungoides):
+			- indolent
+			- risks: eczema
+			- stages:
+				- patch-plaque stage
+				- tumor
+				- lymph node involvement
+				- sezary syndrome: leukemic involvement
+
+			- pathology:
+				- Pautrier microabscess: intraepidermal neoplastic cell aggregates
+				- sezary cell: CD4+ + "cerebriform nuclei"
+
+		- peripheral T cell lymphoma: PTCL-NOS:
+			- collector diagnosis
+			- tx:
+				- etoposide, gemcitabine
+				- remission -> transplant
+
+		- anaplastic large T cell lymphoma:
+			- ALK+: younger, t(2, 5) -> better prognosis
+			- tx: CD30+ so use BV
+			- pathology: horeshoe shaped nuclei
+
+		- HTLV-1 / adult T-cell leukemia/lymphoma (ATLL):
+			- pathology: flower cell
+			- markers: CD4+, CD25+, sometimes CD30+
+			- pathogeneis:
+				- driven by HTLV-1
+				- long latency
+			- epidimiology:
+				- endemic to africa, japan, and caribbean
+			- sx:
+				- hypercalcemia
+				- lytic bone lesions
+				- CNS lesions
+				- rash
+				- lymphadenopathy
+
+
 L24 multiple myeloma:
 	- multiple myeloma:
 		- epidimiology
@@ -198,8 +387,25 @@ L24 multiple myeloma:
 		- observe every 3 months
 
 	– waldenstrom’s macroglobulinemia:
+		- rare
+		- lymphoplasmacytic cells
+		- MYD88 mutation
+		- M protein: IgM
+		- symptoms:
+			- hyperviscosity: blurry vision, headache, vertigo, stroke, etc
+			- oronasal bleeding
+			- hepatosplenomegaly, lymphadenopathy
+			- anemia, weakness
+			- neuropathy
+			- raynaud phenomenon
 
 	– AL amyloidosis:
+		- light chain unique:
+			- plasma disorder: can be alongside myeloma
+			- tx: chemo
+		- extracellular deposits of amyloid fibrils
+		- course: death from heart or renal deposits
+
 
 L25 CML + NPMs:
 	- CML:
