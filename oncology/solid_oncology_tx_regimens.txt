@@ -1,0 +1,167 @@
+L3 breast cancer: 
+	- primary prevention:
+		- BRCA1/2: mastectomy + oophorectomy
+		- tx: tamoxifen (SERM) + aromatase inhibitor
+		- prevent BC: "Think Aromatase": T + AI
+
+	- tx:
+		- surgery:
+			- mastetomy vs lumpectomy
+			- sentinel node vs axillary node biopsy
+		- radiation:
+			- if lumpectomy
+			- if mastectomy + large tumor or node involvement
+		
+		- systemic:
+			- everything: chemotherapy:
+				- regimen:
+					- doxorubicin
+					- cyclophosphamide
+					- taxanes
+					- CDT
+			
+			- anti-HER2+: trastuzumab/pertuzumab x 1yr
+			- HR+/PR+: tamoxifen or aromatase inhibitor x 5-10 years
+
+		- post-treatment:
+			- regular mammograms, physicals
+			- no scans/biomarkers if asymptomatic
+			- BRAC1/2: give PARPi
+
+	- metastatic tx:
+		- ER+/PR+:
+			- aromatase inhibitors
+			- CDK 4/6 inhibitors
+		- HER2+:
+			- chemo
+			- anti-HER2: trastuzumab/pertuzumab
+			- ADC: T-Dxd
+		- triple negative: chemo + anti-PD1
+		- general metastatic: sacituzimab govitecan
+		- supportive: bisphosphonates / denosumab
+			 
+
+
+L7 lung cancer:
+	- NSCLC:
+		- tx:
+			- chemo:
+				- Tobacco Promotes Growth -> TPG -> Taxanes + Platinums + Gemcitabine
+			- anti-PD1
+			- EGFR inhibitors: osimertinib, erlotinib
+			- ALK + RET inhibitor: alectinib
+			- BRAF V600E inhibitors: dabrafenib + trametinib
+			- KRAS: sotorasib
+			- HER2 mutation: TdX-T
+
+	- SCLC:
+		- tx:
+			- chemo: platinum + etoposide
+				- small cell -> small PE -> Platinum + Etoposide
+			- radiation:
+				- concurrent w/ chemo
+				- prophylactic cranial irradiation (PCI)
+
+L10 colorectal cancer:
+	- tx:
+		- chemo:
+			- colon cancer: FOLFOX -> Fluorouracil + Oxaliplatin
+			- rectal cancer: radiation + capecitabine -> adjuvant oxaliplatin
+	- metastatic tx: chemo + targetted
+		- chemo: FOLFOX
+		- targeted:
+			- anti-VEGF: bevacizumab
+			- anti-EFGR: cetuximab - only in RAS WT
+		- MSI high: anti-PD1
+
+
+L12: prostate cancer
+	- tx:
+		- localized:
+			- surgery (prostatectomy):
+				- risks:
+					- ED - 43% at 2 years
+					- incontinence: 15% at 2 years
+			- radiation:
+				- risks similar to surgery
+				- external beam:
+					- low risk for incontinence
+				- brachytherapy: radioactive seeds
+			- active surveillance:
+				- less risks, but similar to surgery
+				- PSA every 3 mo
+		
+		- metastatic:
+			- hormonal therapy:
+				- androgen deprivation therapy (ADT):
+					- goal: testosterone < 50 ng/ml
+					- GnRH agonists: goserelin, leuprolide
+					- antiandrogen: bicalutamide
+						- initial GnRH androgen flare
+				- orchiectomy:
+					- quick, cost effective
+
+			- castrate resistant prostate cancer (CRPC):
+				- prostate cancer -> CRPC after ~2 years of ADT
+				- metastatic lethal form
+				- tx:
+					- chemo: docetaxel
+					- hormonal:
+						- abitarone + prednisone
+						- enzulatamide
+					- immune: car-T - sipuleucel-T
+					- radium 223: targets bone mets
+				
+				- supportive care (for bone mets):
+					- zoledronic acid (bisphosphonates)
+						- inhibits Ca release from tumors
+					- denosumab:
+
+
+L15 oncology rounds I:
+	- bladder cancer:
+		- tx:
+			- bacillus calmette-guerin (BCG)
+			- mitomycin
+	- melanoma:
+		- anti-PD1
+		- BRAF V600E: BRAFi + MEKi
+	- head + neck: no tx given
+	- gastric: amoxicillin for H. pylori
+
+
+L16 oncology rounds II:
+	- ovarian cancer:
+		- tx:
+			- chemo: PT - platinums + taxanes: carboplatin + paclitaxel
+	- liver cancer:
+		- tx: resection/transplant
+
+	- pancreatic cancer:
+		- tx:
+			- surgery
+			- chemo: gemcitabine + 5FU
+
+	- renal cell carinoma:
+		- tx:
+			- sunitinib/pazopanib
+			- anti-PD1
+			- anti-VEGF: bevacizumab
+
+
+L17 oncology rounds III:
+	- ewing's sarcoma:
+		- tx:
+			- COD EIght:
+				- COD: Cyclophosphamide + Ovincristine + Doxorubicin
+				- EIght: etoposide + ifosfamide
+
+	- gastrointestinal stromal tumor (GIST):
+		- tx:
+			- surgery
+			- targeted: imatinib for cKIT
+
+	- testicular cancer:
+		- tx:
+			- surgery: orchiectomy
+			- chemo: EBC: Expell Ball Cancer - Etoposide + Bleomycin + Cisplatin

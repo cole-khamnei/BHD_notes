@@ -1,0 +1,116 @@
+syndromes:
+	- familial adenomatous polyposis (FAP) colorectal cancer
+	- lynch syndrome colorectal cancer
+	- hereditary breast and ovarian cancer
+	- li-fraumeni
+
+breast cancer:
+	- hereditary
+	- benign
+		- fibrocystic
+		- fibroadenoma
+		- breast cysts
+		- fat necrosis
+		- galactocele
+	- proliferative:
+		- atypical lobular hyperplasia (ALH)
+		- atypical ductal hyperplasia (ADH)
+	- carcinoma in situ:
+		- lobular carcinoma in situ (LCIS)
+		- ductal carcinoma in situ (DCIS)
+
+lung cancer:
+	- paraneoplastic syndromes:
+		- hypercalcemia of malignancy
+		- SIADH
+		- ectopic cushing's syndrome
+		- lambert-eaton syndrome
+	- lung cancer:
+		- non-small cell lung cancer:
+			- mutations:
+				- EGFR status
+				- ALK+ status
+				- BRAF status
+				- 
+			- adenocarcinoma
+			- squamous cell carcinoma
+			- large cell carcinoma
+
+		- small cell lung cancer:
+
+colorectal cancer:
+	- polyps:
+		- hyperplastic polyps
+		- adenomatous polyps
+			- penduculated tubular
+			- sessile villous
+	- familial adenomatous polyposis (FAP)
+	- lynch syndrome
+
+
+prostate cancer:
+	- benign prostatic hyperplasia
+	- prostate adenocarcinoma
+		- hormone sensitive
+		- castrate resistant
+
+
+oncology rounds I:
+	- bladder cancer:
+		- urothelial (transitional) cell carcinoma
+		- squamous cell carcinoma
+		- adenocarcinoma
+	- melanoma:
+	- human papillomavirus
+	- cervical cancer:
+	- head and neck cancer
+		- oropharynx cancer
+		- squamous cell carcinoma
+	- esophageal cancer:
+		- squamous cell carcinoma
+		- adenocarcinoma
+		- barret's esophagus
+	- gastric cancer:
+
+oncology rounds II:
+	- ovarian cancer
+		- epithelial
+		- germ cell
+		- sex cord stromal
+	- liver cancer:
+		- hepatocellular cancer
+		- cholangiocarcinoma
+		- benign:
+			- hemangioma
+			- hepatocellular adenoma
+			- focal nodular hyperplasia (FNH)
+
+	- pancreatic cancer
+	- kidney cancer:
+		- clear cell carcinomas
+			- von hippel-lindau syndrome
+		- renal pelvis transitional cell carcinoma
+		- wilm's tumor (nephroblastoma)
+		- renal medulla carcinoma
+
+oncology rounds III:
+	- sarcomas:
+		- bone:
+			- osteosarcoma
+			- ewing sarcoma
+		- soft tissue:
+			- leiomyosarcoma
+			- liposarcoma
+			- undifferentiated pleomorphic sarcoma
+			- gastrointestinal stromal tumor (GIST)
+	- testicular cancer:
+		- germ cell tumor:
+			- seminoma
+			- non-seminoma:
+				- embryonal carcinoma
+				- yolk sac tumor
+				- choriocarcinoma
+				- teratoma
+
+		- sex-cord stromal tumors
+			- leydig cell

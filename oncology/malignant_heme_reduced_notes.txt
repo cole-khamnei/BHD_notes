@@ -1,0 +1,190 @@
+L19: AML + MDS notes:
+	- AML risks:
+		- topoIIi (del 11q23) + akylators (del 5+7)
+		- radiation/solvents
+		- downs, li fraumeni (p53), fanconi's anemia
+	- bad muts: tp53, SF3B1, inv(3), BCR-ABL1
+	- intermediate muts: FLT3, t(9, 11), 
+	- good muts: t(8, 21), inv(16), NPM1 w/o FLT3
+		- gemtuzumab: CD33
+		- FLT3 muts: midostaurin, gilteritinib
+		- low risk t(8, 21), inv(16): 7+3
+
+	- APL: 
+		- t(15, 17)
+	- MDS:
+		- 5q- syndrome:
+
+
+L20 ALL + CLL:
+	- ALL:
+		- worse prognosis:
+			- t(9, 22)
+		- good prognosis:
+			- t(12, 21)
+		- T cell - ALL: mediastinal mass, SVC-like syndrome
+		- markers:
+			- TdT+: blast
+			- CD10: B-cell lymphoblast
+
+	- CLL:
+		- richter transformation: rare transform to DLBCL
+		- mutatated IGHV -> more differentiated -> better prognosis
+		- markers:
+			- CD5, CD19/20/23
+		- prognosis:
+			- good: 13q-
+			- bad: 17p-
+
+
+L21 B-cell lymphoma:
+	- diffuse large N cell lymphoma:
+		- germinal center
+		- prognosis:
+			- aggressive
+			- fatal within months
+			- 65% cure rate
+		- associated with HIV
+		- pathology:
+			- 4-5x size of lymphocyte
+			- diffuse growth pattern
+			- markers: CD19+, CD20+
+	
+	- burkitt's lymphoma:
+		- germinal center
+		- pathogenesis:
+			- c-myc translocation with heavy chain Ig, t(8, 14)
+		- pathology: CD20+ starry sky, tingible body macrophages
+	
+	- mantle cell lymphoma:
+		- aggresive:
+		- pathology:
+			- small lymphocytes
+			- nodular to diffuse
+			- markers: cyclin D1+, CD20+
+			- t(11, 14): cyclin D1:IgH
+
+	- follicular lymphoma:
+		- pathology:
+			- markers: BCL2+, CD20+
+
+		- pathogenesis:
+			- t(14, 18): IgH + BCL-2
+
+	- marginal zone lymphoma:
+		- pathogenesis:
+			- t(11, 18): API2/MALT1
+
+
+
+L23 Hodgkins + T cell lymphoma:
+	- hodgkins:
+		- CD20- B-cell lymphoma
+		- types:
+			- nodular sclerosis: most common
+			- mixed cellularity: HIV, eosinophilia
+			- lymphocyte rich: best prognosis
+			- lymphocyte depleted: worst prognosis
+
+	- T-cell lymphoma:
+		- rare/heterogenous
+
+		- cutaneous T cell lymphoma (mycosis fungoides):
+			- indolent
+			- stages:
+				- patch-plaque stage
+				- tumor
+				- lymph node involvement
+				- sezary syndrome: leukemic involvement
+
+			- pathology:
+				- Pautrier microabscess: intraepidermal neoplastic cell aggregates
+				- sezary cell: CD4+ + "cerebriform nuclei"
+
+		- peripheral T cell lymphoma: PTCL-NOS:
+
+		- anaplastic large T cell lymphoma:
+			- ALK+: younger, t(2, 5) -> better prognosis
+			- pathology: horeshoe shaped nuclei
+
+		- HTLV-1 / adult T-cell leukemia/lymphoma (ATLL):
+			- pathology: flower cell
+			- markers: CD4+, CD25+, sometimes CD30+
+			- pathogeneis:
+				- driven by HTLV-1
+				- long latency
+			- epidimiology:
+				- endemic to africa, japan, and caribbean
+			- sx:
+				- hypercalcemia
+				- lytic bone lesions
+				- CNS lesions
+				- rash
+				- lymphadenopathy
+
+
+L24 multiple myeloma:
+	- multiple myeloma:
+
+	- monoclonal gammopathy of undetermined significance (MGUS):
+		- 1% per yr -> MM
+		- tx: observe 6-12 mos
+
+	– smoldering multiple myeloma (SMM):
+		- M-spike > 3
+		- BM clonal plasma >= 10%
+		- 50% at 5 yr -> MM
+		- observe every 3 months
+
+	– waldenstrom’s macroglobulinemia:
+		- rare
+		- lymphoplasmacytic cells
+		- MYD88 mutation
+		- M protein: IgM
+		- symptoms:
+			- hyperviscosity: blurry vision, headache, vertigo, stroke, etc
+			- oronasal bleeding
+			- hepatosplenomegaly, lymphadenopathy
+			- anemia, weakness
+			- neuropathy
+			- raynaud phenomenon
+
+	– AL amyloidosis:
+
+L25 CML + NPMs:
+	- CML:
+		- pathology:
+			- basophilia, thrombocytosis
+			- peripheral blood: looks like bone marrow
+			- bone marrow: hypercellular, increased myeloid:erythroid
+		- t(9, 22):
+
+	- polycythemia vera (PV):
+		- JAK2 V617F:
+
+		- pathology:
+			- bone marrow: moderate/marked hypercellularity
+			- large clustered megakaryocytes
+			- decreased iron stores
+			- increased reticulin fibers
+		- 3% mortality each year
+
+	- essential thrombocytosis (ET):
+		- course:
+			- 1% untreated -> AML
+			- 4-8% -> PMF
+
+	- primary myelofibrosis (PMF):
+		- pathology:
+			- BM fibrosis
+			- bizarre megakaryocyte hyperplasia
+			- extramedullary hematopoiesis
+				- in spleen, liver, etc
+			- teardrop RBCs
+			- blood looks like marrow	
+
+		- course:
+			- life expectancy: variable ~5 years
+			- risks:
+				- inv(3), del 5/7, +8, del 11q23
+			- 10-15% -> AML
