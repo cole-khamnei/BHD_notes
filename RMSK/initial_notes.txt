@@ -1,0 +1,176 @@
+vasculitis:
+	- symptoms:
+		- fever
+		- myalgia
+		- athralgia
+		- fatigue
+	- pathogenesis: WBCs in vessel walls
+	- palpable purpura: non-blanching raised purpura
+	- tx: steroids or cyclophosphamide
+
+	- types:
+		- large vessel:
+			- temporal (giant cell) arteritis:
+				- epidiomiology: asian female
+				- pathogenesis:
+					- inflammation of temporal artery
+				- sx:
+					- headache
+					- jaw pain (chewing)
+					- opthalmic artery occlusion -> blindness
+				- dx:
+					- high ESR
+					- biopsy: granulomas
+				- tx: steroids (asap cuz blindnessx)
+			
+			- takayasu's arteritis:
+				- epidiomiology: asian, mostly female (90%)
+				- pathogenesis:
+					- granulomatous thickening in aortic arch + branches
+				- sx:
+					- weak/pulseless limb
+					- BP difference between limbs
+					- bruits over arterities.
+				- dx: high ESR + aortagram
+				- tx: steroids
+
+		- medium vessel:
+			- kawasaki disease:
+				- epidiomiology: asian child
+				- pathogenesis:
+				- sx:
+					- diffuse red rash -> desquamation
+					- strawberry tongue + lips
+					- fever, lymphadenopathy
+					- thombrocytosis
+					- arthritis
+					- myocarditis
+					- risk: coronary aneurysm -> rupture = MI
+				- dx:
+				- tx: aspirin + IVIG
+
+			- buerger's disease:
+				- epidiomiology: male smokers
+				- pathogenesis:
+				- sx:
+					- smoker's hands/feet
+					- gangrene -> autoamputation
+					- superficial nodular phlebitis (tender)
+					- raynaud's phenomenon
+					- segmental thrombosing vasculitis
+				- dx:
+				- tx: smoking cessation
+
+			- polyarteritis nodosa:
+				- epidiomiology:
+				- pathogenesis:
+					- hepatitis B
+					- type III hypersensitivity - immune complexes
+					- biopsy: transmural inflammation - fibrinoid necrosis
+				- sx:
+					- aneurysms: renal, liver, or mesenteric arteries
+						- rosary sign
+					- neuro deficits
+					- skin: nodules + purpura
+					- prerenal failure
+				- dx: angiogram + biopsy
+				- tx: steroids + cyclophosphamide
+
+		- small vessel:
+			- henoch-schönlein purpura:
+				- epidiomiology: child (most peds vascuitis)
+				- pathogenesis:
+					- post-URI
+					- IgA + C3 deposition
+				- sx:
+					- palpable purpura on butt/legs
+					- GI: pain + melena
+					- renal: IgA nephropathy
+				- dx: biopsy
+				- tx: self limited, if severe: steroids + cyclophosphamide
+
+			- ANCA diseases:
+				- sx:
+					- lungs
+					- kidneys:
+						- crestentic rapidly progressive glomerulonephritis (RPGN)
+						- pauci immune: negative immunoflouroscence
+						- proteinuria + hematuria
+					- tx: steroids + cyclophosphamide
+				
+				- types:
+					- churg-strauss:
+						- pathogenesis: granulomas + necrosis
+						- sx:
+							- asthma
+							- sinusitis
+							- neuropathy
+							- palpable purpura
+						- dx: 
+							- p-ANCA
+							- high IgE
+							- eosinophilia
+
+					- microscopic polyangiitis:
+						- pathogenesis: no granulomas
+						- sx:
+							- hemoptysis
+							- purpura
+						- dx: p-ANCA: myeloperoxidase (MPO)
+
+					- wegener's granulomatosis:
+						- pathogenesis: granulomas
+						- sx:
+							- sinusitis
+							- otitis media
+							- hemoptysis
+							- upper + lower airway disease
+							- purpura
+						- dx: biopsy + c-ANCA: proteinase 3 (PR3)
+						
+
+	- scarlet fever:
+		- sx:
+			- fever, pharyngitis
+			- diffuse red papule rash -> desquamation
+			- sand paper skin
+			- seeded strawberry tongue
+
+	- reye's syndrome:
+		- sx:
+			- encephalopathy
+			- fatty liver failure
+			- vomiting
+			- confusion
+			- seizures
+			- coma
+		- pathogenesis:
+			- follows virus: flue, varicella
+			- diffuse mitochondrial insult
+			- aspirin use for kids EXCEPT kawasaki
+
+
+	- goodpasture's syndrome:
+		- pathogenesis:
+			- type II hypersensitivity
+			- antibody to collagen
+				- alpha-3 chain of IV
+				- anti-GBM
+				- anti-alveoli
+			- biospy: linear immunoflouroscence 
+				- IgG + C3 deposition
+		- sx:
+			- hemoptysis
+			- nephritis syndrome
+		- epidiomiology: young man
+
+
+
+
+
+
+
+
+
+
+

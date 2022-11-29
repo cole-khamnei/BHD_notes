@@ -1,0 +1,108 @@
+L3 diabetes type 1:
+	- diabetes mellitus physiology:
+		- 70-99mg/dl nromal range
+		- post-prandial < 140mg/dl
+		- dx:
+			- FPG >= 126 mg/dl (fast >= 8h)
+			- 2h PG >= 200 mg/dl OGTT
+			- A1C >= 6.5%
+			- hyperglycemia symptoms + random PG >= 200 mg/dl
+
+		- types:
+			- type 1: destruction of β-cells
+			- type 2: loss of β-cell insulin secretion + insulin resistance
+			- gestational diabetes: 2nd or 3rd trimester dx
+			- other: monogenic diabetes syndromes, exocrine pancrease diseases, drug induced
+
+	- diabetes type 1:
+		- symptoms:
+			- polydipsia
+			- polyphagia
+			- polyuria
+			- nocturnal enuersis
+			- weight loss
+			- irritable
+			- emesis + lethargy
+		- tx:
+			- always insulin!
+		- epidiomiology:
+			- onset: 5-7 yo and after puberty
+				- 9 mo to 90 yo
+			- increasing incidence
+			- M:F = 1.32
+			- incidence: 1:300 normal, 1:20 if 1st degree relative
+		
+		- risks:
+			- HLA DR3/4
+			- FH of autoimmunity
+			- triggers: maybe viruses, nutrition, hygiene
+		- pathogenesis:
+			- autoreactive T cells
+			- normal iselt -> insulitis (autoantibodies present) -> β-cell destruction (over diabetes)
+		- dx:
+			- antibodies:
+				- GAD65: glutamic acid decarboxylase
+				- ICA: islet cell antibodies
+				- IAA: insulin autoantibodies
+				- zinc transporter
+		- tx:
+			- prevention: teplizumab (anti-CD3) delays onset
+			- 
+		- course:
+			- precipitating event -> normal insulin -> insulin loss/normal glucose
+			- C-peptide present (overt diabetes) -> no C-peptide
+
+	- diabetic ketoacidosis:
+		- symptoms:
+			- emesis + lethargy
+		- physical exam:
+			- tired
+			- sunken eyes
+			- dry mucous membranes
+			- tachycardia
+			- increased cap refill
+			- cold extremities
+		- signs:
+			- kussmaul respirations
+			- hyperglycemia
+			- acidosis
+			- acetone breath
+			- ketones + glucose in urine
+		- tx:
+			- IV fluids
+			- insulin drip
+
+	- insulin pathways:
+		- released from β-cells
+		- stimulates glucose usage/uptake
+			- uptake mainly in skeletal muscles
+			- insulin binds insulrin receptor -> GLUT4 membrane fusion
+
+	- insulin + blood sugar management:
+		- types:
+			- rapid (2h): lispro, aspart, glulisine
+			- short (5h): regular
+			- intermediate (12): nph
+			- long acting: glargine, detemir
+
+		- paradigm:
+			- bolus + basal
+			- basal:
+				- always need insulin, constant dose
+				- suppresses gluconeogenesis at night + between meals
+			- bolus:
+				- 15 mins preprandial
+				- needed for all carbs
+				- dose ~ f(PG, carb load)
+		- limits:
+			- subq not rapid enough for SUGARY stuff
+			- insulin irreversible -> hypoglycemic risk
+			- expensive
+
+		- check PG:
+			- before meals, bed, driving
+			- pre/post exercise
+			- 6-10x per day
+
+		- pumps:
+			- microdoses (.025 unitsq)
