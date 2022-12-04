@@ -1,0 +1,73 @@
+L1: endocrine histology:
+	- sheehan's syndrome
+
+L2: intro:
+	- grave's disease
+	- pseudohypoparathyroidism
+	- diabetic ketoacidosis
+	- addisonian crisis
+	- thyroid storm
+	- myxedema coma
+	- hypocalcemic seizures
+	- hypercalcemic crisis
+	- pituitary apoplexy
+
+L3: T1DM
+L4: T2DM
+	- gestational diabetes
+	- pancreatic cancer
+L5: complications of DM:
+	- diabetic ketoacidosis (DKA)
+	- hypoglycemia
+	- hyperosmolar hyperglycemic state (HHS)
+	- diabetic retinopathy
+	- diabetic neuropathy
+	- diabetic nephropathy
+	- cardiovascular disease
+	- insulin lipodystrophy
+
+L6: treatment of DM
+L7: obesity pandemic:
+	- MC4R deficiency
+
+L8: obesity treatment
+L9: pituitary physiology:
+	- central diabetes insipidus
+L10: pituitary diseases:
+	- pituitary tumors:
+		- hormone secreting
+		- non-hormone secreting
+	- pituitary hyperplasia
+	- non-pituitary tumors:
+		- craniopharyngiomas
+	- sheehan syndrome
+	- empty sella syndrome
+	- pituitary apoplexy
+
+	- hypopituitarism:
+		- secondary adrenal insufficiency
+		- secondary hypothyroidism
+		- secondary hypogonadism
+		- growth hormone deficiency
+		- vasopressin deficiency
+	- acromegaly
+	- cushing's disease
+	- TSH producing pituitary tumor
+	- hyperprolectinemia
+
+L11-12:
+L13:
+L14:
+L15:
+L16:
+L17:
+L18:
+L19:
+L20:
+L21:
+L22:
+L23:
+L24:
+L25:
+L26:
+L27:

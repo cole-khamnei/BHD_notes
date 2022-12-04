@@ -1,0 +1,48 @@
+- overview (2):
+	- 1: histology + overview
+	- 2: overview
+
+- diabetes (4):
+	- 3: T1
+	- 4: T2
+	- 5: complications
+	- 6: treatments
+
+- obesity (2):
+	- 7: obesity
+	- 8: nutrition
+
+- pituitary (2):
+	- 9: physiology
+	- 10: diseases
+
+- adrenal (2):
+	- 11: physiology
+	- 12: diseases
+
+- growth hormone (2):
+	- 13: growth
+	- 14: GH dysfunction
+
+- reproduction (5):
+	- 15: male reproduction
+	- 16: female reproduction
+	- 17: assisted reproduction
+	- 20: pregnancy
+	- 21: pregnancy prevention
+
+- acne + hirsutism + gender (3):
+	- 18: acne
+	- 18_II: hirsutism
+	- 19: gender affirming care
+
+- thyroid (4):
+	- 22: normal
+	- 23: diseases
+	- 24_I: structural diseases
+	- 24_II: nodules/cancer
+
+- calcium + phosphate (3):
+	- 25: regulation
+	- 26: hyper/hypocalcemia
+	- 27: osteoporosis

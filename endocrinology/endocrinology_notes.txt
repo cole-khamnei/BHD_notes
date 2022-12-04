@@ -3,9 +3,9 @@ L3 diabetes type 1:
 		- 70-99mg/dl nromal range
 		- post-prandial < 140mg/dl
 		- dx:
-			- FPG >= 126 mg/dl (fast >= 8h)
-			- 2h PG >= 200 mg/dl OGTT
-			- A1C >= 6.5%
+			- FPG >= 126 mg/dl (fast >= 8h): more accurate
+			- 2h PG >= 200 mg/dl OGTT: dxs more people, more accurate
+			- A1C >= 6.5%: less accurate w/ hemoglobinopathies
 			- hyperglycemia symptoms + random PG >= 200 mg/dl
 
 		- types:
@@ -105,4 +105,857 @@ L3 diabetes type 1:
 			- 6-10x per day
 
 		- pumps:
-			- microdoses (.025 unitsq)
+			- microdoses (.025 units)
+			- uses rapid insulin analogs
+			- enter PG + carb load -> gives bolus
+			- pump failure -> DKA
+			- hypoglycemia
+
+		- pump + glucose sensor:
+
+L4:
+	- β-cell physiology:
+		- high glucose -> into β-cell by GLUT2 receptor -> increased ATP/ADP
+		- increased ATP/ADP -> closes K+ channels -> Ca+ wave -> exocytosis of insulin
+	
+	- β-cell pathophysiology:
+		- hyperglycemia -> increased ROS -> islet inflammation + death
+		- increased free fatty acids -> increased endoplasmic reticulum stress
+		- high fat diet -> impaired GLUT2 receptors
+		- amyloid plaques in islets
+		- lower β-cell mass -> higher T2DM risk with increased BMI
+
+	- insulin resistance:
+		- insulin binds insulin receptor (tyrosine kinase) -> GLUT4 bind with membrane
+		- IR or GLUT4 muts -> insulin resistance
+		- chronic inflammation -> decreased GLUT4 release
+
+	- hypertrophic adipose:
+		- with insulin stimulation:
+			- reduced: glucose uptake, triglyercide synthesis
+			- increased: FFA release, hypoxia, inflammation
+
+	- microbiome:
+		- gut inflammation -> insulin resistance
+	
+	- DM liver:
+		- proinflammation + oxidative stress:
+			- impaired glycogen synthesis
+			- unsuppressed gluconeogenesis
+			- pro-inflammatory proteins (CRP)
+			- increased lipogenesis
+		- increased glucagon in T2DM -> gluconeogenesis
+
+	- diabetes type II:
+		- epidiomiology:
+			- 90% of DM cases
+			- 15% increase risk of death
+			- 2x med costs
+			- 60% risk for early death
+
+		- screening:
+			- overweight
+			- 1st degree relative w/ DM
+			- high risk:
+				- HTN, TG > 250, HDL < 35
+				- PCOS
+				- race: non white
+			- pre-diabetes: every year
+			- women with hx of gestational diabetes - 3y
+			- HIV ART: yearly
+			- rest: at age 35, every 3 years
+
+		- risks:
+			- monogenic:
+				- maturity onset diabetes of the young (MODY)
+				- 1-4% incidence
+			- polygenic: 90% twins, 40% have >= 1 parent w/ T2DM
+
+		- pathophysiology:
+			- reduced insulin secretion
+			- insulin resistance
+			- increased gluconeogenesis
+
+		- symptoms:
+			- acanthosis nigricans
+
+		- prevention:
+			- lifestyle:
+				- 7% weight loss, 150 mins/week activity
+				- 58% reduction
+			- metformin:
+				- consider for pre-diabetes + high BMI + <60yo + gestational DM
+				- 31% reduction
+			- bariatric surgery: 78% reduction
+
+	- gestational diabetes:
+		- pregnant person develops diabetes in 2nd or 3rd trimester
+		- screening:
+			- high risk: 1st trimester
+			- routine: 24-28 week w/ OGTT
+		- 2nd + 3rd trimester:
+			- increased GH, prolactin, lactogen, CRH, and progesterone
+			- increase IR
+		- risks:
+			- preeclampsia
+			- macrosomia
+			- delivery issues
+			- neonatal respiratory + metabolic issues
+			- T2DM: 50% of gestational
+
+	- drug induced diabetes:
+		- medications:
+			- glucocorticoids
+			- immunosuppressants
+			- statins
+
+	- exocrine pancreas diseases:
+		- cystic fibrosis:
+			- mucous overproduction -> β-cell destruction
+			- presents as combo of T1DM + T2Dm
+			- treat with only insulin
+
+		- hemochromatosis: iron overload -> β-cell dysfunction + insulin resistance
+		- chronic pancreatitis: glucose intolerance -> diabetes in late stages
+
+	- pancreatic cancer: 80% present with new onset T2DM
+
+
+
+L5 DM complications:
+
+	- diabetic ketoacidosis (DKA):
+		- absolute or relative insulin deficiency
+		- signs:
+			- triad:
+				- hyperglycemia
+				- ketonemia
+				- anion gap metabolic acidosis
+					- pH < 7.3, anion gap > 10, bicarb < 18
+		- symptoms:
+			- rapid onset
+			- hyperglycemia: polyuria, polydipsia, blurred vision
+			- dehydration: dizziness, dry mucosa, tachycardic, hypotensive
+			- acidosis:
+				- kussmaul breathing, fruity breath
+				- nausea, vomitting, abdominal pain
+			- hyperosmolarity:
+				- lethargy -> coma
+
+		- precipitating factors:
+			- infection
+			- insulin omission
+			- T1DM onset
+			- drugs: glucocorticoids, atypical antipsychotics, cocaine,
+			- GI illness: pancreatitis
+			- other: MI, pregnancy
+
+		- pathophysiology:
+			- insulin deficiency
+			- counter hormones (glucagon, cortisol) -> glycogenolysis, gluconeogenesis + lipolysis
+			- hyperglycemia -> osmotic diuresis -> electrolyte loss -> volume depletion, decreased GFR -> worse hyperglycemia
+
+		- tx:
+			- IV fluids
+			- correct electrolytes
+			- correct acidosis/hyperglycemia with insulin
+
+	- hyperosmolar hyperglycemic state (HHS):
+		- DKA w/o acidosis
+		- signs:
+			- hyperglycemia: often >600mg/dl
+			- hyperosmolarity: >320 mOsmol/kg
+			- serum pH > 7.3
+			- absent/mild ketones
+
+
+	- hypoglycemia:
+		- PG < 55mg/dl
+		- whipple's triad: hypoglycemic symptoms + low PG + fixing PG fixes symptoms
+		- physiology:
+			- counterregulatory:
+				- decrease insulin
+				- increase glucagon
+				- increase epi -> increase gluconeogenesis
+				- increase cortisol + GH -> increase gluconeogenesis + IR
+		- symptoms:
+			- autonomic: palpitations, tremor, anxiety
+			- neuroglycopenic symptoms: dizziness, confusion, weakness
+
+		- tx:
+			- oral 15g glucose/dextrose or 1mg glucagon
+			- 25-50ml of 50% dextrose + water
+
+	- diabetes mellitus complications:
+		- pathophysiology:
+			- increased polyol pathway:
+				- hyperglycemia -> saturates hexokinase -> increased polyol pathway -> reduced NADPH/NAD+
+				- reduced NADPH/NAD+ -> reduced glutathione synthesis -> icnreased ROS
+			- advanced glycosylation end products (AGEs):
+				- hyperglycemia -> glycolsulation of proteins -> AGEs
+				- AGES effect:
+					- gene transcription
+					- increased cytokines + growth factors -> vascular damage
+					- cell dysfunction
+			- activated protein kinase C (PKC):
+				- increased NF-kB, ROS, PAL-1, TGF-B, VEGF
+				- decreased eNOS
+
+		- types:
+			- miscrovascular:
+				- retinopathy:
+					- epidiomiology: 85% at 20 years
+					- classifications:
+						- non-proliferative: no new vessel
+							- exudates
+							- microaneurysms
+							- hemorrhage
+						- proliferative: new vessels
+							- neovascularization
+						- macular edema: retinal thickening + macular edema
+					- tx:
+						- anti-VEGF occular injections
+						- laser ablation
+						- vitrectomy: tiny cuts -> remove blood
+
+				- neuropathy:
+					- epidiomiology: 40% at 10 years
+					- types:
+						- autonomic:
+							- causes significant mortality risk
+							- symptoms:
+								- cardio: tachycardiam, orthostatic hypotension, silent ischemia, sudden death: ventricular arrhythmias
+
+								- GI: GERD, gastroperesis, enteropathy, colonic hypomotility								
+						- distal symmetric polyneuropathy:
+							- 75% of diabetic neuropathy
+							- large fibers:
+								- myelinated
+								- loss of protective sensation
+								- proprioception loss
+									- poor balance
+									- decreased vibration sense
+									- decreased ankle reflex
+								- leads to ulcers, callus, + amputations
+
+							- small fibers:
+								- no myelin
+								- symptoms:
+									- dysesthesias: burning pain
+									- hyperalgesia: exaggerated pain
+									- allodynia: pain on painless contact
+									- paresthesia
+									- decreased thermal discrimination
+				
+				- nephropathy:
+					- epidiomiology:
+						- < 40% of DM
+						- 40% of people on dialysis have DM nephropathy
+					- course:
+						- stages:
+							- early: hyperfiltration: increased GFR -> thickened GBM + mesangial expansion
+							- microalbuminuria: Ualbumin 30-300mg
+							- macroalbuminuria: Ualbumin >300mg, decreased GFR + increased BP
+							- ESRD: uremia -> HD/transplant
+					- prevention:
+						- lifestyle mods
+						- tight PG control: SGLT-2i + GLP-1 agonists
+						- hypertension control
+						- ACEi/ARBs for htx or macroalbuminuria
+
+			- macrovascular:
+				- CVD: 2-4x OR
+					- heart: angina, MI
+					- peripheral: claudication, ulceration, gangrene
+					- cerebral: TIA, stroke
+				- skin manifestations
+					- 80% of diabetes
+					- types:
+						- infections
+						- xerosis
+						- inflammatory: necrobiosis lipoidica
+
+L6: treatment of DM:
+	- medications:
+		- metformin:
+			- cheap
+			- weight neutral (sometimes loss)
+			- low hypoglycemia risk
+			- 1.5% A1C decrease
+			- contraindicated:
+				- renal insufficiency
+				- metabolic acidosis
+				- alcoholism, age > 80
+				- unstable CHF, COPD
+		- 
+	- treatment paradigm:
+		- 1st: metformin
+		- 
+
+
+
+
+L7: obesity:
+	- epidiomiology:
+		- 73% US overweight, 43% obese
+
+	- BMI heritability ~ 70%
+	- MC4R defiency:
+		- hyperphagia, obesity
+		- increased BMD
+		- increased linear growth
+		- hyperinsulinemia
+
+	- weight regulation pathophysiology:
+		- NPY/AgRP neuron: increase appetite
+			- stimulated by ghrelin
+			- inhibited by GLP-1, PYY, leptin, insulin
+		- POMC neuron: decrease appetite
+			- stimulated by leptin, insulin
+
+		- sleep loss -> increased cortisol -> increased appetite
+
+	- ACEs increase obesity risk
+	
+	- weight gain meds:
+		- CCB (DHB)
+		- anti-diabetics: insulin, sulfonylureas, TZDs
+
+	- high BMI -> diabetes risk
+
+	- BMI:
+		- classifications:
+			- <18.5: underweight
+			- 18.5-25: normal
+			- 25-30: overweight
+			- 30-35: obesity I
+			- 35-40: obesity II
+			- >= 40: obesity III
+
+	- tx:
+		- paradigm:
+			- lifestyle mods + health coaching:
+				- all
+			- pharmocatherapy
+				- obese I-III
+				- short term:
+					- phentermine:
+						- noradrenergic -> stimulates POMC
+					- diethypropion
+				- long term:
+					- metformin: increased insulin glc uptake
+					- phentermine-topiramate:
+						- noradrenergic + inhibits NPY/AgRP -> decreased appetite
+						- teratogenic, glaucoma, renal stones
+					- naltrexone-bupropion:
+						- µ opioid blocker -> stops auto-inhibition of POMC -> decreased appetite
+					- orlistat:
+						- inhibits lipases -> fat malabsorption
+					- GLP-1 agonists (liraglutide, semaglutide):
+						- stimulates POMC
+						- inhibits NPY/AgRP
+						- increased post-prandial insulin
+						- delayed gastric emptying
+
+			- devices / endoscopic:
+				- overweight/obese I-III
+				- cellulose hydrogel: increase volume -> satiety, 6% loss in 6mos
+				- intragastric balloons: 15% loss at 6mos (removal), 8% loss at 12mos
+
+				- endoscopic sleeve gastroplasty:
+					- staple stomach in spots
+					- 20% loss at 2 years
+			- bariatric surgery:
+				- obesity III
+				- types:
+					- gastric band: 15%
+					- sleeve gastrectomy: 20%
+					- roux-en-y gastric bypass: 30%
+	
+	- hormones:
+		- ghrelin: from stomach -> causes hunger
+		- PYY:
+			- from ileum + colon -> delays gastric emptying
+			- post-prandial satiety factor
+
+L8: nutrition:
+	- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L27: calcium phosphate metabolism:
+	- skeleton:
+		- RANK system:
+			- RANKL: released by osteoblasts
+			- RANK: on pre-osteoclasts -> osteoclasts mature + activity
+			- OPG: RANKL decoy
+				- estrogen -> OPG -| RANKL (low estrong -> osteoclast activity)
+
+	- calcium homeostasis:
+		- range:  8.5-10.2 mg/dl
+		- plasma compartments:
+			- ionized (50%)
+			- protein bound (40%)
+			- complexed (10%)
+
+		- compartment shifters:
+			- albumin: changes total calcium, no effect on ionized
+				- correct total ca = total_calcium + 0.8 * (4.0 - serum_albumin)
+			- acid-base: more acidic (lower pH) -> higher ionized, total calcium same
+			- anion concentration (phosphate + sulfate): higher phos -> lower ionized, total calcium same
+			- if acid-base imbalance or PO4 change (ESRD) -> measure ionized calcium directly
+
+		- calcium homeostasis:
+			- GI absorption:
+				- duodenum + upper jejunum
+				- active: TRPV6 (importer) -> calbindin -> PMCA (extruder)
+					- calcitriol -> increased TRPV6 + PMCA 
+				- passive (main source)
+			
+			- bone remodeling:
+				- PTH + calcitriol -> increased bone resorption
+				- calcitonin -> decreases bone resorption
+
+			- renal:
+				- normal calciuria: 100-300 mg/day
+				- passive reabsorption: 60% in PT + 30% in TAL
+				- active: 9% in DT
+					- TRPV5 (importer) -> calbindin -> NCX/PMCA
+						- upregulated by calcitriol + PTH
+
+			- PTH:
+				- CaSR (g protein) -> arachidonic acid prodcution -| PTH secretion
+				- PTH receptor: g protein -> adenylate cyclase -> cAMP -> PKA etc
+
+				- targets (increases calcium):
+					- intestine (indirect):
+						- PTH -> renal 1α-hydroxylase -> calcitriol -> calcium absorption
+					- kidney:
+						- PTH -> renal 1α-hydroxylase -> calcitriol 
+						- PTH -> TRPV5 + NCX + PMCA + calbindin
+						- PTH -> increases lumen charge -> increased passive absorption
+					
+					- skeleton:
+						- PTH (osteoblast receptor) -> increase RANKL and decreases OPG
+
+			- vitamin D:
+				- D3: cholecalciferol
+				- calcitriol binds VDR, complexes with RXR (retinoid X receptor) -> transcription
+				- synthesis:
+					- if calcium high -> make 24,25(OH)2D
+					- if low -> make calcitriol (1,25(OH)2D)
+
+				- 1α-hydroxylase control:
+					- PTH increases production
+					- low calcium -> increased PTH -> increased production
+					- FGF-23 -| 1α-hydroxylase + activates 24α-hydroxylase
+					- calcitriol (negative feedback):
+						- binds parathyroid receptors -> decreases PTH
+						- increases 24α-hydroxylase
+						- inhibits 1α-hydroxylase
+
+				- calcitriol targets (increases serum calcium):
+					- GI: increases TRPV6 + PMCA
+					- skeleton: increases bone resorption
+					- renal: increases TRPV5 + calbindin
+
+			- calcitonin:
+				- parafollicular C cells of thyroid -> secretory granules
+				- actions:
+					- skeleton: inhibits osteoclasts/resorption
+					- renal: increases calciuria
+				- used as hypercalcemia + osteoporosis therapy
+
+
+	- phosphate homestasis:
+		- GI absorbtion:
+			- jejunum
+			- active: NPT2b (increased by calcitriol)
+			- passive: unregulated
+
+		- skeleton:
+			- PTH + FGF-23 increase resorption
+
+		- renal:
+			- reabsortpion: 90% in PT + 10% excreted
+			- NaPi-IIa/NaPi-IIc/PIT-2 (importers)
+				- PTH + FGF-23 control trafficking
+				- calcitriol -> NaPi expression?
+
+		- phosphate:
+			- low phosphate -> increases NaPi-IIa -> increases PO4 reabsorption
+
+		- PTH (overall decreases PO4):
+			- GI: PTH -> calcitriol -> increase PO4 reabsorption
+			- skeleton: PTH -> bone resorption
+			- renal:
+				- PTH -> decreased NaPO4 cotransporter -> decreased PO4 reabsorption
+			- high PTH: renal dominates -> low PO4
+
+		- FGF-23 (decreases PO4):
+			- "phosphatonin"
+			- secreted by osteoblasts/cytes
+			- effects:
+				- increases PO4 excretion
+				- decrease 1α-hydroxylase -> decreased calcitriol -> decreased GI PO4 absorption
+			- states:
+				- high FGF-23: hypophosphatemia, osteomalacia, muscle weakness
+				- low FGF-23: hyperphosphatemia, soft tissue calcification
+			- renal failure -> reduced PO4 filtration -> increased FGF-23 to lower PO4
+
+		- calcitriol (raises PO4):
+			- GI: increased phosphate absorption
+			- skeletal: calcitriol -> bone resorption
+			- renal: increased reabsorption
+
+
+
+L26: hypo/hypercalcemia:
+	- calcium regulation:
+		- low Ca -> activate CaSRs in parathyroid
+		- CaSR activation -> PTH release
+			- bone resorption -> increased calcium + phosphate
+			- calcidiol (kidneys) -> calcitriol -> increased calcium + phosphate GI absorption
+			- kidney: increased reabsorption calcium + decreased phosphate reabsorption
+
+
+	- hypercalcemia:
+		- symptoms:
+			- fatigue -> concentration -> confusion -> death
+			- GI: anorexia, nausea/vomiting, constipation, pancreatitis
+			- nephrogenic DI, dehydration, renal insufficiency, nephrolithiasis
+			- MSK: weakness, hyporeflexia, bone pain/fractures
+			- cardio: short QT interval, bradycardia, cardiac arrest
+		- pathophysiology:
+			- feedback: hypercalcemia -> nephrogenic DI -> dehydration + reduced fluid intake -> worse hypercalcemia
+		- tx:
+			- paradigm:
+				- Ca < 12 mg/dl: avoid thiazisdes, lithium, volume depletion, etc
+				- 12-14 mg/dl: treat if symptomatic
+				- >14 mg/dl: treat
+			- lower calcium:
+				- IV saline
+				- possible lasix
+				- calcitonin:
+					- osteoclast inhibitor
+					- calcuretic
+					- rapid but tachiphylactic
+				- bisphosphonate: only IV -> zoledronate (preferred), pamidronate
+				- glucocorticoids: reduced GI calcium absorption
+				- denosumab: if refractory to bisphosphonates
+				- dialysis
+				- cinacalcet: for parathryoid cancer
+		- causes:
+			- primary hyperparathyroidism (55%):
+				- excessive production by 1+ nodes
+				- epidiomiology:
+					- 1/1,000
+					-  3:1 women to men
+					- early post menopause (50s)
+				- pathophysiology:
+					- shifted PTH set point
+					- loss of corticol bone (affects radius > lumbar)
+				- symptoms:
+					- "not sick"
+					- 80% asymptomatic
+					- classic: osteitis fibrosa cystica, nephrolithiasis, hypercalciuria
+				- dx:
+					- high serum calcium + normal/high PTH
+					- low calcidiol + high/normal calcitriol
+				- tx:
+					- parathyroidectomy
+					- surgery if:
+						- stones or bone disease
+						- hypercalcemia | hypercalciuria
+						- reduced eGFR
+						- <50 yo
+
+			- malignancy (35%):
+				- dx: low/no PTH
+				- causes:
+					- humoral hypercalcemia of malignancy (HHM) (80%):
+						- squamous cell, renal, bladder, etc
+						- PTHrP:
+							- normal function: ca to breast milk, embryogenesis + development, paracrine
+							- binds PTH1 receptor
+							- does not increase 1-α-hydroxylase
+
+					- osteolytic metatases (20%):
+						- breast cancer, multiple myeloma
+						- pathophysiology:
+							- inflammation (IL-6, local PTHrP, M-CSF) -> increased osteoclast acivity
+							- increase RANKL + decrease OPG
+							- cycle: bone resorption -> cancer growth -> more bone resorption
+
+					- calcitriol prodution by tumor:
+						- lymphoma
+						- calcitriol -> increased GI absorption -> hypercalcemia
+			- other:
+				- increased GI absorption: vitamin D intoxication, granulomatous disorders
+				- other: pheochromocytoma, rhabdomyolysis, theophylline
+
+	- hypocalcemia:
+		- symptoms:
+			- paresthesias
+			- perioral/acral numbness
+			- altered mental status
+			- seizures
+			- laryngospasms / bronchospasms
+			- death
+		- signs:
+			- chvostek's: facial twitch
+			- trouseau's: carpopedal spasm
+			- cardiac: bradycardia, CHF, prolonged QT, arrythmia
+		- causes:
+			- high PTH:
+				- vitamin D defiency | vitamin D metabolic issue (ESRD)
+				- PTH resistance: hypomagnesemia
+				- calcium loss: ESRD/hyperphosphatemia, pancreatitis
+				- drugs: impaired skeletal calcium release: bisphosphonates, etc 
+			
+			- low PTH (hypoparathyroidism):
+				- dx:
+					- hypocalcemia >= 2 occasion >= 2 weeks apart
+					- low/no PTH
+
+				- causes:
+					- destruction: surgery, autoimmune, malignancy, etc
+					- hypoparathyroidism: hypo/hypermagnesemia (cisplatin, alcoholism, diuretics), CaSR mut
+					- genetic: digeorge's, etc
+			- renal failure
+			- pancreatitis:
+		- tx:
+			- paradigm:
+				- plan:
+					- give bolus calcium
+					- give IV drip
+					- start oral maintenance: overlap with IV drips
+				
+				- confounders:
+					- hypomagnesemia: correct mg first then calcium
+					- acidosis: correct calcium first then pH
+				- give IV calcium:
+					- symptomatic hypocalcemia: treat
+					- prolonged QT (always)
+					- serum calcium <= 7.5 mg/dl
+					- chronic hypocalcemia + unable to take PO calcium
+					- seizure history
+
+			- bolus calcium gluconate (1-2 amps):
+				- give over >= 15 mins, else cardiac arrest
+				- only lasts 2 hours
+
+			- IV calcium gluconate drip:
+				- 11 amps over 6-8 hours
+				- dilute with D5W
+					- prevents vein irritation
+				- correct calcium then acidosis
+				- monitor EKG if relevent/on digoxin
+
+			- maintenance:
+				- oral citrate or carbonate (needs food/acid)
+				- oral vitamin D:
+					- parent D
+					- if unable to make calcitriol: give rocaltrol (calcitriol)
+				- thiazides: control hypercalciuria -> prevent stones
+				- PTH therapy:
+					- natpara: helps reduce calcitriol + calcium maintenance doses
+					- teriparatide
+					- transcon PTH: better than natpara
+					- recombinant PTH: inadequate control of calcium
+
+
+L27: osteoporosis and bone diseases:
+	- osteoporosis:
+		- epidiomiology:
+			- lifetime risks: 23% women + 7% men
+			- risks:
+				- age
+				- fracture hx
+				- gender / menopausal status
+				- low BMI
+				- low diet Ca + D
+				- parental hx of hip fractures
+
+		- pathophysiology:
+			- small increase in BMD (6%) -> reduced large fracture risk (V66%, H40%)
+			- steroids: decreased BMD
+				- Ca++: increased excretion + reduced absorption
+				- decreased osteoblast count
+				- decreased LH/FSH -> decreased sex steroids -> decreased BMD
+			- osteoblast activity:
+				- slerostin -> inhibited WNT/β-catenin signaling -> reduced osteoblast activity
+				- osteoblast activity -> bone formation + osteoprotegrin (OPG) release -> RANKLr decoy
+		- screening:
+			- women >= 65 or men >= 70
+			- risks (fracture, RA, steroids): start at 50-59
+
+		- dx:
+			- fracture risk algorithm FRAX:
+				- DXA + age + BMI + ethnicity + prior falls + etc
+				- treat if: major fracture risk >20% or hip fracture risk >3%
+			- vertebral fracture assessment (VFA):
+				- use: if height loss > 1.5 inches
+			- dual energy x-ray absorptiometry (DXA) scan:
+			 	- osteopenia: T-score <= -1.0
+			 	- osteoporosis: T-score <= -2.5 or prior hip/spine fracture
+		- tx:
+			- lifestyle:
+				- increase exercise
+				- smoking cessation
+				- reduce alcohol
+				- keep BMI > 20
+				- minimize steroids
+
+			- calcium + vitamin D:
+				- prevention is controversial
+				- recommend:
+					- total calcium: 1000-1500
+					- vitamin D: 1000-1200 IU/d
+			- anti-resorptive:
+				- estrogen:
+					- increase BMD + decrease fractures
+					- high TE risk
+				- selective estrogen receptor modulator SERM (raloxifene):
+					- agonist at bone: only at vertebra
+					- antagonist at breast: decreases breast cancer risk + increases TE risk
+				- bisphosphonates:
+					- binds hydroxyapatite -> engulfed by osteoclast -> inhibits mevalonate pathawy -> inhibits osteoclast
+					- use:
+						- increases BMD: plateau at 3-4 yrs
+						- largest BMD increase: trabecular sites (highest turnover)
+						- antifracture effects: persists 3-5 yrs after stopping
+					- types:
+						- zoledronic acid: IV, best
+						- alendronate
+					- risks:
+						- only use eGFR > 30 ml/mn
+						- upper GI symptoms: sit upright for 30 mins postdose
+						- zoledronate: 2-3 days flu-like symptoms first dose
+						- if vitamin D defienct -> hypocalcemia
+				- denosumab:
+					- anti-RANKL
+					- increases BMD: no plateau at 10 yrs
+					- use:
+						- correct vitamin D defiency first
+						- subq q6mo
+						- eGFR < 30: hypocalcemia risk
+
+			- anabolic:
+				- rebound effect on stopping -> taper with anti-resorptive
+				- paratides (teriparatide + abaloparatide):
+					- PTH analog -> activate PTH1R -> PKA/C -> osteoblast activity
+					- risks:
+						- osteosarcoma (2 yr limit)
+						- teriparatide: mild transient postdose hypercalcemia
+						- abaloparatide: nausea, headache, palpitations
+				- romosozumab:
+					- anti-sclerostin
+					- best anabolic
+					- risks: MI + stroke
+
+	- osteomalacia:
+		- characteristics:
+			- reduced bone mineralization
+			- extra osteoid
+		- symptoms:
+			- diffuse dull bone pain
+			- tenderness + muscle weakness
+			- waddling gait
+			- minimal trauma -> fractures
+		- rickets:
+			- pediatric form: defective mineralization at epiphyseal growth plates
+			- signs:
+				- widened long bone ends
+				- knees: bowed + fragile
+		- dx: x-ray -> blurring + deformity
+		- causes: vitamin D defiency
+	
+	- chronic kidney disasee - metabolic bone disease (CKD-MBD):
+		- characteristics:
+		- pathophysiology:
+			- CKD -> increased phosphate -> increased FGF-23 (lowers phos) -> decreased calcitriol
+			- increased phosphate + decreased calcitriol -> decreased calcium -> increased PTH
+			- increased PTH -> bone erosion
+		- types:
+			- osteitis fibrosa cystica: ↑ turnover, excess PTH
+			- osteomalacia: ↓ mineralization
+			- adynamic bone disease: ↓ turnover
+				- excessive PTH suppression tx (calcitriol) -> low PTH -> adynamic
+				- tx: backoff calcitriol
+			- mixed bone disease: ↑ turnover, 
+	
+	- paget's disease:
+		- characteristics:
+			- focal accelerated bone remodeling
+			- lytic + osteoblastic lesions
+		- symptoms: asymptomatic or pain/deformities
+		- dx: elevated alkaline phosphatase or X-ray
+		- tx:
+			- bisphophonate
+			- monitor alkaline phosphatase
+
+	- osteogenesis imperfecta:
+		- characteristics:
+			- inherited brittle bones
+			- minimal trauma -> fractures
+		- pathogenesis: muts in type 1 collagen
+		- signs: blue sclera
+		- tx: bisphosphonates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
